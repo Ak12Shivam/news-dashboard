@@ -8,3 +8,4 @@ google-generativeai
 geopy
 matplotlib
 pandas
+wikipedia
