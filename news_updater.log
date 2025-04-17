@@ -1,0 +1,2365 @@
+2025-04-17 10:31:56 - INFO - Starting news update: 2025-04-17 10:31:56 AM
+2025-04-17 10:31:56 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-17 10:31:56 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 10:31:56 - INFO - Fetched 29 articles from NewsAPI
+2025-04-17 10:31:56 - INFO - Scraping 122 URLs
+2025-04-17 10:31:56 - ERROR - Error scraping https://www.yourstory.com: 403 Client Error: Forbidden for url: https://www.yourstory.com/
+2025-04-17 10:31:57 - INFO - Scraped 13951 chars from https://www.digit.in
+2025-04-17 10:31:57 - INFO - Scraped 9894 chars from https://www.thehindubusinessline.com
+2025-04-17 10:31:57 - INFO - Scraped 5007 chars from https://www.wired.com
+2025-04-17 10:31:57 - INFO - Scraped 8827 chars from https://www.theverge.com
+2025-04-17 10:31:57 - INFO - Scraped 50000 chars from https://www.techradar.com/in
+2025-04-17 10:31:57 - INFO - Scraped 7180 chars from https://www.livemint.com
+2025-04-17 10:31:57 - INFO - Scraped 5252 chars from https://www.inc42.com
+2025-04-17 10:31:58 - INFO - Scraped 3509 chars from https://www.forbes.com
+2025-04-17 10:31:58 - ERROR - Error scraping https://www.bloomberg.com: 403 Client Error: Forbidden for url: https://www.bloomberg.com/
+2025-04-17 10:31:58 - INFO - Scraped 913 chars from https://www.practo.com/healthfeed
+2025-04-17 10:31:58 - INFO - Scraped 8722 chars from https://www.techcrunch.com
+2025-04-17 10:31:58 - INFO - Scraped 50000 chars from https://www.businessinsider.com
+2025-04-17 10:31:59 - INFO - Scraped 5801 chars from https://www.indiatoday.in/health
+2025-04-17 10:31:59 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 10:31:59 - INFO - Scraped 10881 chars from https://www.mashable.com
+2025-04-17 10:31:59 - INFO - Scraped 13188 chars from https://www.ft.com
+2025-04-17 10:31:59 - INFO - Scraped 2841 chars from https://www.medlineplus.gov
+2025-04-17 10:31:59 - INFO - Scraped 50000 chars from https://www.moneycontrol.com
+2025-04-17 10:31:59 - INFO - Scraped 1024 chars from https://www.healthline.com
+2025-04-17 10:31:59 - INFO - Scraped 4238 chars from https://www.medicalnewstoday.com
+2025-04-17 10:31:59 - INFO - Scraped 5718 chars from https://www.thehindu.com/education
+2025-04-17 10:31:59 - INFO - Scraped 8047 chars from https://www.timesofindia.indiatimes.com/life-style/health-fitness
+2025-04-17 10:32:00 - INFO - Scraped 15513 chars from https://www.indiatoday.in/education-today
+2025-04-17 10:32:00 - INFO - Scraped 7454 chars from https://www.webmd.com
+2025-04-17 10:32:00 - INFO - Scraped 23398 chars from https://www.gizmodo.com
+2025-04-17 10:32:00 - INFO - Scraped 911 chars from https://www.mayoclinic.org
+2025-04-17 10:32:00 - INFO - Scraped 0 chars from https://www.edsurge.com
+2025-04-17 10:32:00 - INFO - Scraped 2075 chars from https://www.edweek.org
+2025-04-17 10:32:00 - INFO - Scraped 10474 chars from https://www.indiatoday.in/sports
+2025-04-17 10:32:00 - INFO - Scraped 7405 chars from https://www.sportstar.thehindu.com
+2025-04-17 10:32:01 - INFO - Scraped 3157 chars from https://www.thehindu.com/sport
+2025-04-17 10:32:01 - INFO - Scraped 1057 chars from https://www.timesofindia.indiatimes.com/sports
+2025-04-17 10:32:01 - INFO - Scraped 12905 chars from https://www.skysports.com
+2025-04-17 10:32:01 - INFO - Scraped 2088 chars from https://www.timesofindia.indiatimes.com/education
+2025-04-17 10:32:01 - ERROR - Error scraping https://www.bleacherreport.com: 403 Client Error: Forbidden for url: https://bleacherreport.com/
+2025-04-17 10:32:01 - INFO - Scraped 10708 chars from https://www.bbc.com/sport
+2025-04-17 10:32:01 - INFO - Scraped 16139 chars from https://www.insidehighered.com
+2025-04-17 10:32:01 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 10:32:02 - INFO - Scraped 5046 chars from https://www.thehindu.com/sci-tech
+2025-04-17 10:32:02 - INFO - Scraped 28849 chars from https://www.espn.com
+2025-04-17 10:32:02 - INFO - Scraped 404 chars from https://www.timesofindia.indiatimes.com/home/science
+2025-04-17 10:32:02 - INFO - Scraped 12522 chars from https://www.indiatoday.in/movies
+2025-04-17 10:32:02 - INFO - Scraped 19003 chars from https://www.newscientist.com
+2025-04-17 10:32:02 - ERROR - Error scraping https://www.pinkvilla.com: 404 Client Error: Not Found for url: https://www.pinkvilla.com/
+2025-04-17 10:32:02 - INFO - Scraped 17233 chars from https://www.scientificamerican.com
+2025-04-17 10:32:02 - INFO - Scraped 13264 chars from https://www.si.com
+2025-04-17 10:32:02 - INFO - Scraped 11686 chars from https://www.sciencenews.org
+2025-04-17 10:32:03 - INFO - Scraped 53 chars from https://www.edtechmagazine.com
+2025-04-17 10:32:03 - INFO - Scraped 19492 chars from https://www.filmfare.com
+2025-04-17 10:32:03 - INFO - Scraped 4382 chars from https://www.bollywoodhungama.com
+2025-04-17 10:32:03 - INFO - Scraped 2172 chars from https://www.nationalgeographic.com/science
+2025-04-17 10:32:04 - INFO - Scraped 12631 chars from https://www.billboard.com
+2025-04-17 10:32:04 - INFO - Scraped 18766 chars from https://www.rollingstone.com
+2025-04-17 10:32:05 - INFO - Scraped 6048 chars from https://www.thrillophilia.com/blog
+2025-04-17 10:32:05 - INFO - Scraped 13614 chars from https://www.hollywoodreporter.com
+2025-04-17 10:32:05 - INFO - Scraped 21119 chars from https://www.nature.com
+2025-04-17 10:32:05 - INFO - Scraped 50000 chars from https://www.variety.com
+2025-04-17 10:32:05 - INFO - Scraped 11335 chars from https://www.deadline.com
+2025-04-17 10:32:05 - INFO - Scraped 130 chars from https://www.outlookindia.com/outlooktraveller
+2025-04-17 10:32:05 - INFO - Scraped 9260 chars from https://www.perniaspopupshop.com
+2025-04-17 10:32:05 - INFO - Scraped 8933 chars from https://www.cntraveler.com
+2025-04-17 10:32:06 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 10:32:06 - INFO - Scraped 19719 chars from https://www.femina.in
+2025-04-17 10:32:06 - INFO - Scraped 12749 chars from https://www.travelandleisure.com
+2025-04-17 10:32:06 - INFO - Scraped 7526 chars from https://www.harpersbazaar.com
+2025-04-17 10:32:06 - INFO - Scraped 6927 chars from https://www.lonelyplanet.com
+2025-04-17 10:32:06 - INFO - Scraped 5923 chars from https://www.gq.com
+2025-04-17 10:32:06 - INFO - Scraped 5882 chars from https://www.elle.com
+2025-04-17 10:32:06 - INFO - Scraped 9247 chars from https://www.vogue.com
+2025-04-17 10:32:06 - INFO - Scraped 3615 chars from https://www.sanjeevkapoor.com
+2025-04-17 10:32:06 - INFO - Scraped 1315 chars from https://www.archanaskitchen.com
+2025-04-17 10:32:07 - INFO - Scraped 3152 chars from https://www.hebbarskitchen.com
+2025-04-17 10:32:07 - INFO - Scraped 6893 chars from https://www.proptiger.com
+2025-04-17 10:32:07 - INFO - Scraped 9345 chars from https://www.allrecipes.com
+2025-04-17 10:32:07 - INFO - Scraped 1569 chars from https://www.nationalgeographic.com/travel
+2025-04-17 10:32:07 - INFO - Scraped 3545 chars from https://www.seriouseats.com
+2025-04-17 10:32:07 - ERROR - Error scraping https://www.housing.com: 403 Client Error: Forbidden for url: https://housing.com:443/
+2025-04-17 10:32:07 - INFO - Scraped 15765 chars from https://www.traveltriangle.com
+2025-04-17 10:32:07 - INFO - Scraped 2140 chars from https://www.curbed.com
+2025-04-17 10:32:07 - INFO - Scraped 0 chars from https://www.gaadiwaadi.com
+2025-04-17 10:32:08 - INFO - Scraped 7471 chars from https://www.cardekho.com
+2025-04-17 10:32:08 - INFO - Scraped 9501 chars from https://www.autocarindia.com
+2025-04-17 10:32:08 - INFO - Scraped 2946 chars from https://www.commonfloor.com
+2025-04-17 10:32:08 - INFO - Scraped 21126 chars from https://www.magicbricks.com
+2025-04-17 10:32:08 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 10:32:08 - INFO - Scraped 4882 chars from https://www.thehindu.com/sci-tech/energy-and-environment
+2025-04-17 10:32:08 - INFO - Scraped 416 chars from https://www.timesofindia.indiatimes.com/home/environment
+2025-04-17 10:32:09 - INFO - Scraped 4241 chars from https://www.treehugger.com
+2025-04-17 10:32:09 - INFO - Scraped 11615 chars from https://www.theguardian.com/environment
+2025-04-17 10:32:09 - INFO - Scraped 9988 chars from https://www.scientificamerican.com/environment
+2025-04-17 10:32:09 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 10:32:09 - INFO - Scraped 5480 chars from https://www.timesofindia.indiatimes.com/life-style
+2025-04-17 10:32:09 - INFO - Scraped 3612 chars from https://www.autocar.co.uk
+2025-04-17 10:32:09 - INFO - Scraped 5046 chars from https://www.idiva.com
+2025-04-17 10:32:10 - INFO - Scraped 42733 chars from https://www.ecowatch.com
+2025-04-17 10:32:10 - INFO - Scraped 19719 chars from https://www.femina.in
+2025-04-17 10:32:10 - INFO - Scraped 1996 chars from https://www.nationalgeographic.com/environment
+2025-04-17 10:32:10 - INFO - Scraped 5428 chars from https://www.self.com
+2025-04-17 10:32:10 - INFO - Scraped 12071 chars from https://www.overdrive.in
+2025-04-17 10:32:10 - INFO - Scraped 409 chars from https://www.refinery29.com
+2025-04-17 10:32:10 - INFO - Scraped 1383 chars from https://www.indiandefensenews.in
+2025-04-17 10:32:11 - INFO - Scraped 922 chars from https://www.globalsecurity.org
+2025-04-17 10:32:11 - INFO - Scraped 1957 chars from https://www.bharat-rakshak.com
+2025-04-17 10:32:11 - INFO - Scraped 24723 chars from https://www.bbc.com/news
+2025-04-17 10:32:12 - INFO - Scraped 23830 chars from https://www.mindbodygreen.com
+2025-04-17 10:32:12 - INFO - Scraped 3496 chars from https://www.wellandgood.com
+2025-04-17 10:32:12 - INFO - Scraped 17030 chars from https://www.spsmai.com
+2025-04-17 10:32:12 - INFO - Scraped 2971 chars from https://www.janes.com
+2025-04-17 10:32:12 - INFO - Scraped 13784 chars from https://www.defenseone.com
+2025-04-17 10:32:12 - INFO - Scraped 21448 chars from https://www.defensenews.com
+2025-04-17 10:32:12 - INFO - Scraped 25078 chars from https://www.militarytimes.com
+2025-04-17 10:32:12 - INFO - Scraped 8611 chars from https://www.thehindu.com
+2025-04-17 10:32:13 - INFO - Scraped 50000 chars from https://www.hindustantimes.com
+2025-04-17 10:32:13 - INFO - Scraped 50000 chars from https://www.defenceaviationpost.com
+2025-04-17 10:32:13 - INFO - Scraped 2536 chars from https://www.timesofindia.indiatimes.com
+2025-04-17 10:32:13 - INFO - Scraped 15586 chars from https://www.indiatoday.in
+2025-04-17 10:32:13 - INFO - Scraped 11660 chars from https://www.nytimes.com
+2025-04-17 10:32:13 - INFO - Scraped 34722 chars from https://www.cnn.com
+2025-04-17 10:32:14 - ERROR - Error scraping https://www.curofy.com: HTTPSConnectionPool(host='www.curofy.com', port=443): Read timed out. (read timeout=15)
+2025-04-17 10:32:14 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 10:32:14 - INFO - Scraped 13242 chars from https://www.news18.com
+2025-04-17 10:32:14 - INFO - Scraped 113 URLs successfully
+2025-04-17 10:32:14 - INFO - Clustering 4183 sentences into 20 clusters
+2025-04-17 10:32:16 - INFO - Selected 14 sentences
+2025-04-17 10:32:16 - INFO - Selected 14 sentences
+2025-04-17 10:32:25 - INFO - Selected 14 sentences
+2025-04-17 10:32:34 - INFO - Selected 14 sentences
+2025-04-17 10:32:37 - INFO - Selected 14 sentences
+2025-04-17 10:32:38 - INFO - Selected 14 sentences
+2025-04-17 10:32:41 - INFO - Selected 14 sentences
+2025-04-17 10:32:44 - INFO - Selected 14 sentences
+2025-04-17 10:32:50 - INFO - Selected 14 sentences
+2025-04-17 10:33:00 - INFO - Selected 14 sentences
+2025-04-17 10:33:03 - INFO - Selected 14 sentences
+2025-04-17 10:33:04 - INFO - Selected 14 sentences
+2025-04-17 10:33:07 - INFO - Selected 14 sentences
+2025-04-17 10:33:09 - INFO - Selected 14 sentences
+2025-04-17 10:33:15 - INFO - Selected 14 sentences
+2025-04-17 10:33:21 - INFO - Selected 14 sentences
+2025-04-17 10:33:34 - INFO - Selected 14 sentences
+2025-04-17 10:33:45 - INFO - Selected 14 sentences
+2025-04-17 10:33:47 - INFO - Selected 6 sentences
+2025-04-17 10:33:50 - INFO - Selected 6 sentences
+2025-04-17 10:33:55 - INFO - Selected 14 sentences
+2025-04-17 10:33:57 - INFO - Selected 14 sentences
+2025-04-17 10:34:18 - INFO - Selected 14 sentences
+2025-04-17 10:34:32 - INFO - Selected 14 sentences
+2025-04-17 10:34:36 - INFO - Selected 14 sentences
+2025-04-17 10:34:38 - INFO - Selected 14 sentences
+2025-04-17 10:34:41 - INFO - Selected 14 sentences
+2025-04-17 10:34:42 - INFO - Selected 14 sentences
+2025-04-17 10:34:45 - INFO - Selected 14 sentences
+2025-04-17 10:34:46 - INFO - Selected 14 sentences
+2025-04-17 10:34:52 - INFO - Selected 14 sentences
+2025-04-17 10:34:55 - INFO - Selected 14 sentences
+2025-04-17 10:34:59 - INFO - Selected 14 sentences
+2025-04-17 10:35:01 - INFO - Selected 14 sentences
+2025-04-17 10:35:05 - INFO - Selected 14 sentences
+2025-04-17 10:35:06 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /search?q=Multi&format=json&limit=1
+2025-04-17 10:35:12 - INFO - Selected 14 sentences
+2025-04-17 10:35:16 - INFO - Selected 14 sentences
+2025-04-17 10:35:20 - INFO - Selected 14 sentences
+2025-04-17 10:35:24 - INFO - Selected 14 sentences
+2025-04-17 10:35:25 - INFO - Selected 14 sentences
+2025-04-17 10:35:27 - INFO - Data written to static/data\news_analysis_20250417_103527.json
+2025-04-17 10:35:31 - INFO - Graphs saved: topic_entities_graph_20250417_103530.png, topic_distribution_pie_20250417_103530.png
+2025-04-17 10:35:31 - INFO - News update completed successfully
+2025-04-17 10:43:59 - INFO - Starting news update: 2025-04-17 10:43:59 AM
+2025-04-17 10:43:59 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-17 10:43:59 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 10:43:59 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 10:44:00 - INFO - Fetched 30 articles from NewsAPI
+2025-04-17 10:44:00 - INFO - Scraping 122 URLs
+2025-04-17 10:44:00 - ERROR - Error scraping https://www.yourstory.com: 403 Client Error: Forbidden for url: https://www.yourstory.com/
+2025-04-17 10:44:01 - INFO - Scraped 13887 chars from https://www.digit.in
+2025-04-17 10:44:01 - INFO - Scraped 9993 chars from https://www.thehindubusinessline.com
+2025-04-17 10:44:01 - INFO - Scraped 5007 chars from https://www.wired.com
+2025-04-17 10:44:01 - INFO - Scraped 8830 chars from https://www.theverge.com
+2025-04-17 10:44:01 - INFO - Scraped 10881 chars from https://www.mashable.com
+2025-04-17 10:44:01 - INFO - Scraped 50000 chars from https://www.techradar.com/in
+2025-04-17 10:44:01 - INFO - Scraped 7144 chars from https://www.livemint.com
+2025-04-17 10:44:01 - INFO - Scraped 5252 chars from https://www.inc42.com
+2025-04-17 10:44:02 - ERROR - Error scraping https://www.bloomberg.com: 403 Client Error: Forbidden for url: https://www.bloomberg.com/
+2025-04-17 10:44:02 - INFO - Scraped 915 chars from https://www.practo.com/healthfeed
+2025-04-17 10:44:02 - INFO - Scraped 3510 chars from https://www.forbes.com
+2025-04-17 10:44:02 - ERROR - Error scraping https://www.curofy.com: 502 Server Error: Bad Gateway for url: https://www.curofy.com/
+2025-04-17 10:44:03 - INFO - Scraped 50000 chars from https://www.moneycontrol.com
+2025-04-17 10:44:03 - INFO - Scraped 50000 chars from https://www.businessinsider.com
+2025-04-17 10:44:03 - INFO - Scraped 5801 chars from https://www.indiatoday.in/health
+2025-04-17 10:44:03 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 10:44:03 - INFO - Scraped 13247 chars from https://www.ft.com
+2025-04-17 10:44:03 - INFO - Scraped 5718 chars from https://www.thehindu.com/education
+2025-04-17 10:44:03 - INFO - Scraped 911 chars from https://www.mayoclinic.org
+2025-04-17 10:44:03 - INFO - Scraped 2841 chars from https://www.medlineplus.gov
+2025-04-17 10:44:03 - INFO - Scraped 7454 chars from https://www.webmd.com
+2025-04-17 10:44:04 - INFO - Scraped 1024 chars from https://www.healthline.com
+2025-04-17 10:44:04 - INFO - Scraped 23398 chars from https://www.gizmodo.com
+2025-04-17 10:44:04 - INFO - Scraped 8722 chars from https://www.techcrunch.com
+2025-04-17 10:44:04 - INFO - Scraped 8047 chars from https://www.timesofindia.indiatimes.com/life-style/health-fitness
+2025-04-17 10:44:04 - INFO - Scraped 15513 chars from https://www.indiatoday.in/education-today
+2025-04-17 10:44:04 - INFO - Scraped 0 chars from https://www.edsurge.com
+2025-04-17 10:44:04 - INFO - Scraped 4238 chars from https://www.medicalnewstoday.com
+2025-04-17 10:44:04 - INFO - Scraped 2075 chars from https://www.edweek.org
+2025-04-17 10:44:04 - INFO - Scraped 25854 chars from https://www.indiatoday.in/sports
+2025-04-17 10:44:04 - INFO - Scraped 3157 chars from https://www.thehindu.com/sport
+2025-04-17 10:44:05 - INFO - Scraped 7405 chars from https://www.sportstar.thehindu.com
+2025-04-17 10:44:05 - INFO - Scraped 12888 chars from https://www.skysports.com
+2025-04-17 10:44:05 - INFO - Scraped 1057 chars from https://www.timesofindia.indiatimes.com/sports
+2025-04-17 10:44:05 - INFO - Scraped 10708 chars from https://www.bbc.com/sport
+2025-04-17 10:44:05 - INFO - Scraped 16139 chars from https://www.insidehighered.com
+2025-04-17 10:44:05 - ERROR - Error scraping https://www.bleacherreport.com: 403 Client Error: Forbidden for url: https://bleacherreport.com/
+2025-04-17 10:44:05 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 10:44:05 - INFO - Scraped 2088 chars from https://www.timesofindia.indiatimes.com/education
+2025-04-17 10:44:06 - INFO - Scraped 5046 chars from https://www.thehindu.com/sci-tech
+2025-04-17 10:44:06 - INFO - Scraped 19003 chars from https://www.newscientist.com
+2025-04-17 10:44:06 - INFO - Scraped 12522 chars from https://www.indiatoday.in/movies
+2025-04-17 10:44:06 - INFO - Scraped 29637 chars from https://www.espn.com
+2025-04-17 10:44:06 - INFO - Scraped 404 chars from https://www.timesofindia.indiatimes.com/home/science
+2025-04-17 10:44:07 - INFO - Scraped 13278 chars from https://www.si.com
+2025-04-17 10:44:07 - INFO - Scraped 53 chars from https://www.edtechmagazine.com
+2025-04-17 10:44:07 - INFO - Scraped 11686 chars from https://www.sciencenews.org
+2025-04-17 10:44:07 - INFO - Scraped 50000 chars from https://www.pinkvilla.com
+2025-04-17 10:44:07 - INFO - Scraped 2172 chars from https://www.nationalgeographic.com/science
+2025-04-17 10:44:07 - INFO - Scraped 19492 chars from https://www.filmfare.com
+2025-04-17 10:44:08 - INFO - Scraped 12631 chars from https://www.billboard.com
+2025-04-17 10:44:08 - INFO - Scraped 13614 chars from https://www.hollywoodreporter.com
+2025-04-17 10:44:08 - INFO - Scraped 21119 chars from https://www.nature.com
+2025-04-17 10:44:08 - INFO - Scraped 18720 chars from https://www.rollingstone.com
+2025-04-17 10:44:09 - INFO - Scraped 8933 chars from https://www.cntraveler.com
+2025-04-17 10:44:09 - INFO - Scraped 50000 chars from https://www.variety.com
+2025-04-17 10:44:09 - INFO - Scraped 4392 chars from https://www.bollywoodhungama.com
+2025-04-17 10:44:09 - INFO - Scraped 6048 chars from https://www.thrillophilia.com/blog
+2025-04-17 10:44:09 - INFO - Scraped 11335 chars from https://www.deadline.com
+2025-04-17 10:44:09 - INFO - Scraped 9260 chars from https://www.perniaspopupshop.com
+2025-04-17 10:44:10 - INFO - Scraped 130 chars from https://www.outlookindia.com/outlooktraveller
+2025-04-17 10:44:10 - INFO - Scraped 12749 chars from https://www.travelandleisure.com
+2025-04-17 10:44:10 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 10:44:10 - INFO - Scraped 1569 chars from https://www.nationalgeographic.com/travel
+2025-04-17 10:44:10 - INFO - Scraped 19719 chars from https://www.femina.in
+2025-04-17 10:44:10 - INFO - Scraped 7526 chars from https://www.harpersbazaar.com
+2025-04-17 10:44:10 - INFO - Starting news update: 2025-04-17 10:44:10 AM
+2025-04-17 10:44:10 - WARNING -  * Debugger is active!
+2025-04-17 10:44:10 - INFO -  * Debugger PIN: 699-656-660
+2025-04-17 10:44:10 - INFO - Scraped 5923 chars from https://www.gq.com
+2025-04-17 10:44:10 - INFO - Scraped 5882 chars from https://www.elle.com
+2025-04-17 10:44:10 - INFO - Scraped 3615 chars from https://www.sanjeevkapoor.com
+2025-04-17 10:44:11 - INFO - Scraped 9247 chars from https://www.vogue.com
+2025-04-17 10:44:11 - INFO - Scraped 1315 chars from https://www.archanaskitchen.com
+2025-04-17 10:44:11 - INFO - Fetched 30 articles from NewsAPI
+2025-04-17 10:44:11 - INFO - Scraping 122 URLs
+2025-04-17 10:44:11 - INFO - Scraped 6927 chars from https://www.lonelyplanet.com
+2025-04-17 10:44:11 - INFO - Scraped 3152 chars from https://www.hebbarskitchen.com
+2025-04-17 10:44:11 - INFO - Scraped 6893 chars from https://www.proptiger.com
+2025-04-17 10:44:11 - ERROR - Error scraping https://www.yourstory.com: 403 Client Error: Forbidden for url: https://www.yourstory.com/
+2025-04-17 10:44:11 - INFO - Scraped 9345 chars from https://www.allrecipes.com
+2025-04-17 10:44:11 - INFO - Scraped 9993 chars from https://www.thehindubusinessline.com
+2025-04-17 10:44:11 - INFO - Scraped 3545 chars from https://www.seriouseats.com
+2025-04-17 10:44:11 - INFO - Scraped 13887 chars from https://www.digit.in
+2025-04-17 10:44:12 - INFO - Scraped 8830 chars from https://www.theverge.com
+2025-04-17 10:44:12 - INFO - Scraped 2946 chars from https://www.commonfloor.com
+2025-04-17 10:44:12 - INFO - Scraped 10881 chars from https://www.mashable.com
+2025-04-17 10:44:12 - ERROR - Error scraping https://www.housing.com: 403 Client Error: Forbidden for url: https://housing.com:443/
+2025-04-17 10:44:12 - INFO - Scraped 5007 chars from https://www.wired.com
+2025-04-17 10:44:12 - INFO - Scraped 7144 chars from https://www.livemint.com
+2025-04-17 10:44:12 - INFO - Scraped 9502 chars from https://www.autocarindia.com
+2025-04-17 10:44:12 - INFO - Scraped 7471 chars from https://www.cardekho.com
+2025-04-17 10:44:12 - INFO - Scraped 5252 chars from https://www.inc42.com
+2025-04-17 10:44:12 - INFO - Scraped 0 chars from https://www.gaadiwaadi.com
+2025-04-17 10:44:12 - INFO - Scraped 2100 chars from https://www.curbed.com
+2025-04-17 10:44:12 - INFO - Scraped 15765 chars from https://www.traveltriangle.com
+2025-04-17 10:44:12 - INFO - Scraped 21126 chars from https://www.magicbricks.com
+2025-04-17 10:44:13 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 10:44:13 - INFO - Scraped 416 chars from https://www.timesofindia.indiatimes.com/home/environment
+2025-04-17 10:44:13 - INFO - Scraped 4882 chars from https://www.thehindu.com/sci-tech/energy-and-environment
+2025-04-17 10:44:13 - INFO - Scraped 3510 chars from https://www.forbes.com
+2025-04-17 10:44:13 - INFO - Scraped 50000 chars from https://www.techradar.com/in
+2025-04-17 10:44:13 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 10:44:13 - INFO - Scraped 50000 chars from https://www.businessinsider.com
+2025-04-17 10:44:13 - ERROR - Error scraping https://www.bloomberg.com: 403 Client Error: Forbidden for url: https://www.bloomberg.com/
+2025-04-17 10:44:13 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 10:44:13 - INFO - Scraped 5046 chars from https://www.idiva.com
+2025-04-17 10:44:13 - INFO - Scraped 4241 chars from https://www.treehugger.com
+2025-04-17 10:44:13 - INFO - Scraped 5801 chars from https://www.indiatoday.in/health
+2025-04-17 10:44:13 - INFO - Scraped 954 chars from https://www.practo.com/healthfeed
+2025-04-17 10:44:14 - INFO - Scraped 9988 chars from https://www.scientificamerican.com/environment
+2025-04-17 10:44:14 - INFO - Scraped 13196 chars from https://www.ft.com
+2025-04-17 10:44:14 - INFO - Scraped 50000 chars from https://www.moneycontrol.com
+2025-04-17 10:44:14 - INFO - Scraped 5415 chars from https://www.timesofindia.indiatimes.com/life-style
+2025-04-17 10:44:14 - INFO - Scraped 3612 chars from https://www.autocar.co.uk
+2025-04-17 10:44:14 - INFO - Scraped 11615 chars from https://www.theguardian.com/environment
+2025-04-17 10:44:14 - INFO - Scraped 5718 chars from https://www.thehindu.com/education
+2025-04-17 10:44:14 - INFO - Scraped 19719 chars from https://www.femina.in
+2025-04-17 10:44:14 - INFO - Scraped 23398 chars from https://www.gizmodo.com
+2025-04-17 10:44:14 - INFO - Scraped 2841 chars from https://www.medlineplus.gov
+2025-04-17 10:44:14 - INFO - Scraped 12071 chars from https://www.overdrive.in
+2025-04-17 10:44:14 - INFO - Scraped 1996 chars from https://www.nationalgeographic.com/environment
+2025-04-17 10:44:14 - INFO - Scraped 5428 chars from https://www.self.com
+2025-04-17 10:44:14 - INFO - Scraped 42733 chars from https://www.ecowatch.com
+2025-04-17 10:44:14 - INFO - Scraped 409 chars from https://www.refinery29.com
+2025-04-17 10:44:14 - INFO - Scraped 23830 chars from https://www.mindbodygreen.com
+2025-04-17 10:44:15 - INFO - Scraped 8047 chars from https://www.timesofindia.indiatimes.com/life-style/health-fitness
+2025-04-17 10:44:15 - INFO - Scraped 8722 chars from https://www.techcrunch.com
+2025-04-17 10:44:15 - INFO - Scraped 911 chars from https://www.mayoclinic.org
+2025-04-17 10:44:15 - INFO - Scraped 2075 chars from https://www.edweek.org
+2025-04-17 10:44:15 - INFO - Scraped 15513 chars from https://www.indiatoday.in/education-today
+2025-04-17 10:44:15 - INFO - Scraped 1383 chars from https://www.indiandefensenews.in
+2025-04-17 10:44:15 - INFO - Scraped 4238 chars from https://www.medicalnewstoday.com
+2025-04-17 10:44:15 - INFO - Scraped 1024 chars from https://www.healthline.com
+2025-04-17 10:44:15 - INFO - Scraped 2088 chars from https://www.timesofindia.indiatimes.com/education
+2025-04-17 10:44:15 - INFO - Scraped 0 chars from https://www.edsurge.com
+2025-04-17 10:44:15 - INFO - Scraped 7454 chars from https://www.webmd.com
+2025-04-17 10:44:15 - INFO - Scraped 922 chars from https://www.globalsecurity.org
+2025-04-17 10:44:15 - INFO - Scraped 25854 chars from https://www.indiatoday.in/sports
+2025-04-17 10:44:15 - INFO - Scraped 24307 chars from https://www.militarytimes.com
+2025-04-17 10:44:15 - INFO - Scraped 1957 chars from https://www.bharat-rakshak.com
+2025-04-17 10:44:15 - INFO - Scraped 24735 chars from https://www.bbc.com/news
+2025-04-17 10:44:16 - INFO - Scraped 17030 chars from https://www.spsmai.com
+2025-04-17 10:44:16 - INFO - Scraped 3157 chars from https://www.thehindu.com/sport
+2025-04-17 10:44:16 - INFO - Scraped 7405 chars from https://www.sportstar.thehindu.com
+2025-04-17 10:44:16 - INFO - Scraped 16139 chars from https://www.insidehighered.com
+2025-04-17 10:44:16 - ERROR - Error scraping https://www.bleacherreport.com: 403 Client Error: Forbidden for url: https://bleacherreport.com/
+2025-04-17 10:44:16 - INFO - Scraped 2971 chars from https://www.janes.com
+2025-04-17 10:44:16 - INFO - Scraped 13784 chars from https://www.defenseone.com
+2025-04-17 10:44:16 - INFO - Scraped 3496 chars from https://www.wellandgood.com
+2025-04-17 10:44:16 - INFO - Scraped 8636 chars from https://www.thehindu.com
+2025-04-17 10:44:16 - INFO - Scraped 12888 chars from https://www.skysports.com
+2025-04-17 10:44:16 - INFO - Scraped 1057 chars from https://www.timesofindia.indiatimes.com/sports
+2025-04-17 10:44:16 - INFO - Scraped 10708 chars from https://www.bbc.com/sport
+2025-04-17 10:44:16 - INFO - Scraped 21448 chars from https://www.defensenews.com
+2025-04-17 10:44:16 - INFO - Scraped 50000 chars from https://www.hindustantimes.com
+2025-04-17 10:44:17 - INFO - Scraped 15648 chars from https://www.indiatoday.in
+2025-04-17 10:44:17 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 10:44:17 - INFO - Scraped 50000 chars from https://www.defenceaviationpost.com
+2025-04-17 10:44:17 - INFO - Scraped 2172 chars from https://www.nationalgeographic.com/science
+2025-04-17 10:44:17 - INFO - Scraped 5046 chars from https://www.thehindu.com/sci-tech
+2025-04-17 10:44:17 - INFO - Scraped 34722 chars from https://www.cnn.com
+2025-04-17 10:44:17 - INFO - Scraped 12522 chars from https://www.indiatoday.in/movies
+2025-04-17 10:44:17 - INFO - Scraped 2536 chars from https://www.timesofindia.indiatimes.com
+2025-04-17 10:44:17 - INFO - Scraped 13278 chars from https://www.si.com
+2025-04-17 10:44:18 - INFO - Scraped 404 chars from https://www.timesofindia.indiatimes.com/home/science
+2025-04-17 10:44:18 - INFO - Scraped 17233 chars from https://www.scientificamerican.com
+2025-04-17 10:44:18 - INFO - Scraped 29726 chars from https://www.espn.com
+2025-04-17 10:44:18 - INFO - Scraped 11617 chars from https://www.nytimes.com
+2025-04-17 10:44:18 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 10:44:18 - INFO - Scraped 13209 chars from https://www.news18.com
+2025-04-17 10:44:18 - INFO - Scraped 50000 chars from https://www.pinkvilla.com
+2025-04-17 10:44:18 - INFO - Scraped 19003 chars from https://www.newscientist.com
+2025-04-17 10:44:18 - INFO - Scraped 19492 chars from https://www.filmfare.com
+2025-04-17 10:44:18 - INFO - Scraped 53 chars from https://www.edtechmagazine.com
+2025-04-17 10:44:18 - INFO - Scraped 11686 chars from https://www.sciencenews.org
+2025-04-17 10:44:19 - INFO - Scraped 4392 chars from https://www.bollywoodhungama.com
+2025-04-17 10:44:19 - INFO - Scraped 12631 chars from https://www.billboard.com
+2025-04-17 10:44:19 - INFO - Scraped 18720 chars from https://www.rollingstone.com
+2025-04-17 10:44:19 - INFO - Scraped 13614 chars from https://www.hollywoodreporter.com
+2025-04-17 10:44:19 - INFO - Scraped 1569 chars from https://www.nationalgeographic.com/travel
+2025-04-17 10:44:19 - INFO - Scraped 8933 chars from https://www.cntraveler.com
+2025-04-17 10:44:19 - INFO - Scraped 50000 chars from https://www.variety.com
+2025-04-17 10:44:19 - INFO - Scraped 130 chars from https://www.outlookindia.com/outlooktraveller
+2025-04-17 10:44:20 - INFO - Scraped 6048 chars from https://www.thrillophilia.com/blog
+2025-04-17 10:44:20 - INFO - Scraped 9260 chars from https://www.perniaspopupshop.com
+2025-04-17 10:44:20 - INFO - Scraped 21119 chars from https://www.nature.com
+2025-04-17 10:44:20 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 10:44:20 - INFO - Scraped 12749 chars from https://www.travelandleisure.com
+2025-04-17 10:44:20 - INFO - Scraped 11335 chars from https://www.deadline.com
+2025-04-17 10:44:20 - INFO - Scraped 7526 chars from https://www.harpersbazaar.com
+2025-04-17 10:44:20 - INFO - Scraped 5882 chars from https://www.elle.com
+2025-04-17 10:44:20 - INFO - Scraped 19719 chars from https://www.femina.in
+2025-04-17 10:44:20 - ERROR - Error scraping https://www.scientificamerican.com: HTTPSConnectionPool(host='www.scientificamerican.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000244E4F154F0>, 'Connection to www.scientificamerican.com timed out. (connect timeout=15)'))
+2025-04-17 10:44:20 - INFO - Scraped 113 URLs successfully
+2025-04-17 10:44:20 - INFO - Scraped 5923 chars from https://www.gq.com
+2025-04-17 10:44:21 - INFO - Scraped 6917 chars from https://www.lonelyplanet.com
+2025-04-17 10:44:21 - INFO - Clustering 4362 sentences into 20 clusters
+2025-04-17 10:44:21 - INFO - Scraped 3615 chars from https://www.sanjeevkapoor.com
+2025-04-17 10:44:21 - INFO - Scraped 9247 chars from https://www.vogue.com
+2025-04-17 10:44:21 - INFO - Scraped 1315 chars from https://www.archanaskitchen.com
+2025-04-17 10:44:21 - INFO - Scraped 6893 chars from https://www.proptiger.com
+2025-04-17 10:44:21 - INFO - Scraped 3545 chars from https://www.seriouseats.com
+2025-04-17 10:44:21 - INFO - Scraped 9345 chars from https://www.allrecipes.com
+2025-04-17 10:44:21 - ERROR - Error scraping https://www.housing.com: 403 Client Error: Forbidden for url: https://housing.com:443/
+2025-04-17 10:44:21 - INFO - Scraped 2100 chars from https://www.curbed.com
+2025-04-17 10:44:22 - INFO - Scraped 9502 chars from https://www.autocarindia.com
+2025-04-17 10:44:22 - INFO - Scraped 3152 chars from https://www.hebbarskitchen.com
+2025-04-17 10:44:22 - INFO - Scraped 2946 chars from https://www.commonfloor.com
+2025-04-17 10:44:22 - INFO - Scraped 0 chars from https://www.gaadiwaadi.com
+2025-04-17 10:44:22 - INFO - Scraped 12071 chars from https://www.overdrive.in
+2025-04-17 10:44:22 - INFO - Scraped 21126 chars from https://www.magicbricks.com
+2025-04-17 10:44:23 - INFO - Scraped 7471 chars from https://www.cardekho.com
+2025-04-17 10:44:23 - INFO - Scraped 15765 chars from https://www.traveltriangle.com
+2025-04-17 10:44:23 - INFO - Scraped 1996 chars from https://www.nationalgeographic.com/environment
+2025-04-17 10:44:23 - INFO - Scraped 3612 chars from https://www.autocar.co.uk
+2025-04-17 10:44:23 - INFO - Scraped 4882 chars from https://www.thehindu.com/sci-tech/energy-and-environment
+2025-04-17 10:44:23 - INFO - Scraped 416 chars from https://www.timesofindia.indiatimes.com/home/environment
+2025-04-17 10:44:23 - INFO - Scraped 11615 chars from https://www.theguardian.com/environment
+2025-04-17 10:44:24 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 10:44:24 - INFO - Scraped 9988 chars from https://www.scientificamerican.com/environment
+2025-04-17 10:44:24 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 10:44:24 - INFO - Selected 14 sentences
+2025-04-17 10:44:24 - INFO - Scraped 5046 chars from https://www.idiva.com
+2025-04-17 10:44:24 - INFO - Scraped 4241 chars from https://www.treehugger.com
+2025-04-17 10:44:24 - INFO - Scraped 409 chars from https://www.refinery29.com
+2025-04-17 10:44:24 - INFO - Scraped 19719 chars from https://www.femina.in
+2025-04-17 10:44:24 - INFO - Scraped 5428 chars from https://www.self.com
+2025-04-17 10:44:24 - INFO - Scraped 23830 chars from https://www.mindbodygreen.com
+2025-04-17 10:44:24 - INFO - Scraped 5415 chars from https://www.timesofindia.indiatimes.com/life-style
+2025-04-17 10:44:24 - INFO - Scraped 42733 chars from https://www.ecowatch.com
+2025-04-17 10:44:24 - INFO - Scraped 3496 chars from https://www.wellandgood.com
+2025-04-17 10:44:25 - INFO - Scraped 21448 chars from https://www.defensenews.com
+2025-04-17 10:44:25 - INFO - Scraped 24307 chars from https://www.militarytimes.com
+2025-04-17 10:44:25 - INFO - Scraped 24735 chars from https://www.bbc.com/news
+2025-04-17 10:44:25 - INFO - Scraped 1383 chars from https://www.indiandefensenews.in
+2025-04-17 10:44:25 - INFO - Scraped 2971 chars from https://www.janes.com
+2025-04-17 10:44:26 - INFO - Scraped 922 chars from https://www.globalsecurity.org
+2025-04-17 10:44:26 - INFO - Scraped 17030 chars from https://www.spsmai.com
+2025-04-17 10:44:26 - INFO - Scraped 1957 chars from https://www.bharat-rakshak.com
+2025-04-17 10:44:26 - INFO - Scraped 13784 chars from https://www.defenseone.com
+2025-04-17 10:44:26 - INFO - Scraped 8636 chars from https://www.thehindu.com
+2025-04-17 10:44:26 - INFO - Scraped 34722 chars from https://www.cnn.com
+2025-04-17 10:44:27 - INFO - Scraped 15648 chars from https://www.indiatoday.in
+2025-04-17 10:44:27 - INFO - Scraped 50000 chars from https://www.hindustantimes.com
+2025-04-17 10:44:27 - INFO - Scraped 2536 chars from https://www.timesofindia.indiatimes.com
+2025-04-17 10:44:27 - INFO - Scraped 13209 chars from https://www.news18.com
+2025-04-17 10:44:27 - INFO - Scraped 50000 chars from https://www.defenceaviationpost.com
+2025-04-17 10:44:27 - INFO - Scraped 11617 chars from https://www.nytimes.com
+2025-04-17 10:44:28 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 10:44:28 - ERROR - Error scraping https://www.curofy.com: HTTPSConnectionPool(host='www.curofy.com', port=443): Read timed out. (read timeout=15)
+2025-04-17 10:44:28 - INFO - Scraped 114 URLs successfully
+2025-04-17 10:44:28 - INFO - Clustering 4359 sentences into 20 clusters
+2025-04-17 10:44:29 - INFO -  * Detected change in 'C:\\Users\\atulm\\Desktop\\project\\news2\\app.py', reloading
+2025-04-17 10:44:29 - INFO -  * Detected change in 'C:\\Users\\atulm\\Desktop\\project\\news2\\app.py', reloading
+2025-04-17 10:44:29 - INFO -  * Detected change in 'C:\\Users\\atulm\\Desktop\\project\\news2\\app.py', reloading
+2025-04-17 10:44:29 - INFO - Selected 14 sentences
+2025-04-17 10:44:31 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 10:44:46 - INFO - Starting news update: 2025-04-17 10:44:46 AM
+2025-04-17 10:44:46 - WARNING -  * Debugger is active!
+2025-04-17 10:44:46 - INFO -  * Debugger PIN: 699-656-660
+2025-04-17 10:44:48 - INFO - Fetched 30 articles from NewsAPI
+2025-04-17 10:44:48 - INFO - Scraping 122 URLs
+2025-04-17 10:44:48 - ERROR - Error scraping https://www.yourstory.com: 403 Client Error: Forbidden for url: https://www.yourstory.com/
+2025-04-17 10:44:48 - INFO - Scraped 13887 chars from https://www.digit.in
+2025-04-17 10:44:49 - INFO - Scraped 5007 chars from https://www.wired.com
+2025-04-17 10:44:49 - INFO - Scraped 10881 chars from https://www.mashable.com
+2025-04-17 10:44:49 - INFO - Scraped 9993 chars from https://www.thehindubusinessline.com
+2025-04-17 10:44:49 - INFO - Scraped 7144 chars from https://www.livemint.com
+2025-04-17 10:44:49 - INFO - Scraped 8830 chars from https://www.theverge.com
+2025-04-17 10:44:50 - ERROR - Error scraping https://www.bloomberg.com: 403 Client Error: Forbidden for url: https://www.bloomberg.com/
+2025-04-17 10:44:50 - INFO - Scraped 5252 chars from https://www.inc42.com
+2025-04-17 10:44:50 - INFO - Scraped 50000 chars from https://www.techradar.com/in
+2025-04-17 10:44:51 - INFO - Scraped 3510 chars from https://www.forbes.com
+2025-04-17 10:44:51 - INFO - Scraped 1022 chars from https://www.practo.com/healthfeed
+2025-04-17 10:44:52 - INFO - Scraped 13196 chars from https://www.ft.com
+2025-04-17 10:44:52 - INFO - Scraped 8722 chars from https://www.techcrunch.com
+2025-04-17 10:44:52 - INFO - Scraped 50000 chars from https://www.businessinsider.com
+2025-04-17 10:44:52 - INFO - Scraped 23398 chars from https://www.gizmodo.com
+2025-04-17 10:44:52 - INFO - Scraped 5801 chars from https://www.indiatoday.in/health
+2025-04-17 10:44:52 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 10:44:53 - INFO - Scraped 5718 chars from https://www.thehindu.com/education
+2025-04-17 10:44:54 - INFO - Scraped 50000 chars from https://www.moneycontrol.com
+2025-04-17 10:44:54 - INFO - Scraped 8047 chars from https://www.timesofindia.indiatimes.com/life-style/health-fitness
+2025-04-17 10:44:54 - INFO - Scraped 2841 chars from https://www.medlineplus.gov
+2025-04-17 10:44:54 - INFO - Scraped 1024 chars from https://www.healthline.com
+2025-04-17 10:44:54 - INFO - Scraped 7454 chars from https://www.webmd.com
+2025-04-17 10:44:54 - INFO - Scraped 4238 chars from https://www.medicalnewstoday.com
+2025-04-17 10:44:54 - INFO - Scraped 2088 chars from https://www.timesofindia.indiatimes.com/education
+2025-04-17 10:44:54 - INFO - Scraped 911 chars from https://www.mayoclinic.org
+2025-04-17 10:44:55 - INFO - Scraped 0 chars from https://www.edsurge.com
+2025-04-17 10:44:55 - INFO - Scraped 15513 chars from https://www.indiatoday.in/education-today
+2025-04-17 10:44:55 - INFO - Scraped 2075 chars from https://www.edweek.org
+2025-04-17 10:44:55 - INFO - Scraped 25854 chars from https://www.indiatoday.in/sports
+2025-04-17 10:44:55 - INFO - Scraped 7405 chars from https://www.sportstar.thehindu.com
+2025-04-17 10:44:55 - INFO - Scraped 3157 chars from https://www.thehindu.com/sport
+2025-04-17 10:44:56 - INFO - Scraped 1057 chars from https://www.timesofindia.indiatimes.com/sports
+2025-04-17 10:44:56 - ERROR - Error scraping https://www.bleacherreport.com: 403 Client Error: Forbidden for url: https://bleacherreport.com/
+2025-04-17 10:44:57 - INFO - Scraped 12888 chars from https://www.skysports.com
+2025-04-17 10:44:57 - INFO - Scraped 16139 chars from https://www.insidehighered.com
+2025-04-17 10:44:57 - INFO - Scraped 10708 chars from https://www.bbc.com/sport
+2025-04-17 10:44:57 - INFO - Scraped 53 chars from https://www.edtechmagazine.com
+2025-04-17 10:44:57 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 10:44:57 - INFO - Scraped 13278 chars from https://www.si.com
+2025-04-17 10:44:57 - INFO - Scraped 29642 chars from https://www.espn.com
+2025-04-17 10:44:58 - INFO - Scraped 2172 chars from https://www.nationalgeographic.com/science
+2025-04-17 10:44:58 - INFO - Scraped 5046 chars from https://www.thehindu.com/sci-tech
+2025-04-17 10:44:58 - INFO - Scraped 404 chars from https://www.timesofindia.indiatimes.com/home/science
+2025-04-17 10:44:58 - INFO - Scraped 17233 chars from https://www.scientificamerican.com
+2025-04-17 10:44:58 - INFO - Scraped 12522 chars from https://www.indiatoday.in/movies
+2025-04-17 10:44:59 - INFO - Scraped 19492 chars from https://www.filmfare.com
+2025-04-17 10:44:59 - INFO - Scraped 50000 chars from https://www.pinkvilla.com
+2025-04-17 10:44:59 - INFO - Scraped 19003 chars from https://www.newscientist.com
+2025-04-17 10:44:59 - INFO - Scraped 4392 chars from https://www.bollywoodhungama.com
+2025-04-17 10:45:00 - INFO - Scraped 11649 chars from https://www.sciencenews.org
+2025-04-17 10:45:00 - INFO - Scraped 18720 chars from https://www.rollingstone.com
+2025-04-17 10:45:01 - INFO - Scraped 13614 chars from https://www.hollywoodreporter.com
+2025-04-17 10:45:01 - INFO - Scraped 12631 chars from https://www.billboard.com
+2025-04-17 10:45:01 - INFO - Scraped 11335 chars from https://www.deadline.com
+2025-04-17 10:45:02 - INFO - Scraped 1569 chars from https://www.nationalgeographic.com/travel
+2025-04-17 10:45:02 - INFO - Scraped 130 chars from https://www.outlookindia.com/outlooktraveller
+2025-04-17 10:45:02 - INFO - Selected 14 sentences
+2025-04-17 10:45:02 - INFO - Scraped 50000 chars from https://www.variety.com
+2025-04-17 10:45:02 - INFO - Scraped 8933 chars from https://www.cntraveler.com
+2025-04-17 10:45:02 - INFO - Scraped 6048 chars from https://www.thrillophilia.com/blog
+2025-04-17 10:45:03 - INFO - Scraped 21119 chars from https://www.nature.com
+2025-04-17 10:45:03 - INFO - Scraped 9260 chars from https://www.perniaspopupshop.com
+2025-04-17 10:45:03 - INFO - Scraped 12749 chars from https://www.travelandleisure.com
+2025-04-17 10:45:03 - INFO - Scraped 19719 chars from https://www.femina.in
+2025-04-17 10:45:03 - INFO - Scraped 6923 chars from https://www.lonelyplanet.com
+2025-04-17 10:45:03 - INFO - Scraped 7526 chars from https://www.harpersbazaar.com
+2025-04-17 10:45:03 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 10:45:03 - INFO - Scraped 5882 chars from https://www.elle.com
+2025-04-17 10:45:03 - INFO - Scraped 9247 chars from https://www.vogue.com
+2025-04-17 10:45:03 - INFO - Scraped 5923 chars from https://www.gq.com
+2025-04-17 10:45:04 - INFO - Scraped 1315 chars from https://www.archanaskitchen.com
+2025-04-17 10:45:04 - INFO - Scraped 3615 chars from https://www.sanjeevkapoor.com
+2025-04-17 10:45:04 - INFO - Scraped 6893 chars from https://www.proptiger.com
+2025-04-17 10:45:05 - ERROR - Error scraping https://www.housing.com: 403 Client Error: Forbidden for url: https://housing.com:443/
+2025-04-17 10:45:05 - INFO - Scraped 15765 chars from https://www.traveltriangle.com
+2025-04-17 10:45:05 - INFO - Scraped 3152 chars from https://www.hebbarskitchen.com
+2025-04-17 10:45:05 - INFO - Scraped 2946 chars from https://www.commonfloor.com
+2025-04-17 10:45:05 - INFO - Scraped 9345 chars from https://www.allrecipes.com
+2025-04-17 10:45:05 - INFO - Scraped 3545 chars from https://www.seriouseats.com
+2025-04-17 10:45:06 - INFO - Scraped 12071 chars from https://www.overdrive.in
+2025-04-17 10:45:06 - INFO - Scraped 0 chars from https://www.gaadiwaadi.com
+2025-04-17 10:45:06 - INFO - Scraped 2100 chars from https://www.curbed.com
+2025-04-17 10:45:06 - INFO - Scraped 9502 chars from https://www.autocarindia.com
+2025-04-17 10:45:06 - INFO - Scraped 21126 chars from https://www.magicbricks.com
+2025-04-17 10:45:06 - ERROR - Error scraping https://www.curofy.com: HTTPSConnectionPool(host='www.curofy.com', port=443): Read timed out. (read timeout=15)
+2025-04-17 10:45:06 - INFO - Scraped 7471 chars from https://www.cardekho.com
+2025-04-17 10:45:07 - INFO - Scraped 1996 chars from https://www.nationalgeographic.com/environment
+2025-04-17 10:45:07 - INFO - Scraped 4882 chars from https://www.thehindu.com/sci-tech/energy-and-environment
+2025-04-17 10:45:07 - INFO - Scraped 416 chars from https://www.timesofindia.indiatimes.com/home/environment
+2025-04-17 10:45:07 - INFO - Scraped 9988 chars from https://www.scientificamerican.com/environment
+2025-04-17 10:45:07 - INFO - Scraped 11615 chars from https://www.theguardian.com/environment
+2025-04-17 10:45:07 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 10:45:07 - INFO - Scraped 5046 chars from https://www.idiva.com
+2025-04-17 10:45:07 - INFO - Scraped 3612 chars from https://www.autocar.co.uk
+2025-04-17 10:45:08 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 10:45:08 - INFO - Scraped 19719 chars from https://www.femina.in
+2025-04-17 10:45:08 - INFO - Scraped 4241 chars from https://www.treehugger.com
+2025-04-17 10:45:09 - INFO - Scraped 409 chars from https://www.refinery29.com
+2025-04-17 10:45:09 - INFO - Scraped 5415 chars from https://www.timesofindia.indiatimes.com/life-style
+2025-04-17 10:45:09 - INFO - Scraped 42733 chars from https://www.ecowatch.com
+2025-04-17 10:45:09 - INFO - Scraped 3496 chars from https://www.wellandgood.com
+2025-04-17 10:45:09 - INFO - Scraped 23830 chars from https://www.mindbodygreen.com
+2025-04-17 10:45:09 - INFO - Scraped 5428 chars from https://www.self.com
+2025-04-17 10:45:09 - INFO - Scraped 17030 chars from https://www.spsmai.com
+2025-04-17 10:45:10 - INFO - Scraped 1383 chars from https://www.indiandefensenews.in
+2025-04-17 10:45:10 - INFO - Scraped 24735 chars from https://www.bbc.com/news
+2025-04-17 10:45:10 - INFO - Scraped 21448 chars from https://www.defensenews.com
+2025-04-17 10:45:10 - INFO - Scraped 2971 chars from https://www.janes.com
+2025-04-17 10:45:10 - INFO - Scraped 922 chars from https://www.globalsecurity.org
+2025-04-17 10:45:10 - INFO - Scraped 1957 chars from https://www.bharat-rakshak.com
+2025-04-17 10:45:10 - INFO - Scraped 8636 chars from https://www.thehindu.com
+2025-04-17 10:45:11 - INFO - Scraped 50000 chars from https://www.defenceaviationpost.com
+2025-04-17 10:45:11 - INFO - Scraped 50000 chars from https://www.hindustantimes.com
+2025-04-17 10:45:12 - INFO - Scraped 34722 chars from https://www.cnn.com
+2025-04-17 10:45:12 - INFO - Scraped 13784 chars from https://www.defenseone.com
+2025-04-17 10:45:12 - INFO - Scraped 24379 chars from https://www.militarytimes.com
+2025-04-17 10:45:13 - INFO - Scraped 2536 chars from https://www.timesofindia.indiatimes.com
+2025-04-17 10:45:13 - INFO - Scraped 11617 chars from https://www.nytimes.com
+2025-04-17 10:45:13 - INFO - Scraped 15648 chars from https://www.indiatoday.in
+2025-04-17 10:45:13 - INFO - Scraped 13209 chars from https://www.news18.com
+2025-04-17 10:45:14 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 10:45:14 - INFO - Scraped 114 URLs successfully
+2025-04-17 10:45:14 - INFO - Clustering 4391 sentences into 20 clusters
+2025-04-17 10:45:34 - INFO - Selected 14 sentences
+2025-04-17 10:45:36 - INFO - Selected 14 sentences
+2025-04-17 10:45:39 - INFO - Selected 14 sentences
+2025-04-17 10:45:39 - INFO - Selected 14 sentences
+2025-04-17 10:45:46 - INFO - Selected 14 sentences
+2025-04-17 10:45:49 - INFO - Selected 14 sentences
+2025-04-17 10:45:53 - INFO - Selected 14 sentences
+2025-04-17 10:45:54 - INFO - Selected 14 sentences
+2025-04-17 10:45:56 - INFO - Selected 14 sentences
+2025-04-17 10:45:58 - INFO - Selected 14 sentences
+2025-04-17 10:46:01 - INFO - Selected 14 sentences
+2025-04-17 10:46:02 - INFO - Selected 14 sentences
+2025-04-17 10:46:06 - INFO - Selected 14 sentences
+2025-04-17 10:46:12 - INFO - Selected 14 sentences
+2025-04-17 10:46:13 - INFO - Selected 14 sentences
+2025-04-17 10:46:15 - ERROR - Insight generation failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 45
+}
+]
+2025-04-17 10:46:18 - INFO - Selected 14 sentences
+2025-04-17 10:46:19 - INFO - Selected 14 sentences
+2025-04-17 10:46:23 - INFO - Selected 14 sentences
+2025-04-17 10:46:24 - INFO - Selected 14 sentences
+2025-04-17 10:46:26 - INFO - Selected 14 sentences
+2025-04-17 10:46:27 - INFO - Selected 14 sentences
+2025-04-17 10:46:28 - INFO - Selected 14 sentences
+2025-04-17 10:46:31 - INFO - Selected 14 sentences
+2025-04-17 10:46:32 - INFO - Selected 14 sentences
+2025-04-17 10:46:35 - INFO - Selected 14 sentences
+2025-04-17 10:46:41 - INFO - Selected 14 sentences
+2025-04-17 10:46:42 - INFO - Selected 14 sentences
+2025-04-17 10:46:53 - INFO - Selected 14 sentences
+2025-04-17 10:46:58 - INFO - Selected 14 sentences
+2025-04-17 10:47:01 - INFO - Selected 14 sentences
+2025-04-17 10:47:05 - INFO - Selected 14 sentences
+2025-04-17 10:47:05 - INFO - Selected 14 sentences
+2025-04-17 10:47:09 - INFO - Selected 14 sentences
+2025-04-17 10:47:10 - INFO - Selected 14 sentences
+2025-04-17 10:47:11 - ERROR - Insight generation failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 49
+}
+]
+2025-04-17 10:47:13 - INFO - Selected 14 sentences
+2025-04-17 10:47:29 - INFO - Selected 14 sentences
+2025-04-17 10:47:35 - INFO - Selected 14 sentences
+2025-04-17 10:47:44 - INFO - Selected 14 sentences
+2025-04-17 10:47:47 - INFO - Selected 14 sentences
+2025-04-17 10:47:48 - INFO - Selected 14 sentences
+2025-04-17 10:47:51 - INFO - Selected 14 sentences
+2025-04-17 10:47:53 - INFO - Selected 14 sentences
+2025-04-17 10:48:03 - INFO - Selected 14 sentences
+2025-04-17 10:48:14 - INFO - Selected 14 sentences
+2025-04-17 10:48:18 - INFO - Selected 14 sentences
+2025-04-17 10:48:20 - INFO - Selected 14 sentences
+2025-04-17 10:48:26 - INFO - Selected 14 sentences
+2025-04-17 10:48:37 - INFO - Selected 14 sentences
+2025-04-17 10:48:40 - INFO - Selected 14 sentences
+2025-04-17 10:48:43 - INFO - Selected 14 sentences
+2025-04-17 10:48:47 - INFO - Selected 14 sentences
+2025-04-17 10:48:49 - INFO - Selected 14 sentences
+2025-04-17 10:48:52 - INFO - Selected 14 sentences
+2025-04-17 10:48:52 - INFO - Selected 14 sentences
+2025-04-17 10:48:56 - INFO - Selected 14 sentences
+2025-04-17 10:48:57 - INFO - Selected 14 sentences
+2025-04-17 10:48:59 - INFO - Selected 14 sentences
+2025-04-17 10:49:00 - INFO - Selected 14 sentences
+2025-04-17 10:49:04 - INFO - Selected 14 sentences
+2025-04-17 10:49:13 - INFO - Selected 14 sentences
+2025-04-17 10:49:14 - INFO - Selected 14 sentences
+2025-04-17 10:49:16 - INFO - Selected 14 sentences
+2025-04-17 10:49:16 - ERROR - Insight generation failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 43
+}
+]
+2025-04-17 10:49:16 - INFO - Selected 14 sentences
+2025-04-17 10:49:17 - ERROR - Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 43
+}
+]. Using fallback.
+2025-04-17 10:49:18 - INFO - Selected 14 sentences
+2025-04-17 10:49:18 - INFO - Data written to static/data\news_analysis_20250417_104918.json
+2025-04-17 10:49:19 - INFO - Graphs saved: topic_entities_graph_20250417_104918.png, topic_distribution_pie_20250417_104918.png
+2025-04-17 10:49:19 - INFO - News update completed successfully
+2025-04-17 10:49:22 - INFO - Selected 14 sentences
+2025-04-17 10:49:47 - INFO - Selected 14 sentences
+2025-04-17 10:50:12 - INFO - Selected 14 sentences
+2025-04-17 10:50:16 - INFO - Selected 14 sentences
+2025-04-17 10:50:24 - INFO - Selected 14 sentences
+2025-04-17 10:50:29 - INFO - Selected 14 sentences
+2025-04-17 10:50:33 - INFO - Selected 14 sentences
+2025-04-17 10:50:36 - INFO - Selected 14 sentences
+2025-04-17 10:50:38 - INFO - Selected 14 sentences
+2025-04-17 10:50:41 - INFO - Selected 14 sentences
+2025-04-17 10:50:42 - INFO - Selected 14 sentences
+2025-04-17 10:50:47 - INFO - Selected 14 sentences
+2025-04-17 10:50:54 - INFO - Selected 14 sentences
+2025-04-17 10:50:57 - INFO - Data written to static/data\news_analysis_20250417_105057.json
+2025-04-17 10:50:58 - INFO - Graphs saved: topic_entities_graph_20250417_105057.png, topic_distribution_pie_20250417_105057.png
+2025-04-17 10:50:58 - INFO - News update completed successfully
+2025-04-17 10:56:39 - INFO - Real-time News Updater started
+2025-04-17 10:56:39 - INFO - Starting news update: 2025-04-17 10:56:39 AM
+2025-04-17 10:56:40 - INFO - Fetched 30 articles from NewsAPI
+2025-04-17 10:56:40 - INFO - Scraping 122 URLs
+2025-04-17 10:56:40 - ERROR - Error scraping https://www.yourstory.com: 403 Client Error: Forbidden for url: https://www.yourstory.com/
+2025-04-17 10:56:40 - INFO - Scraped 10027 chars from https://www.thehindubusinessline.com
+2025-04-17 10:56:40 - INFO - Scraped 13881 chars from https://www.digit.in
+2025-04-17 10:56:40 - INFO - Scraped 8830 chars from https://www.theverge.com
+2025-04-17 10:56:40 - INFO - Scraped 7545 chars from https://www.livemint.com
+2025-04-17 10:56:41 - INFO - Scraped 5050 chars from https://www.wired.com
+2025-04-17 10:56:41 - INFO - Scraped 10881 chars from https://www.mashable.com
+2025-04-17 10:56:41 - INFO - Scraped 5214 chars from https://www.inc42.com
+2025-04-17 10:56:41 - INFO - Scraped 3512 chars from https://www.forbes.com
+2025-04-17 10:56:41 - ERROR - Error scraping https://www.bloomberg.com: 403 Client Error: Forbidden for url: https://www.bloomberg.com/
+2025-04-17 10:56:41 - INFO - Scraped 50000 chars from https://www.techradar.com/in
+2025-04-17 10:56:41 - INFO - Scraped 1011 chars from https://www.practo.com/healthfeed
+2025-04-17 10:56:41 - INFO - Scraped 50000 chars from https://www.businessinsider.com
+2025-04-17 10:56:42 - INFO - Scraped 13226 chars from https://www.ft.com
+2025-04-17 10:56:42 - INFO - Scraped 5801 chars from https://www.indiatoday.in/health
+2025-04-17 10:56:42 - INFO - Scraped 50000 chars from https://www.moneycontrol.com
+2025-04-17 10:56:42 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 10:56:42 - INFO - Scraped 2841 chars from https://www.medlineplus.gov
+2025-04-17 10:56:42 - INFO - Scraped 8005 chars from https://www.timesofindia.indiatimes.com/life-style/health-fitness
+2025-04-17 10:56:43 - INFO - Scraped 911 chars from https://www.mayoclinic.org
+2025-04-17 10:56:43 - INFO - Scraped 5718 chars from https://www.thehindu.com/education
+2025-04-17 10:56:43 - INFO - Scraped 4238 chars from https://www.medicalnewstoday.com
+2025-04-17 10:56:43 - INFO - Scraped 15588 chars from https://www.indiatoday.in/education-today
+2025-04-17 10:56:43 - INFO - Scraped 8722 chars from https://www.techcrunch.com
+2025-04-17 10:56:43 - INFO - Scraped 7454 chars from https://www.webmd.com
+2025-04-17 10:56:43 - INFO - Scraped 23398 chars from https://www.gizmodo.com
+2025-04-17 10:56:43 - INFO - Scraped 0 chars from https://www.edsurge.com
+2025-04-17 10:56:43 - INFO - Scraped 1024 chars from https://www.healthline.com
+2025-04-17 10:56:44 - INFO - Scraped 7346 chars from https://www.sportstar.thehindu.com
+2025-04-17 10:56:44 - INFO - Scraped 3157 chars from https://www.thehindu.com/sport
+2025-04-17 10:56:44 - INFO - Scraped 25854 chars from https://www.indiatoday.in/sports
+2025-04-17 10:56:44 - INFO - Scraped 2088 chars from https://www.timesofindia.indiatimes.com/education
+2025-04-17 10:56:44 - INFO - Scraped 10860 chars from https://www.bbc.com/sport
+2025-04-17 10:56:44 - INFO - Scraped 12888 chars from https://www.skysports.com
+2025-04-17 10:56:45 - ERROR - Error scraping https://www.bleacherreport.com: 403 Client Error: Forbidden for url: https://bleacherreport.com/
+2025-04-17 10:56:45 - INFO - Scraped 1057 chars from https://www.timesofindia.indiatimes.com/sports
+2025-04-17 10:56:45 - INFO - Scraped 16139 chars from https://www.insidehighered.com
+2025-04-17 10:56:45 - INFO - Scraped 2075 chars from https://www.edweek.org
+2025-04-17 10:56:45 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 10:56:45 - INFO - Scraped 5046 chars from https://www.thehindu.com/sci-tech
+2025-04-17 10:56:46 - INFO - Scraped 29726 chars from https://www.espn.com
+2025-04-17 10:56:46 - INFO - Scraped 13226 chars from https://www.si.com
+2025-04-17 10:56:46 - INFO - Scraped 19003 chars from https://www.newscientist.com
+2025-04-17 10:56:46 - INFO - Scraped 404 chars from https://www.timesofindia.indiatimes.com/home/science
+2025-04-17 10:56:46 - INFO - Scraped 53 chars from https://www.edtechmagazine.com
+2025-04-17 10:56:46 - INFO - Scraped 17233 chars from https://www.scientificamerican.com
+2025-04-17 10:56:46 - INFO - Scraped 11649 chars from https://www.sciencenews.org
+2025-04-17 10:56:46 - INFO - Scraped 2172 chars from https://www.nationalgeographic.com/science
+2025-04-17 10:56:47 - INFO - Scraped 12520 chars from https://www.indiatoday.in/movies
+2025-04-17 10:56:47 - INFO - Scraped 50000 chars from https://www.pinkvilla.com
+2025-04-17 10:56:47 - INFO - Scraped 19492 chars from https://www.filmfare.com
+2025-04-17 10:56:47 - INFO - Scraped 18720 chars from https://www.rollingstone.com
+2025-04-17 10:56:47 - INFO - Scraped 12631 chars from https://www.billboard.com
+2025-04-17 10:56:47 - INFO - Scraped 4373 chars from https://www.bollywoodhungama.com
+2025-04-17 10:56:48 - INFO - Scraped 50000 chars from https://www.variety.com
+2025-04-17 10:56:48 - INFO - Scraped 21119 chars from https://www.nature.com
+2025-04-17 10:56:48 - INFO - Scraped 130 chars from https://www.outlookindia.com/outlooktraveller
+2025-04-17 10:56:48 - INFO - Scraped 8933 chars from https://www.cntraveler.com
+2025-04-17 10:56:48 - INFO - Scraped 9260 chars from https://www.perniaspopupshop.com
+2025-04-17 10:56:49 - INFO - Scraped 12749 chars from https://www.travelandleisure.com
+2025-04-17 10:56:49 - INFO - Scraped 6048 chars from https://www.thrillophilia.com/blog
+2025-04-17 10:56:49 - INFO - Scraped 13614 chars from https://www.hollywoodreporter.com
+2025-04-17 10:56:49 - INFO - Scraped 11333 chars from https://www.deadline.com
+2025-04-17 10:56:49 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 10:56:49 - INFO - Scraped 7526 chars from https://www.harpersbazaar.com
+2025-04-17 10:56:49 - INFO - Scraped 5882 chars from https://www.elle.com
+2025-04-17 10:56:49 - INFO - Scraped 19719 chars from https://www.femina.in
+2025-04-17 10:56:49 - INFO - Scraped 6919 chars from https://www.lonelyplanet.com
+2025-04-17 10:56:49 - INFO - Scraped 9247 chars from https://www.vogue.com
+2025-04-17 10:56:49 - INFO - Scraped 3615 chars from https://www.sanjeevkapoor.com
+2025-04-17 10:56:50 - INFO - Scraped 1315 chars from https://www.archanaskitchen.com
+2025-04-17 10:56:50 - INFO - Scraped 1569 chars from https://www.nationalgeographic.com/travel
+2025-04-17 10:56:50 - INFO - Scraped 3152 chars from https://www.hebbarskitchen.com
+2025-04-17 10:56:50 - INFO - Scraped 5923 chars from https://www.gq.com
+2025-04-17 10:56:50 - INFO - Scraped 6893 chars from https://www.proptiger.com
+2025-04-17 10:56:50 - INFO - Scraped 9345 chars from https://www.allrecipes.com
+2025-04-17 10:56:50 - INFO - Scraped 3545 chars from https://www.seriouseats.com
+2025-04-17 10:56:50 - ERROR - Error scraping https://www.housing.com: 403 Client Error: Forbidden for url: https://housing.com:443/
+2025-04-17 10:56:51 - INFO - Scraped 9502 chars from https://www.autocarindia.com
+2025-04-17 10:56:51 - INFO - Scraped 2946 chars from https://www.commonfloor.com
+2025-04-17 10:56:51 - INFO - Scraped 0 chars from https://www.gaadiwaadi.com
+2025-04-17 10:56:51 - INFO - Scraped 21126 chars from https://www.magicbricks.com
+2025-04-17 10:56:51 - INFO - Scraped 2100 chars from https://www.curbed.com
+2025-04-17 10:56:51 - INFO - Scraped 7471 chars from https://www.cardekho.com
+2025-04-17 10:56:51 - INFO - Scraped 15765 chars from https://www.traveltriangle.com
+2025-04-17 10:56:52 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 10:56:52 - INFO - Scraped 3666 chars from https://www.autocar.co.uk
+2025-04-17 10:56:52 - INFO - Scraped 4882 chars from https://www.thehindu.com/sci-tech/energy-and-environment
+2025-04-17 10:56:52 - INFO - Scraped 416 chars from https://www.timesofindia.indiatimes.com/home/environment
+2025-04-17 10:56:52 - INFO - Scraped 4241 chars from https://www.treehugger.com
+2025-04-17 10:56:53 - INFO - Scraped 9988 chars from https://www.scientificamerican.com/environment
+2025-04-17 10:56:53 - INFO - Scraped 11615 chars from https://www.theguardian.com/environment
+2025-04-17 10:56:53 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 10:56:53 - INFO - Scraped 5046 chars from https://www.idiva.com
+2025-04-17 10:56:53 - INFO - Scraped 12071 chars from https://www.overdrive.in
+2025-04-17 10:56:53 - INFO - Scraped 1996 chars from https://www.nationalgeographic.com/environment
+2025-04-17 10:56:53 - INFO - Scraped 19719 chars from https://www.femina.in
+2025-04-17 10:56:53 - INFO - Scraped 5428 chars from https://www.self.com
+2025-04-17 10:56:53 - INFO - Scraped 409 chars from https://www.refinery29.com
+2025-04-17 10:56:53 - INFO - Scraped 23830 chars from https://www.mindbodygreen.com
+2025-04-17 10:56:54 - INFO - Scraped 5415 chars from https://www.timesofindia.indiatimes.com/life-style
+2025-04-17 10:56:54 - INFO - Scraped 42733 chars from https://www.ecowatch.com
+2025-04-17 10:56:54 - INFO - Scraped 1383 chars from https://www.indiandefensenews.in
+2025-04-17 10:56:55 - INFO - Scraped 17030 chars from https://www.spsmai.com
+2025-04-17 10:56:55 - INFO - Scraped 922 chars from https://www.globalsecurity.org
+2025-04-17 10:56:55 - INFO - Scraped 3496 chars from https://www.wellandgood.com
+2025-04-17 10:56:55 - INFO - Scraped 1957 chars from https://www.bharat-rakshak.com
+2025-04-17 10:56:55 - INFO - Scraped 13784 chars from https://www.defenseone.com
+2025-04-17 10:56:55 - INFO - Scraped 2971 chars from https://www.janes.com
+2025-04-17 10:56:55 - INFO - Scraped 24753 chars from https://www.bbc.com/news
+2025-04-17 10:56:55 - INFO - Scraped 8652 chars from https://www.thehindu.com
+2025-04-17 10:56:55 - INFO - Scraped 25078 chars from https://www.militarytimes.com
+2025-04-17 10:56:56 - INFO - Scraped 15789 chars from https://www.indiatoday.in
+2025-04-17 10:56:56 - INFO - Scraped 50000 chars from https://www.hindustantimes.com
+2025-04-17 10:56:56 - INFO - Scraped 21448 chars from https://www.defensenews.com
+2025-04-17 10:56:56 - INFO - Scraped 50000 chars from https://www.defenceaviationpost.com
+2025-04-17 10:56:56 - INFO - Scraped 2536 chars from https://www.timesofindia.indiatimes.com
+2025-04-17 10:56:56 - INFO - Scraped 34722 chars from https://www.cnn.com
+2025-04-17 10:56:57 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 10:56:57 - INFO - Scraped 2815 chars from https://www.curofy.com
+2025-04-17 10:56:57 - INFO - Scraped 13292 chars from https://www.news18.com
+2025-04-17 10:56:57 - INFO - Scraped 11617 chars from https://www.nytimes.com
+2025-04-17 10:56:57 - INFO - Scraped 115 URLs successfully
+2025-04-17 10:56:57 - INFO - Clustering 4353 sentences into 20 clusters
+2025-04-17 10:57:02 - INFO - Selected 14 sentences
+2025-04-17 10:57:09 - INFO - Selected 14 sentences
+2025-04-17 10:57:12 - INFO - Starting news update: 2025-04-17 10:57:12 AM
+2025-04-17 10:57:12 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-17 10:57:12 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 10:57:13 - INFO - Fetched 30 articles from NewsAPI
+2025-04-17 10:57:13 - INFO - Scraping 122 URLs
+2025-04-17 10:57:13 - ERROR - Error scraping https://www.yourstory.com: 403 Client Error: Forbidden for url: https://www.yourstory.com/
+2025-04-17 10:57:13 - INFO - Selected 14 sentences
+2025-04-17 10:57:13 - INFO - Scraped 13881 chars from https://www.digit.in
+2025-04-17 10:57:13 - INFO - Scraped 10027 chars from https://www.thehindubusinessline.com
+2025-04-17 10:57:14 - INFO - Scraped 5050 chars from https://www.wired.com
+2025-04-17 10:57:14 - INFO - Scraped 8830 chars from https://www.theverge.com
+2025-04-17 10:57:14 - INFO - Scraped 10881 chars from https://www.mashable.com
+2025-04-17 10:57:14 - INFO - Selected 14 sentences
+2025-04-17 10:57:14 - INFO - Scraped 50000 chars from https://www.techradar.com/in
+2025-04-17 10:57:14 - INFO - Scraped 7545 chars from https://www.livemint.com
+2025-04-17 10:57:14 - INFO - Scraped 5214 chars from https://www.inc42.com
+2025-04-17 10:57:14 - INFO - Scraped 3513 chars from https://www.forbes.com
+2025-04-17 10:57:14 - INFO - Scraped 50000 chars from https://www.businessinsider.com
+2025-04-17 10:57:14 - ERROR - Error scraping https://www.bloomberg.com: 403 Client Error: Forbidden for url: https://www.bloomberg.com/
+2025-04-17 10:57:15 - INFO - Scraped 5801 chars from https://www.indiatoday.in/health
+2025-04-17 10:57:15 - INFO - Scraped 965 chars from https://www.practo.com/healthfeed
+2025-04-17 10:57:15 - ERROR - Error scraping https://www.curofy.com: 502 Server Error: Bad Gateway for url: https://www.curofy.com/
+2025-04-17 10:57:15 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 10:57:15 - INFO - Scraped 50000 chars from https://www.moneycontrol.com
+2025-04-17 10:57:15 - INFO - Scraped 2841 chars from https://www.medlineplus.gov
+2025-04-17 10:57:15 - INFO - Scraped 23398 chars from https://www.gizmodo.com
+2025-04-17 10:57:15 - INFO - Scraped 5718 chars from https://www.thehindu.com/education
+2025-04-17 10:57:16 - INFO - Scraped 911 chars from https://www.mayoclinic.org
+2025-04-17 10:57:16 - INFO - Scraped 13189 chars from https://www.ft.com
+2025-04-17 10:57:16 - INFO - Scraped 8005 chars from https://www.timesofindia.indiatimes.com/life-style/health-fitness
+2025-04-17 10:57:16 - INFO - Scraped 7454 chars from https://www.webmd.com
+2025-04-17 10:57:16 - INFO - Scraped 15588 chars from https://www.indiatoday.in/education-today
+2025-04-17 10:57:16 - INFO - Scraped 1024 chars from https://www.healthline.com
+2025-04-17 10:57:16 - INFO - Scraped 2075 chars from https://www.edweek.org
+2025-04-17 10:57:16 - INFO - Scraped 8722 chars from https://www.techcrunch.com
+2025-04-17 10:57:16 - INFO - Scraped 2088 chars from https://www.timesofindia.indiatimes.com/education
+2025-04-17 10:57:16 - INFO - Scraped 4238 chars from https://www.medicalnewstoday.com
+2025-04-17 10:57:17 - INFO - Scraped 7346 chars from https://www.sportstar.thehindu.com
+2025-04-17 10:57:17 - INFO - Scraped 0 chars from https://www.edsurge.com
+2025-04-17 10:57:17 - INFO - Scraped 25854 chars from https://www.indiatoday.in/sports
+2025-04-17 10:57:17 - INFO - Scraped 3157 chars from https://www.thehindu.com/sport
+2025-04-17 10:57:17 - INFO - Scraped 12888 chars from https://www.skysports.com
+2025-04-17 10:57:17 - INFO - Scraped 10860 chars from https://www.bbc.com/sport
+2025-04-17 10:57:18 - ERROR - Error scraping https://www.bleacherreport.com: 403 Client Error: Forbidden for url: https://bleacherreport.com/
+2025-04-17 10:57:18 - INFO - Scraped 1057 chars from https://www.timesofindia.indiatimes.com/sports
+2025-04-17 10:57:18 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 10:57:18 - INFO - Scraped 13226 chars from https://www.si.com
+2025-04-17 10:57:18 - INFO - Scraped 16139 chars from https://www.insidehighered.com
+2025-04-17 10:57:18 - INFO - Scraped 5046 chars from https://www.thehindu.com/sci-tech
+2025-04-17 10:57:18 - INFO - Scraped 29642 chars from https://www.espn.com
+2025-04-17 10:57:18 - INFO - Selected 14 sentences
+2025-04-17 10:57:18 - INFO - Scraped 12520 chars from https://www.indiatoday.in/movies
+2025-04-17 10:57:18 - INFO - Scraped 17233 chars from https://www.scientificamerican.com
+2025-04-17 10:57:18 - INFO - Scraped 50000 chars from https://www.pinkvilla.com
+2025-04-17 10:57:19 - INFO - Scraped 19003 chars from https://www.newscientist.com
+2025-04-17 10:57:19 - INFO - Scraped 4373 chars from https://www.bollywoodhungama.com
+2025-04-17 10:57:19 - INFO - Scraped 19492 chars from https://www.filmfare.com
+2025-04-17 10:57:19 - INFO - Scraped 2172 chars from https://www.nationalgeographic.com/science
+2025-04-17 10:57:19 - INFO - Scraped 53 chars from https://www.edtechmagazine.com
+2025-04-17 10:57:19 - INFO - Scraped 18720 chars from https://www.rollingstone.com
+2025-04-17 10:57:20 - INFO - Scraped 12631 chars from https://www.billboard.com
+2025-04-17 10:57:20 - INFO - Scraped 11649 chars from https://www.sciencenews.org
+2025-04-17 10:57:20 - INFO - Scraped 404 chars from https://www.timesofindia.indiatimes.com/home/science
+2025-04-17 10:57:20 - INFO - Scraped 13614 chars from https://www.hollywoodreporter.com
+2025-04-17 10:57:20 - INFO - Scraped 1569 chars from https://www.nationalgeographic.com/travel
+2025-04-17 10:57:20 - INFO - Scraped 130 chars from https://www.outlookindia.com/outlooktraveller
+2025-04-17 10:57:20 - INFO - Scraped 50000 chars from https://www.variety.com
+2025-04-17 10:57:21 - INFO - Scraped 9260 chars from https://www.perniaspopupshop.com
+2025-04-17 10:57:21 - INFO - Scraped 8933 chars from https://www.cntraveler.com
+2025-04-17 10:57:21 - INFO - Scraped 21119 chars from https://www.nature.com
+2025-04-17 10:57:21 - INFO - Scraped 12749 chars from https://www.travelandleisure.com
+2025-04-17 10:57:21 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 10:57:21 - INFO - Scraped 19719 chars from https://www.femina.in
+2025-04-17 10:57:21 - INFO - Scraped 11333 chars from https://www.deadline.com
+2025-04-17 10:57:21 - INFO - Scraped 6917 chars from https://www.lonelyplanet.com
+2025-04-17 10:57:21 - INFO - Scraped 6048 chars from https://www.thrillophilia.com/blog
+2025-04-17 10:57:21 - INFO - Scraped 5923 chars from https://www.gq.com
+2025-04-17 10:57:21 - INFO - Scraped 7526 chars from https://www.harpersbazaar.com
+2025-04-17 10:57:21 - INFO - Scraped 5882 chars from https://www.elle.com
+2025-04-17 10:57:22 - INFO - Scraped 3615 chars from https://www.sanjeevkapoor.com
+2025-04-17 10:57:22 - INFO - Scraped 9247 chars from https://www.vogue.com
+2025-04-17 10:57:22 - INFO - Scraped 1315 chars from https://www.archanaskitchen.com
+2025-04-17 10:57:22 - INFO - Scraped 3152 chars from https://www.hebbarskitchen.com
+2025-04-17 10:57:22 - INFO - Scraped 3545 chars from https://www.seriouseats.com
+2025-04-17 10:57:22 - INFO - Scraped 6893 chars from https://www.proptiger.com
+2025-04-17 10:57:22 - INFO - Scraped 9345 chars from https://www.allrecipes.com
+2025-04-17 10:57:22 - ERROR - Error scraping https://www.housing.com: 403 Client Error: Forbidden for url: https://housing.com:443/
+2025-04-17 10:57:23 - INFO - Scraped 9502 chars from https://www.autocarindia.com
+2025-04-17 10:57:23 - INFO - Scraped 2100 chars from https://www.curbed.com
+2025-04-17 10:57:23 - INFO - Scraped 21126 chars from https://www.magicbricks.com
+2025-04-17 10:57:23 - INFO - Scraped 7471 chars from https://www.cardekho.com
+2025-04-17 10:57:23 - INFO - Scraped 12071 chars from https://www.overdrive.in
+2025-04-17 10:57:23 - INFO - Scraped 0 chars from https://www.gaadiwaadi.com
+2025-04-17 10:57:23 - INFO - Scraped 2946 chars from https://www.commonfloor.com
+2025-04-17 10:57:23 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 10:57:23 - INFO - Scraped 4882 chars from https://www.thehindu.com/sci-tech/energy-and-environment
+2025-04-17 10:57:23 - INFO - Scraped 1996 chars from https://www.nationalgeographic.com/environment
+2025-04-17 10:57:24 - INFO - Scraped 416 chars from https://www.timesofindia.indiatimes.com/home/environment
+2025-04-17 10:57:24 - INFO - Scraped 9988 chars from https://www.scientificamerican.com/environment
+2025-04-17 10:57:24 - INFO - Scraped 11615 chars from https://www.theguardian.com/environment
+2025-04-17 10:57:24 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 10:57:24 - INFO - Scraped 5046 chars from https://www.idiva.com
+2025-04-17 10:57:24 - INFO - Scraped 4241 chars from https://www.treehugger.com
+2025-04-17 10:57:24 - INFO - Scraped 15765 chars from https://www.traveltriangle.com
+2025-04-17 10:57:24 - INFO - Scraped 5428 chars from https://www.self.com
+2025-04-17 10:57:24 - INFO - Scraped 409 chars from https://www.refinery29.com
+2025-04-17 10:57:25 - INFO - Scraped 19719 chars from https://www.femina.in
+2025-04-17 10:57:25 - INFO - Scraped 3496 chars from https://www.wellandgood.com
+2025-04-17 10:57:25 - INFO - Scraped 23830 chars from https://www.mindbodygreen.com
+2025-04-17 10:57:25 - INFO - Scraped 3666 chars from https://www.autocar.co.uk
+2025-04-17 10:57:25 - INFO - Scraped 42733 chars from https://www.ecowatch.com
+2025-04-17 10:57:25 - INFO - Selected 14 sentences
+2025-04-17 10:57:25 - INFO - Scraped 5415 chars from https://www.timesofindia.indiatimes.com/life-style
+2025-04-17 10:57:25 - INFO - Scraped 25078 chars from https://www.militarytimes.com
+2025-04-17 10:57:25 - INFO - Scraped 1383 chars from https://www.indiandefensenews.in
+2025-04-17 10:57:25 - INFO - Scraped 17030 chars from https://www.spsmai.com
+2025-04-17 10:57:26 - INFO - Scraped 24753 chars from https://www.bbc.com/news
+2025-04-17 10:57:26 - INFO - Scraped 8652 chars from https://www.thehindu.com
+2025-04-17 10:57:26 - INFO - Scraped 2971 chars from https://www.janes.com
+2025-04-17 10:57:26 - INFO - Scraped 922 chars from https://www.globalsecurity.org
+2025-04-17 10:57:26 - INFO - Scraped 21448 chars from https://www.defensenews.com
+2025-04-17 10:57:26 - INFO - Scraped 1957 chars from https://www.bharat-rakshak.com
+2025-04-17 10:57:26 - INFO - Scraped 50000 chars from https://www.hindustantimes.com
+2025-04-17 10:57:27 - INFO - Scraped 15789 chars from https://www.indiatoday.in
+2025-04-17 10:57:27 - INFO - Scraped 2536 chars from https://www.timesofindia.indiatimes.com
+2025-04-17 10:57:27 - INFO - Scraped 13784 chars from https://www.defenseone.com
+2025-04-17 10:57:27 - INFO - Scraped 13292 chars from https://www.news18.com
+2025-04-17 10:57:27 - INFO - Scraped 34722 chars from https://www.cnn.com
+2025-04-17 10:57:27 - INFO - Scraped 11617 chars from https://www.nytimes.com
+2025-04-17 10:57:27 - INFO - Scraped 50000 chars from https://www.defenceaviationpost.com
+2025-04-17 10:57:27 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 10:57:27 - INFO - Scraped 114 URLs successfully
+2025-04-17 10:57:28 - INFO - Clustering 4348 sentences into 20 clusters
+2025-04-17 10:57:28 - INFO - Selected 14 sentences
+2025-04-17 10:57:28 - INFO - Selected 14 sentences
+2025-04-17 10:57:32 - INFO - Selected 14 sentences
+2025-04-17 10:57:32 - INFO - Selected 14 sentences
+2025-04-17 10:57:41 - INFO - Selected 14 sentences
+2025-04-17 10:57:45 - INFO - Selected 14 sentences
+2025-04-17 10:57:46 - INFO - Selected 14 sentences
+2025-04-17 10:57:46 - INFO - Selected 14 sentences
+2025-04-17 10:57:50 - INFO - Selected 14 sentences
+2025-04-17 10:57:51 - INFO - Selected 14 sentences
+2025-04-17 10:58:04 - INFO - Selected 14 sentences
+2025-04-17 10:58:08 - INFO - Selected 14 sentences
+2025-04-17 10:58:27 - INFO - Selected 14 sentences
+2025-04-17 10:58:30 - INFO - Selected 14 sentences
+2025-04-17 10:58:34 - INFO - Selected 14 sentences
+2025-04-17 10:58:43 - INFO - Selected 14 sentences
+2025-04-17 10:58:45 - INFO - Selected 14 sentences
+2025-04-17 10:58:48 - INFO - Selected 14 sentences
+2025-04-17 10:58:48 - INFO - Selected 14 sentences
+2025-04-17 10:58:48 - INFO - Selected 14 sentences
+2025-04-17 10:58:52 - INFO - Selected 14 sentences
+2025-04-17 10:58:55 - INFO - Selected 14 sentences
+2025-04-17 10:59:01 - INFO - Selected 14 sentences
+2025-04-17 10:59:02 - INFO - Selected 14 sentences
+2025-04-17 10:59:12 - INFO - Selected 14 sentences
+2025-04-17 10:59:13 - INFO - Selected 14 sentences
+2025-04-17 10:59:19 - INFO - Selected 14 sentences
+2025-04-17 10:59:25 - INFO - Selected 14 sentences
+2025-04-17 10:59:27 - INFO - Selected 14 sentences
+2025-04-17 10:59:28 - INFO - Selected 14 sentences
+2025-04-17 10:59:31 - INFO - Selected 14 sentences
+2025-04-17 10:59:32 - INFO - Selected 14 sentences
+2025-04-17 10:59:33 - INFO - Selected 14 sentences
+2025-04-17 10:59:39 - INFO - Selected 14 sentences
+2025-04-17 10:59:43 - INFO - Selected 14 sentences
+2025-04-17 10:59:46 - INFO - Selected 14 sentences
+2025-04-17 10:59:52 - INFO - Selected 14 sentences
+2025-04-17 10:59:53 - INFO - Selected 14 sentences
+2025-04-17 10:59:56 - INFO - Selected 14 sentences
+2025-04-17 10:59:56 - INFO - Selected 14 sentences
+2025-04-17 10:59:57 - INFO - Selected 14 sentences
+2025-04-17 11:00:00 - INFO - Selected 14 sentences
+2025-04-17 11:00:01 - ERROR - Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 59
+}
+]. Using fallback.
+2025-04-17 11:00:05 - INFO - Selected 14 sentences
+2025-04-17 11:00:08 - INFO - Selected 14 sentences
+2025-04-17 11:00:13 - INFO - Selected 14 sentences
+2025-04-17 11:00:14 - ERROR - Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 46
+}
+]. Using fallback.
+2025-04-17 11:00:14 - ERROR - Insight generation failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 45
+}
+]
+2025-04-17 11:00:15 - INFO - Selected 14 sentences
+2025-04-17 11:00:25 - INFO - Selected 14 sentences
+2025-04-17 11:00:31 - INFO - Selected 14 sentences
+2025-04-17 11:00:33 - INFO - Selected 14 sentences
+2025-04-17 11:00:34 - INFO - Selected 14 sentences
+2025-04-17 11:00:37 - INFO - Selected 14 sentences
+2025-04-17 11:00:38 - INFO - Selected 14 sentences
+2025-04-17 11:00:42 - INFO - Selected 14 sentences
+2025-04-17 11:00:45 - INFO - Selected 14 sentences
+2025-04-17 11:00:46 - INFO - Selected 14 sentences
+2025-04-17 11:00:49 - INFO - Selected 14 sentences
+2025-04-17 11:00:52 - INFO - Selected 14 sentences
+2025-04-17 11:00:52 - INFO - Selected 14 sentences
+2025-04-17 11:00:54 - INFO - Selected 6 sentences
+2025-04-17 11:00:54 - INFO - Selected 6 sentences
+2025-04-17 11:00:56 - INFO - Selected 14 sentences
+2025-04-17 11:00:56 - ERROR - Insight generation failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 4
+}
+]
+2025-04-17 11:01:01 - INFO - Selected 14 sentences
+2025-04-17 11:01:02 - INFO - Selected 14 sentences
+2025-04-17 11:01:02 - ERROR - Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+]. Using fallback.
+2025-04-17 11:01:02 - ERROR - Insight generation failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 57
+}
+]
+2025-04-17 11:01:03 - INFO - Selected 14 sentences
+2025-04-17 11:01:07 - INFO - Selected 14 sentences
+2025-04-17 11:01:08 - ERROR - Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 52
+}
+]. Using fallback.
+2025-04-17 11:01:08 - ERROR - Insight generation failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 51
+}
+]
+2025-04-17 11:01:11 - INFO - Selected 14 sentences
+2025-04-17 11:01:12 - INFO - Selected 14 sentences
+2025-04-17 11:01:12 - ERROR - Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 47
+}
+]. Using fallback.
+2025-04-17 11:01:13 - INFO - Data written to static/data\news_analysis_20250417_110113.json
+2025-04-17 11:01:15 - INFO - Graphs saved: topic_entities_graph_20250417_110114.png, topic_distribution_pie_20250417_110114.png
+2025-04-17 11:01:15 - INFO - News update completed successfully
+2025-04-17 11:01:15 - INFO - Waiting 15 minutes for next update
+2025-04-17 11:01:18 - INFO - Selected 14 sentences
+2025-04-17 11:01:22 - INFO - Selected 14 sentences
+2025-04-17 11:01:28 - INFO - Selected 14 sentences
+2025-04-17 11:01:31 - INFO - Selected 14 sentences
+2025-04-17 11:01:32 - INFO - Selected 14 sentences
+2025-04-17 11:01:36 - INFO - Selected 14 sentences
+2025-04-17 11:01:40 - INFO - Selected 14 sentences
+2025-04-17 11:01:42 - INFO - Data written to static/data\news_analysis_20250417_110142.json
+2025-04-17 11:01:43 - INFO - Graphs saved: topic_entities_graph_20250417_110143.png, topic_distribution_pie_20250417_110143.png
+2025-04-17 11:01:43 - INFO - News update completed successfully
+2025-04-17 11:03:16 - INFO - Started background news updater thread
+2025-04-17 11:03:16 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+2025-04-17 11:03:16 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 11:03:46 - INFO - Starting scheduled news update...
+2025-04-17 11:03:46 - INFO - Starting news update: 2025-04-17 11:03:46 AM
+2025-04-17 11:03:47 - INFO - Fetched 30 articles from NewsAPI
+2025-04-17 11:03:47 - INFO - Scraping 122 URLs
+2025-04-17 11:03:47 - ERROR - Error scraping https://www.yourstory.com: 403 Client Error: Forbidden for url: https://www.yourstory.com/
+2025-04-17 11:03:48 - INFO - Scraped 10039 chars from https://www.thehindubusinessline.com
+2025-04-17 11:03:48 - INFO - Scraped 13869 chars from https://www.digit.in
+2025-04-17 11:03:48 - INFO - Scraped 8830 chars from https://www.theverge.com
+2025-04-17 11:03:49 - INFO - Scraped 7324 chars from https://www.livemint.com
+2025-04-17 11:03:49 - INFO - Scraped 5050 chars from https://www.wired.com
+2025-04-17 11:03:50 - INFO - Scraped 5214 chars from https://www.inc42.com
+2025-04-17 11:03:50 - INFO - Scraped 10897 chars from https://www.mashable.com
+2025-04-17 11:03:50 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 11:03:50 - INFO - Scraped 934 chars from https://www.practo.com/healthfeed
+2025-04-17 11:03:50 - ERROR - Error scraping https://www.bloomberg.com: 403 Client Error: Forbidden for url: https://www.bloomberg.com/
+2025-04-17 11:03:51 - INFO - Scraped 13195 chars from https://www.ft.com
+2025-04-17 11:03:51 - INFO - Scraped 3513 chars from https://www.forbes.com
+2025-04-17 11:03:51 - INFO - Scraped 23398 chars from https://www.gizmodo.com
+2025-04-17 11:03:52 - INFO - Scraped 2841 chars from https://www.medlineplus.gov
+2025-04-17 11:03:52 - INFO - Scraped 50000 chars from https://www.businessinsider.com
+2025-04-17 11:03:52 - INFO - Scraped 8722 chars from https://www.techcrunch.com
+2025-04-17 11:03:53 - INFO - Scraped 5801 chars from https://www.indiatoday.in/health
+2025-04-17 11:03:53 - INFO - Scraped 50000 chars from https://www.techradar.com/in
+2025-04-17 11:03:53 - INFO - Scraped 50000 chars from https://www.moneycontrol.com
+2025-04-17 11:03:54 - INFO - Scraped 4238 chars from https://www.medicalnewstoday.com
+2025-04-17 11:03:54 - INFO - Scraped 1024 chars from https://www.healthline.com
+2025-04-17 11:03:54 - INFO - Scraped 5718 chars from https://www.thehindu.com/education
+2025-04-17 11:03:54 - INFO - Scraped 911 chars from https://www.mayoclinic.org
+2025-04-17 11:03:54 - INFO - Scraped 7967 chars from https://www.timesofindia.indiatimes.com/life-style/health-fitness
+2025-04-17 11:03:54 - INFO - Scraped 7454 chars from https://www.webmd.com
+2025-04-17 11:03:54 - INFO - Scraped 15588 chars from https://www.indiatoday.in/education-today
+2025-04-17 11:03:54 - INFO - Scraped 0 chars from https://www.edsurge.com
+2025-04-17 11:03:54 - INFO - Scraped 11791 chars from https://www.indiatoday.in/sports
+2025-04-17 11:03:55 - INFO - Scraped 7346 chars from https://www.sportstar.thehindu.com
+2025-04-17 11:03:55 - INFO - Scraped 3038 chars from https://www.thehindu.com/sport
+2025-04-17 11:03:55 - INFO - Scraped 1057 chars from https://www.timesofindia.indiatimes.com/sports
+2025-04-17 11:03:55 - INFO - Scraped 13226 chars from https://www.si.com
+2025-04-17 11:03:56 - INFO - Scraped 10772 chars from https://www.bbc.com/sport
+2025-04-17 11:03:56 - INFO - Scraped 16139 chars from https://www.insidehighered.com
+2025-04-17 11:03:56 - INFO - Scraped 12888 chars from https://www.skysports.com
+2025-04-17 11:03:56 - INFO - Scraped 2075 chars from https://www.edweek.org
+2025-04-17 11:03:56 - ERROR - Error scraping https://www.bleacherreport.com: 403 Client Error: Forbidden for url: https://bleacherreport.com/
+2025-04-17 11:03:56 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 11:03:56 - INFO - Scraped 5046 chars from https://www.thehindu.com/sci-tech
+2025-04-17 11:03:56 - INFO - Scraped 29726 chars from https://www.espn.com
+2025-04-17 11:03:57 - INFO - Scraped 19003 chars from https://www.newscientist.com
+2025-04-17 11:03:57 - INFO - Scraped 17233 chars from https://www.scientificamerican.com
+2025-04-17 11:03:57 - INFO - Scraped 12566 chars from https://www.indiatoday.in/movies
+2025-04-17 11:03:57 - INFO - Scraped 53 chars from https://www.edtechmagazine.com
+2025-04-17 11:03:57 - INFO - Scraped 2172 chars from https://www.nationalgeographic.com/science
+2025-04-17 11:03:57 - INFO - Scraped 11686 chars from https://www.sciencenews.org
+2025-04-17 11:03:58 - INFO - Scraped 50000 chars from https://www.pinkvilla.com
+2025-04-17 11:03:58 - INFO - Scraped 19492 chars from https://www.filmfare.com
+2025-04-17 11:03:58 - INFO - Scraped 4391 chars from https://www.bollywoodhungama.com
+2025-04-17 11:03:58 - INFO - Scraped 12631 chars from https://www.billboard.com
+2025-04-17 11:03:58 - INFO - Scraped 404 chars from https://www.timesofindia.indiatimes.com/home/science
+2025-04-17 11:03:58 - INFO - Scraped 18720 chars from https://www.rollingstone.com
+2025-04-17 11:03:58 - INFO - Scraped 21119 chars from https://www.nature.com
+2025-04-17 11:03:59 - INFO - Scraped 13614 chars from https://www.hollywoodreporter.com
+2025-04-17 11:03:59 - INFO - Scraped 11333 chars from https://www.deadline.com
+2025-04-17 11:03:59 - INFO - Scraped 130 chars from https://www.outlookindia.com/outlooktraveller
+2025-04-17 11:04:00 - INFO - Scraped 9260 chars from https://www.perniaspopupshop.com
+2025-04-17 11:04:00 - INFO - Scraped 6048 chars from https://www.thrillophilia.com/blog
+2025-04-17 11:04:00 - INFO - Scraped 12749 chars from https://www.travelandleisure.com
+2025-04-17 11:04:00 - INFO - Scraped 50000 chars from https://www.variety.com
+2025-04-17 11:04:00 - INFO - Scraped 8933 chars from https://www.cntraveler.com
+2025-04-17 11:04:00 - INFO - Scraped 7526 chars from https://www.harpersbazaar.com
+2025-04-17 11:04:00 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 11:04:00 - INFO - Scraped 19719 chars from https://www.femina.in
+2025-04-17 11:04:00 - INFO - Scraped 5882 chars from https://www.elle.com
+2025-04-17 11:04:00 - INFO - Scraped 6939 chars from https://www.lonelyplanet.com
+2025-04-17 11:04:00 - INFO - Scraped 5923 chars from https://www.gq.com
+2025-04-17 11:04:01 - INFO - Scraped 1569 chars from https://www.nationalgeographic.com/travel
+2025-04-17 11:04:01 - INFO - Scraped 1315 chars from https://www.archanaskitchen.com
+2025-04-17 11:04:01 - INFO - Scraped 3615 chars from https://www.sanjeevkapoor.com
+2025-04-17 11:04:01 - INFO - Scraped 9247 chars from https://www.vogue.com
+2025-04-17 11:04:01 - INFO - Scraped 6893 chars from https://www.proptiger.com
+2025-04-17 11:04:01 - INFO - Scraped 3152 chars from https://www.hebbarskitchen.com
+2025-04-17 11:04:02 - INFO - Scraped 3545 chars from https://www.seriouseats.com
+2025-04-17 11:04:02 - INFO - Scraped 9345 chars from https://www.allrecipes.com
+2025-04-17 11:04:02 - ERROR - Error scraping https://www.housing.com: 403 Client Error: Forbidden for url: https://housing.com:443/
+2025-04-17 11:04:02 - INFO - Scraped 2946 chars from https://www.commonfloor.com
+2025-04-17 11:04:02 - INFO - Scraped 9351 chars from https://www.autocarindia.com
+2025-04-17 11:04:02 - INFO - Scraped 2100 chars from https://www.curbed.com
+2025-04-17 11:04:03 - INFO - Scraped 21126 chars from https://www.magicbricks.com
+2025-04-17 11:04:03 - INFO - Scraped 0 chars from https://www.gaadiwaadi.com
+2025-04-17 11:04:03 - INFO - Scraped 12071 chars from https://www.overdrive.in
+2025-04-17 11:04:03 - INFO - Scraped 7471 chars from https://www.cardekho.com
+2025-04-17 11:04:03 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 11:04:03 - INFO - Scraped 2088 chars from https://www.timesofindia.indiatimes.com/education
+2025-04-17 11:04:03 - INFO - Scraped 4882 chars from https://www.thehindu.com/sci-tech/energy-and-environment
+2025-04-17 11:04:04 - INFO - Scraped 9988 chars from https://www.scientificamerican.com/environment
+2025-04-17 11:04:04 - INFO - Scraped 416 chars from https://www.timesofindia.indiatimes.com/home/environment
+2025-04-17 11:04:04 - INFO - Scraped 11615 chars from https://www.theguardian.com/environment
+2025-04-17 11:04:04 - INFO - Scraped 3666 chars from https://www.autocar.co.uk
+2025-04-17 11:04:04 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 11:04:04 - INFO - Scraped 5046 chars from https://www.idiva.com
+2025-04-17 11:04:04 - INFO - Scraped 4241 chars from https://www.treehugger.com
+2025-04-17 11:04:04 - INFO - Scraped 1996 chars from https://www.nationalgeographic.com/environment
+2025-04-17 11:04:05 - INFO - Scraped 5428 chars from https://www.self.com
+2025-04-17 11:04:05 - INFO - Scraped 19719 chars from https://www.femina.in
+2025-04-17 11:04:05 - INFO - Scraped 409 chars from https://www.refinery29.com
+2025-04-17 11:04:05 - INFO - Scraped 42733 chars from https://www.ecowatch.com
+2025-04-17 11:04:05 - INFO - Scraped 3496 chars from https://www.wellandgood.com
+2025-04-17 11:04:05 - INFO - Scraped 23830 chars from https://www.mindbodygreen.com
+2025-04-17 11:04:05 - INFO - Scraped 15765 chars from https://www.traveltriangle.com
+2025-04-17 11:04:06 - INFO - Scraped 1383 chars from https://www.indiandefensenews.in
+2025-04-17 11:04:06 - INFO - Scraped 5412 chars from https://www.timesofindia.indiatimes.com/life-style
+2025-04-17 11:04:06 - INFO - Scraped 17030 chars from https://www.spsmai.com
+2025-04-17 11:04:06 - INFO - Scraped 24550 chars from https://www.bbc.com/news
+2025-04-17 11:04:06 - ERROR - Error scraping https://www.curofy.com: HTTPSConnectionPool(host='www.curofy.com', port=443): Read timed out. (read timeout=15)
+2025-04-17 11:04:06 - INFO - Scraped 1957 chars from https://www.bharat-rakshak.com
+2025-04-17 11:04:07 - INFO - Scraped 25078 chars from https://www.militarytimes.com
+2025-04-17 11:04:07 - INFO - Scraped 2971 chars from https://www.janes.com
+2025-04-17 11:04:07 - INFO - Scraped 21448 chars from https://www.defensenews.com
+2025-04-17 11:04:07 - INFO - Scraped 8631 chars from https://www.thehindu.com
+2025-04-17 11:04:07 - INFO - Scraped 922 chars from https://www.globalsecurity.org
+2025-04-17 11:04:07 - INFO - Scraped 13784 chars from https://www.defenseone.com
+2025-04-17 11:04:08 - INFO - Scraped 50000 chars from https://www.hindustantimes.com
+2025-04-17 11:04:08 - INFO - Scraped 34722 chars from https://www.cnn.com
+2025-04-17 11:04:08 - INFO - Scraped 50000 chars from https://www.defenceaviationpost.com
+2025-04-17 11:04:08 - INFO - Scraped 2536 chars from https://www.timesofindia.indiatimes.com
+2025-04-17 11:04:08 - INFO - Scraped 13330 chars from https://www.news18.com
+2025-04-17 11:04:08 - INFO - Scraped 11617 chars from https://www.nytimes.com
+2025-04-17 11:04:08 - INFO - Scraped 16486 chars from https://www.indiatoday.in
+2025-04-17 11:04:08 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 11:04:08 - INFO - Scraped 114 URLs successfully
+2025-04-17 11:04:08 - INFO - Clustering 4285 sentences into 20 clusters
+2025-04-17 11:04:13 - INFO - Selected 14 sentences
+2025-04-17 11:04:16 - INFO - Selected 14 sentences
+2025-04-17 11:04:22 - INFO - Selected 14 sentences
+2025-04-17 11:04:25 - INFO - 127.0.0.1 - - [17/Apr/2025 11:04:25] "GET / HTTP/1.1" 200 -
+2025-04-17 11:04:25 - INFO - 127.0.0.1 - - [17/Apr/2025 11:04:25] "GET /static/data/latest.json?t=1744868065857 HTTP/1.1" 200 -
+2025-04-17 11:04:26 - INFO - 127.0.0.1 - - [17/Apr/2025 11:04:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-17 11:04:34 - INFO - Selected 14 sentences
+2025-04-17 11:04:38 - INFO - Selected 14 sentences
+2025-04-17 11:04:44 - INFO - Selected 14 sentences
+2025-04-17 11:04:52 - INFO - 127.0.0.1 - - [17/Apr/2025 11:04:52] "GET /static/data/latest.json?t=1744868092407 HTTP/1.1" 200 -
+2025-04-17 11:05:11 - INFO - Selected 14 sentences
+2025-04-17 11:05:36 - INFO - Selected 14 sentences
+2025-04-17 11:05:41 - INFO - Selected 14 sentences
+2025-04-17 11:05:48 - INFO - Selected 14 sentences
+2025-04-17 11:05:51 - INFO - Selected 14 sentences
+2025-04-17 11:05:53 - INFO - Selected 14 sentences
+2025-04-17 11:06:00 - INFO - Selected 14 sentences
+2025-04-17 11:06:05 - INFO - Selected 14 sentences
+2025-04-17 11:06:12 - INFO - Selected 14 sentences
+2025-04-17 11:06:16 - INFO - Selected 14 sentences
+2025-04-17 11:06:22 - INFO - Selected 14 sentences
+2025-04-17 11:06:27 - INFO - Selected 14 sentences
+2025-04-17 11:06:30 - INFO - Selected 14 sentences
+2025-04-17 11:06:35 - INFO - Selected 14 sentences
+2025-04-17 11:06:48 - INFO - Selected 14 sentences
+2025-04-17 11:07:02 - INFO - Selected 14 sentences
+2025-04-17 11:07:06 - INFO - Selected 14 sentences
+2025-04-17 11:07:10 - INFO - Selected 14 sentences
+2025-04-17 11:07:13 - INFO - Selected 6 sentences
+2025-04-17 11:07:13 - INFO - Selected 6 sentences
+2025-04-17 11:07:16 - INFO - Selected 14 sentences
+2025-04-17 11:07:22 - INFO - Selected 14 sentences
+2025-04-17 11:07:28 - INFO - Selected 14 sentences
+2025-04-17 11:07:37 - INFO - Selected 14 sentences
+2025-04-17 11:07:42 - INFO - Selected 14 sentences
+2025-04-17 11:07:50 - INFO - Selected 14 sentences
+2025-04-17 11:07:53 - WARNING - No valid sentences in cluster
+2025-04-17 11:07:53 - INFO - Skipping topic 17: No meaningful sentences
+2025-04-17 11:07:53 - INFO - Selected 6 sentences
+2025-04-17 11:07:53 - INFO - Selected 6 sentences
+2025-04-17 11:07:55 - INFO - Selected 14 sentences
+2025-04-17 11:07:56 - INFO - Selected 14 sentences
+2025-04-17 11:08:00 - INFO - Selected 14 sentences
+2025-04-17 11:08:01 - INFO - Selected 14 sentences
+2025-04-17 11:08:04 - INFO - Data written to static/data\news_analysis_20250417_110804.json
+2025-04-17 11:08:05 - INFO - Graphs saved: topic_entities_graph_20250417_110805.png, topic_distribution_pie_20250417_110805.png
+2025-04-17 11:08:05 - INFO - News update completed successfully
+2025-04-17 11:08:05 - INFO - Updated static\data\latest.json with latest data
+2025-04-17 11:10:09 - INFO - 127.0.0.1 - - [17/Apr/2025 11:10:09] "GET /static/data/latest.json?t=1744868409099 HTTP/1.1" 200 -
+2025-04-17 11:10:23 - INFO - 127.0.0.1 - - [17/Apr/2025 11:10:23] "GET /static/data/latest.json?t=1744868422973 HTTP/1.1" 200 -
+2025-04-17 11:10:24 - INFO - 127.0.0.1 - - [17/Apr/2025 11:10:24] "GET /static/data/latest.json?t=1744868424136 HTTP/1.1" 200 -
+2025-04-17 11:16:15 - INFO - Starting news update: 2025-04-17 11:16:15 AM
+2025-04-17 11:16:16 - INFO - Fetched 30 articles from NewsAPI
+2025-04-17 11:16:16 - INFO - Scraping 122 URLs
+2025-04-17 11:16:16 - ERROR - Error scraping https://www.yourstory.com: 403 Client Error: Forbidden for url: https://www.yourstory.com/
+2025-04-17 11:16:16 - INFO - Scraped 10031 chars from https://www.thehindubusinessline.com
+2025-04-17 11:16:16 - INFO - Scraped 8830 chars from https://www.theverge.com
+2025-04-17 11:16:17 - INFO - Scraped 7346 chars from https://www.livemint.com
+2025-04-17 11:16:17 - INFO - Scraped 5050 chars from https://www.wired.com
+2025-04-17 11:16:17 - INFO - Scraped 10897 chars from https://www.mashable.com
+2025-04-17 11:16:17 - INFO - Scraped 5214 chars from https://www.inc42.com
+2025-04-17 11:16:17 - ERROR - Error scraping https://www.bloomberg.com: 403 Client Error: Forbidden for url: https://www.bloomberg.com/
+2025-04-17 11:16:18 - INFO - Scraped 3514 chars from https://www.forbes.com
+2025-04-17 11:16:18 - INFO - Scraped 50000 chars from https://www.techradar.com/in
+2025-04-17 11:16:18 - INFO - Scraped 1002 chars from https://www.practo.com/healthfeed
+2025-04-17 11:16:19 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 11:16:19 - INFO - Scraped 50000 chars from https://www.moneycontrol.com
+2025-04-17 11:16:19 - INFO - Scraped 5801 chars from https://www.indiatoday.in/health
+2025-04-17 11:16:19 - INFO - Scraped 13113 chars from https://www.ft.com
+2025-04-17 11:16:19 - INFO - Scraped 8722 chars from https://www.techcrunch.com
+2025-04-17 11:16:19 - INFO - Scraped 13869 chars from https://www.digit.in
+2025-04-17 11:16:20 - INFO - Scraped 23398 chars from https://www.gizmodo.com
+2025-04-17 11:16:20 - INFO - Scraped 2841 chars from https://www.medlineplus.gov
+2025-04-17 11:16:20 - INFO - Scraped 7946 chars from https://www.timesofindia.indiatimes.com/life-style/health-fitness
+2025-04-17 11:16:20 - INFO - Scraped 911 chars from https://www.mayoclinic.org
+2025-04-17 11:16:20 - INFO - Scraped 7454 chars from https://www.webmd.com
+2025-04-17 11:16:20 - INFO - Scraped 5718 chars from https://www.thehindu.com/education
+2025-04-17 11:16:20 - INFO - Scraped 15588 chars from https://www.indiatoday.in/education-today
+2025-04-17 11:16:20 - INFO - Scraped 4238 chars from https://www.medicalnewstoday.com
+2025-04-17 11:16:21 - INFO - Scraped 1024 chars from https://www.healthline.com
+2025-04-17 11:16:21 - INFO - Scraped 0 chars from https://www.edsurge.com
+2025-04-17 11:16:21 - INFO - Scraped 7238 chars from https://www.sportstar.thehindu.com
+2025-04-17 11:16:21 - INFO - Scraped 12035 chars from https://www.indiatoday.in/sports
+2025-04-17 11:16:21 - INFO - Scraped 3038 chars from https://www.thehindu.com/sport
+2025-04-17 11:16:21 - INFO - Scraped 1057 chars from https://www.timesofindia.indiatimes.com/sports
+2025-04-17 11:16:22 - INFO - Scraped 2088 chars from https://www.timesofindia.indiatimes.com/education
+2025-04-17 11:16:22 - INFO - Scraped 10772 chars from https://www.bbc.com/sport
+2025-04-17 11:16:22 - ERROR - Error scraping https://www.bleacherreport.com: 403 Client Error: Forbidden for url: https://bleacherreport.com/
+2025-04-17 11:16:22 - INFO - Scraped 2075 chars from https://www.edweek.org
+2025-04-17 11:16:22 - INFO - Scraped 12888 chars from https://www.skysports.com
+2025-04-17 11:16:23 - INFO - Scraped 16139 chars from https://www.insidehighered.com
+2025-04-17 11:16:23 - INFO - Scraped 53 chars from https://www.edtechmagazine.com
+2025-04-17 11:16:23 - INFO - Scraped 13200 chars from https://www.si.com
+2025-04-17 11:16:24 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 11:16:24 - INFO - Scraped 5046 chars from https://www.thehindu.com/sci-tech
+2025-04-17 11:16:24 - INFO - Scraped 29726 chars from https://www.espn.com
+2025-04-17 11:16:24 - INFO - Scraped 404 chars from https://www.timesofindia.indiatimes.com/home/science
+2025-04-17 11:16:24 - INFO - Scraped 2172 chars from https://www.nationalgeographic.com/science
+2025-04-17 11:16:25 - INFO - Scraped 19003 chars from https://www.newscientist.com
+2025-04-17 11:16:25 - INFO - Scraped 11686 chars from https://www.sciencenews.org
+2025-04-17 11:16:25 - INFO - Scraped 12554 chars from https://www.indiatoday.in/movies
+2025-04-17 11:16:25 - INFO - Scraped 17233 chars from https://www.scientificamerican.com
+2025-04-17 11:16:25 - INFO - Scraped 19492 chars from https://www.filmfare.com
+2025-04-17 11:16:25 - INFO - Scraped 50000 chars from https://www.pinkvilla.com
+2025-04-17 11:16:27 - INFO - Scraped 4377 chars from https://www.bollywoodhungama.com
+2025-04-17 11:16:27 - INFO - Scraped 18720 chars from https://www.rollingstone.com
+2025-04-17 11:16:27 - INFO - Scraped 12644 chars from https://www.billboard.com
+2025-04-17 11:16:27 - INFO - Scraped 11333 chars from https://www.deadline.com
+2025-04-17 11:16:27 - INFO - Scraped 13614 chars from https://www.hollywoodreporter.com
+2025-04-17 11:16:28 - INFO - Scraped 50000 chars from https://www.variety.com
+2025-04-17 11:16:28 - INFO - Scraped 6048 chars from https://www.thrillophilia.com/blog
+2025-04-17 11:16:28 - INFO - Scraped 21119 chars from https://www.nature.com
+2025-04-17 11:16:28 - INFO - Scraped 130 chars from https://www.outlookindia.com/outlooktraveller
+2025-04-17 11:16:28 - INFO - Scraped 8933 chars from https://www.cntraveler.com
+2025-04-17 11:16:28 - INFO - Scraped 9260 chars from https://www.perniaspopupshop.com
+2025-04-17 11:16:28 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 11:16:28 - INFO - Scraped 19594 chars from https://www.femina.in
+2025-04-17 11:16:28 - INFO - Scraped 12749 chars from https://www.travelandleisure.com
+2025-04-17 11:16:28 - INFO - Scraped 5923 chars from https://www.gq.com
+2025-04-17 11:16:29 - INFO - Scraped 7526 chars from https://www.harpersbazaar.com
+2025-04-17 11:16:29 - INFO - Scraped 5882 chars from https://www.elle.com
+2025-04-17 11:16:29 - INFO - Scraped 1315 chars from https://www.archanaskitchen.com
+2025-04-17 11:16:29 - INFO - Scraped 9247 chars from https://www.vogue.com
+2025-04-17 11:16:29 - INFO - Scraped 3615 chars from https://www.sanjeevkapoor.com
+2025-04-17 11:16:29 - INFO - Scraped 3152 chars from https://www.hebbarskitchen.com
+2025-04-17 11:16:29 - INFO - Scraped 6941 chars from https://www.lonelyplanet.com
+2025-04-17 11:16:29 - INFO - Scraped 1569 chars from https://www.nationalgeographic.com/travel
+2025-04-17 11:16:29 - INFO - Scraped 6893 chars from https://www.proptiger.com
+2025-04-17 11:16:30 - INFO - Scraped 3545 chars from https://www.seriouseats.com
+2025-04-17 11:16:30 - INFO - Scraped 9345 chars from https://www.allrecipes.com
+2025-04-17 11:16:30 - INFO - Scraped 2100 chars from https://www.curbed.com
+2025-04-17 11:16:30 - ERROR - Error scraping https://www.housing.com: 403 Client Error: Forbidden for url: https://housing.com:443/
+2025-04-17 11:16:30 - INFO - Scraped 2946 chars from https://www.commonfloor.com
+2025-04-17 11:16:30 - INFO - Scraped 9348 chars from https://www.autocarindia.com
+2025-04-17 11:16:30 - INFO - Scraped 21126 chars from https://www.magicbricks.com
+2025-04-17 11:16:30 - INFO - Scraped 7424 chars from https://www.cardekho.com
+2025-04-17 11:16:31 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 11:16:31 - INFO - Scraped 0 chars from https://www.gaadiwaadi.com
+2025-04-17 11:16:31 - INFO - Scraped 4882 chars from https://www.thehindu.com/sci-tech/energy-and-environment
+2025-04-17 11:16:31 - INFO - Scraped 15765 chars from https://www.traveltriangle.com
+2025-04-17 11:16:31 - INFO - Scraped 9988 chars from https://www.scientificamerican.com/environment
+2025-04-17 11:16:31 - INFO - Scraped 416 chars from https://www.timesofindia.indiatimes.com/home/environment
+2025-04-17 11:16:31 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 11:16:31 - INFO - Scraped 3666 chars from https://www.autocar.co.uk
+2025-04-17 11:16:32 - INFO - Scraped 4241 chars from https://www.treehugger.com
+2025-04-17 11:16:32 - INFO - Scraped 11581 chars from https://www.theguardian.com/environment
+2025-04-17 11:16:32 - INFO - Scraped 5399 chars from https://www.timesofindia.indiatimes.com/life-style
+2025-04-17 11:16:32 - INFO - Scraped 5046 chars from https://www.idiva.com
+2025-04-17 11:16:32 - INFO - Scraped 19594 chars from https://www.femina.in
+2025-04-17 11:16:32 - INFO - Scraped 5428 chars from https://www.self.com
+2025-04-17 11:16:32 - INFO - Scraped 1996 chars from https://www.nationalgeographic.com/environment
+2025-04-17 11:16:32 - INFO - Scraped 12078 chars from https://www.overdrive.in
+2025-04-17 11:16:32 - INFO - Scraped 409 chars from https://www.refinery29.com
+2025-04-17 11:16:33 - INFO - Scraped 42733 chars from https://www.ecowatch.com
+2025-04-17 11:16:33 - INFO - Scraped 23830 chars from https://www.mindbodygreen.com
+2025-04-17 11:16:33 - INFO - Scraped 3496 chars from https://www.wellandgood.com
+2025-04-17 11:16:33 - INFO - Scraped 1383 chars from https://www.indiandefensenews.in
+2025-04-17 11:16:33 - ERROR - Error scraping https://www.curofy.com: HTTPSConnectionPool(host='www.curofy.com', port=443): Read timed out. (read timeout=15)
+2025-04-17 11:16:34 - INFO - Scraped 922 chars from https://www.globalsecurity.org
+2025-04-17 11:16:34 - INFO - Scraped 1957 chars from https://www.bharat-rakshak.com
+2025-04-17 11:16:34 - INFO - Scraped 2971 chars from https://www.janes.com
+2025-04-17 11:16:34 - INFO - Scraped 24672 chars from https://www.bbc.com/news
+2025-04-17 11:16:34 - INFO - Scraped 13784 chars from https://www.defenseone.com
+2025-04-17 11:16:34 - INFO - Scraped 8593 chars from https://www.thehindu.com
+2025-04-17 11:16:34 - INFO - Scraped 21448 chars from https://www.defensenews.com
+2025-04-17 11:16:34 - INFO - Scraped 50000 chars from https://www.hindustantimes.com
+2025-04-17 11:16:35 - INFO - Scraped 25078 chars from https://www.militarytimes.com
+2025-04-17 11:16:35 - INFO - Scraped 2570 chars from https://www.timesofindia.indiatimes.com
+2025-04-17 11:16:35 - INFO - Scraped 16286 chars from https://www.indiatoday.in
+2025-04-17 11:16:35 - INFO - Scraped 50000 chars from https://www.defenceaviationpost.com
+2025-04-17 11:16:35 - INFO - Scraped 34665 chars from https://www.cnn.com
+2025-04-17 11:16:35 - INFO - Scraped 17030 chars from https://www.spsmai.com
+2025-04-17 11:16:35 - INFO - Scraped 11415 chars from https://www.nytimes.com
+2025-04-17 11:16:35 - INFO - Scraped 13307 chars from https://www.news18.com
+2025-04-17 11:16:35 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 11:17:08 - INFO - 127.0.0.1 - - [17/Apr/2025 11:17:08] "GET / HTTP/1.1" 200 -
+2025-04-17 11:17:08 - INFO - 127.0.0.1 - - [17/Apr/2025 11:17:08] "GET /static/data/latest.json?t=1744868828854 HTTP/1.1" 200 -
+2025-04-17 11:22:16 - INFO - 127.0.0.1 - - [17/Apr/2025 11:22:16] "GET / HTTP/1.1" 200 -
+2025-04-17 11:22:16 - INFO - 127.0.0.1 - - [17/Apr/2025 11:22:16] "GET /static/data/latest.json?t=1744869136307 HTTP/1.1" 200 -
+2025-04-17 11:22:27 - INFO - 127.0.0.1 - - [17/Apr/2025 11:22:27] "GET /static/data/latest.json?t=1744869146907 HTTP/1.1" 200 -
+2025-04-17 11:23:05 - INFO - Starting scheduled news update...
+2025-04-17 11:23:05 - INFO - Starting news update: 2025-04-17 11:23:05 AM
+2025-04-17 11:23:06 - INFO - Fetched 30 articles from NewsAPI
+2025-04-17 11:23:06 - INFO - Scraping 122 URLs
+2025-04-17 11:23:06 - ERROR - Error scraping https://www.yourstory.com: 403 Client Error: Forbidden for url: https://www.yourstory.com/
+2025-04-17 11:23:06 - INFO - Scraped 13869 chars from https://www.digit.in
+2025-04-17 11:23:06 - INFO - Scraped 10019 chars from https://www.thehindubusinessline.com
+2025-04-17 11:23:07 - INFO - Scraped 8830 chars from https://www.theverge.com
+2025-04-17 11:23:07 - INFO - Scraped 10897 chars from https://www.mashable.com
+2025-04-17 11:23:07 - INFO - Scraped 7181 chars from https://www.livemint.com
+2025-04-17 11:23:07 - INFO - Scraped 5214 chars from https://www.inc42.com
+2025-04-17 11:23:07 - INFO - Scraped 50000 chars from https://www.techradar.com/in
+2025-04-17 11:23:08 - INFO - Scraped 8722 chars from https://www.techcrunch.com
+2025-04-17 11:23:08 - ERROR - Error scraping https://www.bloomberg.com: 403 Client Error: Forbidden for url: https://www.bloomberg.com/
+2025-04-17 11:23:08 - INFO - Scraped 983 chars from https://www.practo.com/healthfeed
+2025-04-17 11:23:08 - INFO - Scraped 3515 chars from https://www.forbes.com
+2025-04-17 11:23:08 - INFO - Scraped 50000 chars from https://www.businessinsider.com
+2025-04-17 11:23:09 - INFO - Scraped 13160 chars from https://www.ft.com
+2025-04-17 11:23:09 - INFO - Scraped 23398 chars from https://www.gizmodo.com
+2025-04-17 11:23:09 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 11:23:09 - INFO - Scraped 5801 chars from https://www.indiatoday.in/health
+2025-04-17 11:23:09 - INFO - Scraped 50000 chars from https://www.moneycontrol.com
+2025-04-17 11:23:10 - INFO - Scraped 2841 chars from https://www.medlineplus.gov
+2025-04-17 11:23:10 - INFO - Scraped 1024 chars from https://www.healthline.com
+2025-04-17 11:23:10 - INFO - Scraped 911 chars from https://www.mayoclinic.org
+2025-04-17 11:23:10 - INFO - Scraped 5718 chars from https://www.thehindu.com/education
+2025-04-17 11:23:10 - INFO - Scraped 7454 chars from https://www.webmd.com
+2025-04-17 11:23:10 - INFO - Scraped 0 chars from https://www.edsurge.com
+2025-04-17 11:23:11 - INFO - Scraped 15588 chars from https://www.indiatoday.in/education-today
+2025-04-17 11:23:11 - INFO - Scraped 4238 chars from https://www.medicalnewstoday.com
+2025-04-17 11:23:11 - INFO - Scraped 7932 chars from https://www.timesofindia.indiatimes.com/life-style/health-fitness
+2025-04-17 11:23:11 - INFO - Scraped 2075 chars from https://www.edweek.org
+2025-04-17 11:23:11 - INFO - Scraped 7238 chars from https://www.sportstar.thehindu.com
+2025-04-17 11:23:11 - INFO - Scraped 16139 chars from https://www.insidehighered.com
+2025-04-17 11:23:11 - INFO - Scraped 12032 chars from https://www.indiatoday.in/sports
+2025-04-17 11:23:12 - INFO - Scraped 3038 chars from https://www.thehindu.com/sport
+2025-04-17 11:23:12 - INFO - Scraped 2088 chars from https://www.timesofindia.indiatimes.com/education
+2025-04-17 11:23:12 - INFO - Scraped 13200 chars from https://www.si.com
+2025-04-17 11:23:12 - ERROR - Error scraping https://www.bleacherreport.com: 403 Client Error: Forbidden for url: https://bleacherreport.com/
+2025-04-17 11:23:12 - INFO - Scraped 12888 chars from https://www.skysports.com
+2025-04-17 11:23:12 - INFO - Scraped 10772 chars from https://www.bbc.com/sport
+2025-04-17 11:23:13 - INFO - Scraped 1057 chars from https://www.timesofindia.indiatimes.com/sports
+2025-04-17 11:23:13 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 11:23:13 - INFO - Scraped 53 chars from https://www.edtechmagazine.com
+2025-04-17 11:23:13 - INFO - Scraped 5122 chars from https://www.thehindu.com/sci-tech
+2025-04-17 11:23:13 - INFO - Scraped 29744 chars from https://www.espn.com
+2025-04-17 11:23:13 - INFO - Scraped 12554 chars from https://www.indiatoday.in/movies
+2025-04-17 11:23:14 - INFO - Scraped 19003 chars from https://www.newscientist.com
+2025-04-17 11:23:14 - INFO - Scraped 17233 chars from https://www.scientificamerican.com
+2025-04-17 11:23:14 - INFO - Scraped 404 chars from https://www.timesofindia.indiatimes.com/home/science
+2025-04-17 11:23:14 - INFO - Scraped 50000 chars from https://www.pinkvilla.com
+2025-04-17 11:23:14 - INFO - Scraped 19492 chars from https://www.filmfare.com
+2025-04-17 11:23:14 - INFO - Scraped 2172 chars from https://www.nationalgeographic.com/science
+2025-04-17 11:23:14 - INFO - Scraped 11686 chars from https://www.sciencenews.org
+2025-04-17 11:23:15 - INFO - Scraped 12644 chars from https://www.billboard.com
+2025-04-17 11:23:15 - INFO - Scraped 4371 chars from https://www.bollywoodhungama.com
+2025-04-17 11:23:15 - INFO - Scraped 18799 chars from https://www.rollingstone.com
+2025-04-17 11:23:16 - INFO - Scraped 21119 chars from https://www.nature.com
+2025-04-17 11:23:16 - INFO - Scraped 8933 chars from https://www.cntraveler.com
+2025-04-17 11:23:16 - INFO - Scraped 130 chars from https://www.outlookindia.com/outlooktraveller
+2025-04-17 11:23:16 - INFO - Scraped 13614 chars from https://www.hollywoodreporter.com
+2025-04-17 11:23:16 - INFO - Scraped 6048 chars from https://www.thrillophilia.com/blog
+2025-04-17 11:23:16 - INFO - Scraped 11339 chars from https://www.deadline.com
+2025-04-17 11:23:17 - INFO - Scraped 50000 chars from https://www.variety.com
+2025-04-17 11:23:17 - INFO - Scraped 9260 chars from https://www.perniaspopupshop.com
+2025-04-17 11:23:17 - INFO - Scraped 19594 chars from https://www.femina.in
+2025-04-17 11:23:17 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 11:23:17 - INFO - Scraped 12749 chars from https://www.travelandleisure.com
+2025-04-17 11:23:17 - INFO - Scraped 1569 chars from https://www.nationalgeographic.com/travel
+2025-04-17 11:23:17 - INFO - Scraped 5882 chars from https://www.elle.com
+2025-04-17 11:23:18 - INFO - Scraped 7526 chars from https://www.harpersbazaar.com
+2025-04-17 11:23:18 - INFO - Scraped 5923 chars from https://www.gq.com
+2025-04-17 11:23:18 - INFO - Scraped 9247 chars from https://www.vogue.com
+2025-04-17 11:23:18 - INFO - Scraped 6939 chars from https://www.lonelyplanet.com
+2025-04-17 11:23:18 - INFO - Scraped 1315 chars from https://www.archanaskitchen.com
+2025-04-17 11:23:18 - INFO - Scraped 3615 chars from https://www.sanjeevkapoor.com
+2025-04-17 11:23:18 - INFO - Scraped 3152 chars from https://www.hebbarskitchen.com
+2025-04-17 11:23:18 - INFO - Scraped 6893 chars from https://www.proptiger.com
+2025-04-17 11:23:18 - INFO - Scraped 3545 chars from https://www.seriouseats.com
+2025-04-17 11:23:19 - INFO - Scraped 9345 chars from https://www.allrecipes.com
+2025-04-17 11:23:19 - ERROR - Error scraping https://www.housing.com: 403 Client Error: Forbidden for url: https://housing.com:443/
+2025-04-17 11:23:19 - INFO - Scraped 15765 chars from https://www.traveltriangle.com
+2025-04-17 11:23:19 - INFO - Scraped 9456 chars from https://www.autocarindia.com
+2025-04-17 11:23:19 - INFO - Scraped 2100 chars from https://www.curbed.com
+2025-04-17 11:23:19 - INFO - Scraped 12078 chars from https://www.overdrive.in
+2025-04-17 11:23:20 - INFO - Scraped 0 chars from https://www.gaadiwaadi.com
+2025-04-17 11:23:20 - INFO - Scraped 2946 chars from https://www.commonfloor.com
+2025-04-17 11:23:20 - INFO - Scraped 21126 chars from https://www.magicbricks.com
+2025-04-17 11:23:20 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 11:23:20 - INFO - Scraped 7419 chars from https://www.cardekho.com
+2025-04-17 11:23:20 - INFO - Scraped 4882 chars from https://www.thehindu.com/sci-tech/energy-and-environment
+2025-04-17 11:23:20 - INFO - Scraped 416 chars from https://www.timesofindia.indiatimes.com/home/environment
+2025-04-17 11:23:21 - INFO - Scraped 11581 chars from https://www.theguardian.com/environment
+2025-04-17 11:23:21 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 11:23:21 - INFO - Scraped 3666 chars from https://www.autocar.co.uk
+2025-04-17 11:23:21 - INFO - Scraped 9988 chars from https://www.scientificamerican.com/environment
+2025-04-17 11:23:21 - INFO - Scraped 4241 chars from https://www.treehugger.com
+2025-04-17 11:23:21 - INFO - Scraped 5046 chars from https://www.idiva.com
+2025-04-17 11:23:21 - INFO - Scraped 409 chars from https://www.refinery29.com
+2025-04-17 11:23:22 - INFO - Scraped 1996 chars from https://www.nationalgeographic.com/environment
+2025-04-17 11:23:22 - INFO - Scraped 19594 chars from https://www.femina.in
+2025-04-17 11:23:22 - INFO - Scraped 5428 chars from https://www.timesofindia.indiatimes.com/life-style
+2025-04-17 11:23:22 - INFO - Scraped 42733 chars from https://www.ecowatch.com
+2025-04-17 11:23:22 - INFO - Scraped 5428 chars from https://www.self.com
+2025-04-17 11:23:22 - INFO - Scraped 23830 chars from https://www.mindbodygreen.com
+2025-04-17 11:23:22 - INFO - Scraped 3496 chars from https://www.wellandgood.com
+2025-04-17 11:23:23 - INFO - Scraped 1383 chars from https://www.indiandefensenews.in
+2025-04-17 11:23:23 - INFO - Scraped 2971 chars from https://www.janes.com
+2025-04-17 11:23:23 - INFO - Scraped 922 chars from https://www.globalsecurity.org
+2025-04-17 11:23:23 - INFO - Scraped 21448 chars from https://www.defensenews.com
+2025-04-17 11:23:23 - INFO - Scraped 24674 chars from https://www.bbc.com/news
+2025-04-17 11:23:23 - INFO - Scraped 1957 chars from https://www.bharat-rakshak.com
+2025-04-17 11:23:23 - INFO - Scraped 17030 chars from https://www.spsmai.com
+2025-04-17 11:23:24 - ERROR - Error scraping https://www.curofy.com: HTTPSConnectionPool(host='www.curofy.com', port=443): Read timed out. (read timeout=15)
+2025-04-17 11:23:24 - INFO - Scraped 8647 chars from https://www.thehindu.com
+2025-04-17 11:23:24 - INFO - Scraped 13784 chars from https://www.defenseone.com
+2025-04-17 11:23:24 - INFO - Scraped 25078 chars from https://www.militarytimes.com
+2025-04-17 11:23:24 - INFO - Scraped 50000 chars from https://www.hindustantimes.com
+2025-04-17 11:23:24 - INFO - Scraped 2570 chars from https://www.timesofindia.indiatimes.com
+2025-04-17 11:23:25 - INFO - Scraped 16227 chars from https://www.indiatoday.in
+2025-04-17 11:23:25 - INFO - Scraped 50000 chars from https://www.defenceaviationpost.com
+2025-04-17 11:23:25 - INFO - Scraped 11617 chars from https://www.nytimes.com
+2025-04-17 11:23:25 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 11:23:25 - INFO - Scraped 13298 chars from https://www.news18.com
+2025-04-17 11:23:25 - INFO - Scraped 34665 chars from https://www.cnn.com
+2025-04-17 11:31:04 - INFO - Started background news updater thread
+2025-04-17 11:31:04 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+2025-04-17 11:31:04 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 11:31:11 - INFO - 127.0.0.1 - - [17/Apr/2025 11:31:11] "GET / HTTP/1.1" 200 -
+2025-04-17 11:31:11 - INFO - 127.0.0.1 - - [17/Apr/2025 11:31:11] "GET /static/data/latest.json?t=1744869671657 HTTP/1.1" 200 -
+2025-04-17 11:31:34 - INFO - Starting scheduled news update...
+2025-04-17 11:31:34 - INFO - Starting news update: 2025-04-17 11:31:34 AM
+2025-04-17 11:31:34 - INFO - Fetched 30 articles from NewsAPI
+2025-04-17 11:31:34 - INFO - Scraping 122 URLs
+2025-04-17 11:31:35 - ERROR - Error scraping https://www.yourstory.com: 403 Client Error: Forbidden for url: https://www.yourstory.com/
+2025-04-17 11:31:35 - INFO - Scraped 13864 chars from https://www.digit.in
+2025-04-17 11:31:36 - INFO - Scraped 5050 chars from https://www.wired.com
+2025-04-17 11:31:36 - INFO - Scraped 8830 chars from https://www.theverge.com
+2025-04-17 11:31:36 - INFO - Scraped 10897 chars from https://www.mashable.com
+2025-04-17 11:31:36 - INFO - Scraped 10009 chars from https://www.thehindubusinessline.com
+2025-04-17 11:31:36 - INFO - Scraped 7265 chars from https://www.livemint.com
+2025-04-17 11:31:37 - INFO - Scraped 5214 chars from https://www.inc42.com
+2025-04-17 11:31:37 - ERROR - Error scraping https://www.bloomberg.com: 403 Client Error: Forbidden for url: https://www.bloomberg.com/
+2025-04-17 11:31:37 - INFO - Scraped 8722 chars from https://www.techcrunch.com
+2025-04-17 11:31:38 - INFO - Scraped 943 chars from https://www.practo.com/healthfeed
+2025-04-17 11:31:38 - INFO - Scraped 3515 chars from https://www.forbes.com
+2025-04-17 11:31:38 - INFO - Scraped 50000 chars from https://www.businessinsider.com
+2025-04-17 11:31:38 - ERROR - Error scraping https://www.curofy.com: 502 Server Error: Bad Gateway for url: https://www.curofy.com/
+2025-04-17 11:31:39 - INFO - Scraped 20081 chars from https://www.indiatoday.in/health
+2025-04-17 11:31:40 - INFO - Scraped 23398 chars from https://www.gizmodo.com
+2025-04-17 11:31:40 - INFO - Scraped 50000 chars from https://www.techradar.com/in
+2025-04-17 11:31:40 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 11:31:40 - INFO - Scraped 50000 chars from https://www.moneycontrol.com
+2025-04-17 11:31:40 - INFO - Scraped 13251 chars from https://www.ft.com
+2025-04-17 11:31:41 - INFO - Scraped 1024 chars from https://www.healthline.com
+2025-04-17 11:31:41 - INFO - Scraped 2841 chars from https://www.medlineplus.gov
+2025-04-17 11:31:41 - INFO - Scraped 8009 chars from https://www.timesofindia.indiatimes.com/life-style/health-fitness
+2025-04-17 11:31:41 - INFO - Scraped 4238 chars from https://www.medicalnewstoday.com
+2025-04-17 11:31:41 - INFO - Scraped 5718 chars from https://www.thehindu.com/education
+2025-04-17 11:31:41 - INFO - Scraped 911 chars from https://www.mayoclinic.org
+2025-04-17 11:31:41 - INFO - Scraped 15634 chars from https://www.indiatoday.in/education-today
+2025-04-17 11:31:41 - INFO - Scraped 0 chars from https://www.edsurge.com
+2025-04-17 11:31:42 - INFO - Scraped 7222 chars from https://www.sportstar.thehindu.com
+2025-04-17 11:31:42 - INFO - Scraped 7454 chars from https://www.webmd.com
+2025-04-17 11:31:42 - INFO - Scraped 12032 chars from https://www.indiatoday.in/sports
+2025-04-17 11:31:42 - INFO - Scraped 3038 chars from https://www.thehindu.com/sport
+2025-04-17 11:31:42 - INFO - Scraped 1057 chars from https://www.timesofindia.indiatimes.com/sports
+2025-04-17 11:31:42 - ERROR - Error scraping https://www.bleacherreport.com: 403 Client Error: Forbidden for url: https://bleacherreport.com/
+2025-04-17 11:31:43 - INFO - Scraped 10772 chars from https://www.bbc.com/sport
+2025-04-17 11:31:44 - INFO - Scraped 2088 chars from https://www.timesofindia.indiatimes.com/education
+2025-04-17 11:31:44 - INFO - Scraped 16139 chars from https://www.insidehighered.com
+2025-04-17 11:31:44 - INFO - Scraped 29739 chars from https://www.espn.com
+2025-04-17 11:31:44 - INFO - Scraped 2075 chars from https://www.edweek.org
+2025-04-17 11:31:44 - INFO - Scraped 12888 chars from https://www.skysports.com
+2025-04-17 11:31:44 - INFO - Scraped 53 chars from https://www.edtechmagazine.com
+2025-04-17 11:31:44 - INFO - Scraped 13028 chars from https://www.si.com
+2025-04-17 11:31:44 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 11:31:45 - INFO - Scraped 5122 chars from https://www.thehindu.com/sci-tech
+2025-04-17 11:31:45 - INFO - Scraped 17233 chars from https://www.scientificamerican.com
+2025-04-17 11:31:45 - INFO - Scraped 19492 chars from https://www.filmfare.com
+2025-04-17 11:31:46 - INFO - Scraped 50000 chars from https://www.pinkvilla.com
+2025-04-17 11:31:46 - INFO - Scraped 21772 chars from https://www.indiatoday.in/movies
+2025-04-17 11:31:46 - INFO - Scraped 2172 chars from https://www.nationalgeographic.com/science
+2025-04-17 11:31:47 - INFO - Scraped 11649 chars from https://www.sciencenews.org
+2025-04-17 11:31:47 - INFO - Scraped 19003 chars from https://www.newscientist.com
+2025-04-17 11:31:47 - INFO - Scraped 18799 chars from https://www.rollingstone.com
+2025-04-17 11:31:47 - INFO - Scraped 4380 chars from https://www.bollywoodhungama.com
+2025-04-17 11:31:48 - INFO - Scraped 12644 chars from https://www.billboard.com
+2025-04-17 11:31:48 - INFO - Scraped 21119 chars from https://www.nature.com
+2025-04-17 11:31:48 - INFO - Scraped 8933 chars from https://www.cntraveler.com
+2025-04-17 11:31:48 - INFO - Scraped 130 chars from https://www.outlookindia.com/outlooktraveller
+2025-04-17 11:31:49 - INFO - Scraped 50000 chars from https://www.variety.com
+2025-04-17 11:31:49 - INFO - Scraped 6048 chars from https://www.thrillophilia.com/blog
+2025-04-17 11:31:49 - INFO - Scraped 11333 chars from https://www.deadline.com
+2025-04-17 11:31:49 - INFO - Scraped 9260 chars from https://www.perniaspopupshop.com
+2025-04-17 11:31:50 - INFO - Scraped 1569 chars from https://www.nationalgeographic.com/travel
+2025-04-17 11:31:50 - INFO - Scraped 6927 chars from https://www.lonelyplanet.com
+2025-04-17 11:31:50 - INFO - Scraped 13614 chars from https://www.hollywoodreporter.com
+2025-04-17 11:31:50 - INFO - Scraped 19594 chars from https://www.femina.in
+2025-04-17 11:31:50 - INFO - Scraped 12749 chars from https://www.travelandleisure.com
+2025-04-17 11:31:50 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 11:31:50 - INFO - Scraped 7526 chars from https://www.harpersbazaar.com
+2025-04-17 11:31:51 - INFO - Scraped 5923 chars from https://www.gq.com
+2025-04-17 11:31:51 - INFO - Scraped 5882 chars from https://www.elle.com
+2025-04-17 11:31:51 - INFO - Scraped 1315 chars from https://www.archanaskitchen.com
+2025-04-17 11:31:51 - INFO - Scraped 3615 chars from https://www.sanjeevkapoor.com
+2025-04-17 11:31:52 - INFO - Scraped 9247 chars from https://www.vogue.com
+2025-04-17 11:31:52 - ERROR - Error scraping https://www.housing.com: 403 Client Error: Forbidden for url: https://housing.com:443/
+2025-04-17 11:31:52 - INFO - Scraped 6893 chars from https://www.proptiger.com
+2025-04-17 11:31:53 - INFO - Scraped 3545 chars from https://www.seriouseats.com
+2025-04-17 11:31:53 - INFO - Scraped 2946 chars from https://www.commonfloor.com
+2025-04-17 11:31:53 - INFO - Scraped 15765 chars from https://www.traveltriangle.com
+2025-04-17 11:31:53 - INFO - Scraped 9345 chars from https://www.allrecipes.com
+2025-04-17 11:31:53 - INFO - Scraped 3152 chars from https://www.hebbarskitchen.com
+2025-04-17 11:31:53 - INFO - Scraped 404 chars from https://www.timesofindia.indiatimes.com/home/science
+2025-04-17 11:31:53 - INFO - Scraped 21126 chars from https://www.magicbricks.com
+2025-04-17 11:31:53 - INFO - Scraped 2100 chars from https://www.curbed.com
+2025-04-17 11:31:54 - INFO - Scraped 9456 chars from https://www.autocarindia.com
+2025-04-17 11:31:54 - INFO - Scraped 0 chars from https://www.gaadiwaadi.com
+2025-04-17 11:31:54 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 11:31:54 - INFO - Scraped 4882 chars from https://www.thehindu.com/sci-tech/energy-and-environment
+2025-04-17 11:31:54 - INFO - Scraped 7419 chars from https://www.cardekho.com
+2025-04-17 11:31:55 - INFO - Scraped 9988 chars from https://www.scientificamerican.com/environment
+2025-04-17 11:31:55 - INFO - Scraped 416 chars from https://www.timesofindia.indiatimes.com/home/environment
+2025-04-17 11:31:55 - INFO - Scraped 11539 chars from https://www.theguardian.com/environment
+2025-04-17 11:31:55 - INFO - Scraped 4241 chars from https://www.treehugger.com
+2025-04-17 11:31:55 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 11:31:55 - INFO - Scraped 3666 chars from https://www.autocar.co.uk
+2025-04-17 11:31:55 - INFO - Scraped 5046 chars from https://www.idiva.com
+2025-04-17 11:31:55 - INFO - Scraped 19594 chars from https://www.femina.in
+2025-04-17 11:31:56 - INFO - Scraped 1996 chars from https://www.nationalgeographic.com/environment
+2025-04-17 11:31:56 - INFO - Scraped 12078 chars from https://www.overdrive.in
+2025-04-17 11:31:56 - INFO - Scraped 409 chars from https://www.refinery29.com
+2025-04-17 11:31:56 - INFO - Scraped 5401 chars from https://www.timesofindia.indiatimes.com/life-style
+2025-04-17 11:31:56 - INFO - Scraped 5428 chars from https://www.self.com
+2025-04-17 11:31:56 - INFO - Scraped 42733 chars from https://www.ecowatch.com
+2025-04-17 11:31:57 - INFO - Scraped 1177 chars from https://www.indiandefensenews.in
+2025-04-17 11:31:57 - INFO - Scraped 1957 chars from https://www.bharat-rakshak.com
+2025-04-17 11:31:57 - INFO - Scraped 922 chars from https://www.globalsecurity.org
+2025-04-17 11:31:57 - INFO - Scraped 23830 chars from https://www.mindbodygreen.com
+2025-04-17 11:31:57 - INFO - Scraped 25078 chars from https://www.militarytimes.com
+2025-04-17 11:31:57 - INFO - Scraped 3496 chars from https://www.wellandgood.com
+2025-04-17 11:31:58 - INFO - Scraped 13784 chars from https://www.defenseone.com
+2025-04-17 11:31:58 - INFO - Scraped 17030 chars from https://www.spsmai.com
+2025-04-17 11:31:58 - INFO - Scraped 8664 chars from https://www.thehindu.com
+2025-04-17 11:31:58 - INFO - Scraped 24601 chars from https://www.bbc.com/news
+2025-04-17 11:31:58 - INFO - Scraped 50000 chars from https://www.hindustantimes.com
+2025-04-17 11:31:58 - INFO - Scraped 21448 chars from https://www.defensenews.com
+2025-04-17 11:31:59 - INFO - Scraped 50000 chars from https://www.defenceaviationpost.com
+2025-04-17 11:31:59 - INFO - Scraped 16227 chars from https://www.indiatoday.in
+2025-04-17 11:32:00 - INFO - Scraped 2623 chars from https://www.timesofindia.indiatimes.com
+2025-04-17 11:32:00 - INFO - Scraped 11617 chars from https://www.nytimes.com
+2025-04-17 11:32:00 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 11:32:01 - INFO - Scraped 13359 chars from https://www.news18.com
+2025-04-17 11:32:01 - INFO - Scraped 34665 chars from https://www.cnn.com
+2025-04-17 11:32:06 - INFO - Scraped 2971 chars from https://www.janes.com
+2025-04-17 11:32:06 - INFO - Scraped 114 URLs successfully
+2025-04-17 11:32:06 - INFO - Clustering 4512 sentences into 20 clusters
+2025-04-17 11:32:12 - INFO - Selected 14 sentences
+2025-04-17 11:32:14 - INFO - Selected 14 sentences
+2025-04-17 11:32:17 - INFO - Selected 14 sentences
+2025-04-17 11:32:19 - INFO - Selected 14 sentences
+2025-04-17 11:32:48 - INFO - Selected 14 sentences
+2025-04-17 11:33:14 - INFO - Selected 14 sentences
+2025-04-17 11:33:25 - INFO - Selected 14 sentences
+2025-04-17 11:33:35 - INFO - Selected 14 sentences
+2025-04-17 11:33:43 - INFO - Selected 14 sentences
+2025-04-17 11:33:51 - INFO - Selected 14 sentences
+2025-04-17 11:33:55 - INFO - Selected 14 sentences
+2025-04-17 11:34:00 - INFO - Selected 14 sentences
+2025-04-17 11:34:04 - INFO - Selected 14 sentences
+2025-04-17 11:34:08 - INFO - Selected 14 sentences
+2025-04-17 11:34:12 - INFO - Selected 14 sentences
+2025-04-17 11:34:18 - INFO - Selected 14 sentences
+2025-04-17 11:34:21 - INFO - Selected 14 sentences
+2025-04-17 11:34:23 - INFO - Selected 14 sentences
+2025-04-17 11:34:26 - INFO - Selected 11 sentences
+2025-04-17 11:34:26 - INFO - Selected 11 sentences
+2025-04-17 11:34:31 - INFO - Selected 14 sentences
+2025-04-17 11:34:39 - INFO - Selected 14 sentences
+2025-04-17 11:34:43 - INFO - Selected 14 sentences
+2025-04-17 11:34:43 - INFO - Selected 14 sentences
+2025-04-17 11:34:47 - INFO - Selected 14 sentences
+2025-04-17 11:34:47 - INFO - Selected 14 sentences
+2025-04-17 11:34:59 - INFO - Selected 14 sentences
+2025-04-17 11:35:11 - INFO - Selected 14 sentences
+2025-04-17 11:35:16 - INFO - Selected 14 sentences
+2025-04-17 11:35:23 - INFO - Selected 14 sentences
+2025-04-17 11:35:27 - INFO - Selected 14 sentences
+2025-04-17 11:35:33 - INFO - Selected 14 sentences
+2025-04-17 11:35:36 - INFO - Selected 14 sentences
+2025-04-17 11:35:36 - INFO - Selected 14 sentences
+2025-04-17 11:35:42 - INFO - Selected 14 sentences
+2025-04-17 11:35:49 - INFO - Selected 14 sentences
+2025-04-17 11:35:55 - INFO - Selected 14 sentences
+2025-04-17 11:36:05 - INFO - Selected 14 sentences
+2025-04-17 11:36:10 - INFO - Selected 14 sentences
+2025-04-17 11:36:16 - INFO - Selected 14 sentences
+2025-04-17 11:36:18 - INFO - Data written to static/data\news_analysis_20250417_113618.json
+2025-04-17 11:36:19 - INFO - Graphs saved: topic_entities_graph_20250417_113619.png, topic_distribution_pie_20250417_113619.png
+2025-04-17 11:36:19 - INFO - News update completed successfully
+2025-04-17 11:36:19 - INFO - Updated static\data\latest.json with latest data
+2025-04-17 11:47:51 - INFO - Started background news updater thread
+2025-04-17 11:47:51 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+2025-04-17 11:47:51 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 11:47:55 - INFO - 127.0.0.1 - - [17/Apr/2025 11:47:55] "GET /static/data/latest.json?t=1744870674913 HTTP/1.1" 200 -
+2025-04-17 11:48:03 - INFO - 127.0.0.1 - - [17/Apr/2025 11:48:03] "GET / HTTP/1.1" 200 -
+2025-04-17 11:48:04 - INFO - 127.0.0.1 - - [17/Apr/2025 11:48:04] "GET /static/data/latest.json?t=1744870683883 HTTP/1.1" 200 -
+2025-04-17 11:48:21 - INFO - Starting scheduled news update...
+2025-04-17 11:48:21 - INFO - Starting news update: 2025-04-17 11:48:21 AM
+2025-04-17 11:48:21 - INFO - Fetched 30 articles from NewsAPI
+2025-04-17 11:48:21 - INFO - Scraping 122 URLs
+2025-04-17 11:48:22 - ERROR - Error scraping https://www.yourstory.com: 403 Client Error: Forbidden for url: https://www.yourstory.com/
+2025-04-17 11:48:22 - INFO - Scraped 13888 chars from https://www.digit.in
+2025-04-17 11:48:22 - INFO - Scraped 10044 chars from https://www.thehindubusinessline.com
+2025-04-17 11:48:23 - INFO - Scraped 5050 chars from https://www.wired.com
+2025-04-17 11:48:23 - INFO - Scraped 8830 chars from https://www.theverge.com
+2025-04-17 11:48:23 - INFO - Scraped 7291 chars from https://www.livemint.com
+2025-04-17 11:48:23 - INFO - Scraped 5214 chars from https://www.inc42.com
+2025-04-17 11:48:23 - INFO - Scraped 10897 chars from https://www.mashable.com
+2025-04-17 11:48:23 - INFO - Scraped 50000 chars from https://www.techradar.com/in
+2025-04-17 11:48:24 - INFO - Scraped 50000 chars from https://www.businessinsider.com
+2025-04-17 11:48:24 - ERROR - Error scraping https://www.bloomberg.com: 403 Client Error: Forbidden for url: https://www.bloomberg.com/
+2025-04-17 11:48:24 - INFO - Scraped 3516 chars from https://www.forbes.com
+2025-04-17 11:48:24 - INFO - Scraped 1078 chars from https://www.practo.com/healthfeed
+2025-04-17 11:48:25 - INFO - Scraped 5801 chars from https://www.indiatoday.in/health
+2025-04-17 11:48:25 - INFO - Scraped 13238 chars from https://www.ft.com
+2025-04-17 11:48:25 - INFO - Scraped 2841 chars from https://www.medlineplus.gov
+2025-04-17 11:48:25 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 11:48:25 - INFO - Scraped 23398 chars from https://www.gizmodo.com
+2025-04-17 11:48:25 - INFO - Scraped 8682 chars from https://www.techcrunch.com
+2025-04-17 11:48:26 - INFO - Scraped 50000 chars from https://www.moneycontrol.com
+2025-04-17 11:48:26 - INFO - Scraped 1024 chars from https://www.healthline.com
+2025-04-17 11:48:26 - INFO - Scraped 4238 chars from https://www.medicalnewstoday.com
+2025-04-17 11:48:26 - INFO - Scraped 911 chars from https://www.mayoclinic.org
+2025-04-17 11:48:26 - INFO - Scraped 7454 chars from https://www.webmd.com
+2025-04-17 11:48:26 - INFO - Scraped 5718 chars from https://www.thehindu.com/education
+2025-04-17 11:48:27 - INFO - Scraped 0 chars from https://www.edsurge.com
+2025-04-17 11:48:27 - INFO - Scraped 8054 chars from https://www.timesofindia.indiatimes.com/life-style/health-fitness
+2025-04-17 11:48:27 - INFO - Scraped 26183 chars from https://www.indiatoday.in/education-today
+2025-04-17 11:48:27 - INFO - Scraped 12032 chars from https://www.indiatoday.in/sports
+2025-04-17 11:48:27 - INFO - Scraped 7274 chars from https://www.sportstar.thehindu.com
+2025-04-17 11:48:27 - INFO - Scraped 3038 chars from https://www.thehindu.com/sport
+2025-04-17 11:48:28 - INFO - Scraped 2088 chars from https://www.timesofindia.indiatimes.com/education
+2025-04-17 11:48:28 - INFO - Scraped 12935 chars from https://www.skysports.com
+2025-04-17 11:48:28 - ERROR - Error scraping https://www.bleacherreport.com: 403 Client Error: Forbidden for url: https://bleacherreport.com/
+2025-04-17 11:48:28 - INFO - Scraped 10807 chars from https://www.bbc.com/sport
+2025-04-17 11:48:29 - INFO - Scraped 1057 chars from https://www.timesofindia.indiatimes.com/sports
+2025-04-17 11:48:29 - INFO - Scraped 16139 chars from https://www.insidehighered.com
+2025-04-17 11:48:29 - INFO - Scraped 2075 chars from https://www.edweek.org
+2025-04-17 11:48:29 - INFO - Scraped 224 chars from https://www.downtoearth.org.in
+2025-04-17 11:48:29 - INFO - Scraped 29739 chars from https://www.espn.com
+2025-04-17 11:48:29 - INFO - Scraped 13198 chars from https://www.si.com
+2025-04-17 11:48:29 - INFO - Scraped 5195 chars from https://www.thehindu.com/sci-tech
+2025-04-17 11:48:30 - INFO - Scraped 404 chars from https://www.timesofindia.indiatimes.com/home/science
+2025-04-17 11:48:30 - INFO - Scraped 53 chars from https://www.edtechmagazine.com
+2025-04-17 11:48:30 - INFO - Scraped 19036 chars from https://www.newscientist.com
+2025-04-17 11:48:30 - INFO - Scraped 12656 chars from https://www.indiatoday.in/movies
+2025-04-17 11:48:30 - INFO - Scraped 17233 chars from https://www.scientificamerican.com
+2025-04-17 11:48:30 - INFO - Scraped 50000 chars from https://www.pinkvilla.com
+2025-04-17 11:48:30 - INFO - Scraped 19532 chars from https://www.filmfare.com
+2025-04-17 11:48:31 - INFO - Scraped 2172 chars from https://www.nationalgeographic.com/science
+2025-04-17 11:48:31 - INFO - Scraped 11607 chars from https://www.sciencenews.org
+2025-04-17 11:48:31 - INFO - Scraped 4394 chars from https://www.bollywoodhungama.com
+2025-04-17 11:48:31 - INFO - Scraped 12644 chars from https://www.billboard.com
+2025-04-17 11:48:32 - INFO - Scraped 18799 chars from https://www.rollingstone.com
+2025-04-17 11:48:32 - INFO - Scraped 13651 chars from https://www.hollywoodreporter.com
+2025-04-17 11:48:32 - INFO - Scraped 21119 chars from https://www.nature.com
+2025-04-17 11:48:32 - INFO - Scraped 50000 chars from https://www.variety.com
+2025-04-17 11:48:32 - INFO - Scraped 130 chars from https://www.outlookindia.com/outlooktraveller
+2025-04-17 11:48:33 - INFO - Scraped 8933 chars from https://www.cntraveler.com
+2025-04-17 11:48:33 - INFO - Scraped 9260 chars from https://www.perniaspopupshop.com
+2025-04-17 11:48:33 - INFO - Scraped 11333 chars from https://www.deadline.com
+2025-04-17 11:48:33 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 11:48:34 - INFO - Scraped 12749 chars from https://www.travelandleisure.com
+2025-04-17 11:48:34 - INFO - Scraped 1569 chars from https://www.nationalgeographic.com/travel
+2025-04-17 11:48:34 - INFO - Scraped 7526 chars from https://www.harpersbazaar.com
+2025-04-17 11:48:34 - INFO - Scraped 6048 chars from https://www.thrillophilia.com/blog
+2025-04-17 11:48:34 - INFO - Scraped 6949 chars from https://www.lonelyplanet.com
+2025-04-17 11:48:34 - INFO - Scraped 19594 chars from https://www.femina.in
+2025-04-17 11:48:34 - INFO - Scraped 5882 chars from https://www.elle.com
+2025-04-17 11:48:35 - INFO - Scraped 5923 chars from https://www.gq.com
+2025-04-17 11:48:35 - INFO - Scraped 9247 chars from https://www.vogue.com
+2025-04-17 11:48:35 - INFO - Scraped 6893 chars from https://www.proptiger.com
+2025-04-17 11:48:35 - INFO - Scraped 1315 chars from https://www.archanaskitchen.com
+2025-04-17 11:48:35 - INFO - Scraped 3615 chars from https://www.sanjeevkapoor.com
+2025-04-17 11:48:35 - INFO - Scraped 3545 chars from https://www.seriouseats.com
+2025-04-17 11:48:35 - INFO - Scraped 3152 chars from https://www.hebbarskitchen.com
+2025-04-17 11:48:35 - ERROR - Error scraping https://www.housing.com: 403 Client Error: Forbidden for url: https://housing.com:443/
+2025-04-17 11:48:36 - INFO - Scraped 15765 chars from https://www.traveltriangle.com
+2025-04-17 11:48:36 - INFO - Scraped 0 chars from https://www.gaadiwaadi.com
+2025-04-17 11:48:36 - INFO - Scraped 9345 chars from https://www.allrecipes.com
+2025-04-17 11:48:36 - INFO - Scraped 9447 chars from https://www.autocarindia.com
+2025-04-17 11:48:36 - INFO - Scraped 2946 chars from https://www.commonfloor.com
+2025-04-17 11:48:36 - INFO - Scraped 2100 chars from https://www.curbed.com
+2025-04-17 11:48:37 - INFO - Scraped 12078 chars from https://www.overdrive.in
+2025-04-17 11:48:37 - INFO - Scraped 7422 chars from https://www.cardekho.com
+2025-04-17 11:48:37 - INFO - Scraped 4882 chars from https://www.thehindu.com/sci-tech/energy-and-environment
+2025-04-17 11:48:37 - INFO - Scraped 224 chars from https://www.downtoearth.org.in
+2025-04-17 11:48:37 - INFO - Scraped 21126 chars from https://www.magicbricks.com
+2025-04-17 11:48:37 - INFO - Scraped 416 chars from https://www.timesofindia.indiatimes.com/home/environment
+2025-04-17 11:48:38 - INFO - Scraped 11517 chars from https://www.theguardian.com/environment
+2025-04-17 11:48:38 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 11:48:38 - INFO - Scraped 1996 chars from https://www.nationalgeographic.com/environment
+2025-04-17 11:48:38 - INFO - Scraped 5046 chars from https://www.idiva.com
+2025-04-17 11:48:38 - INFO - Scraped 9988 chars from https://www.scientificamerican.com/environment
+2025-04-17 11:48:38 - INFO - Scraped 4241 chars from https://www.treehugger.com
+2025-04-17 11:48:38 - INFO - Scraped 19594 chars from https://www.femina.in
+2025-04-17 11:48:38 - INFO - Scraped 5433 chars from https://www.timesofindia.indiatimes.com/life-style
+2025-04-17 11:48:38 - INFO - Scraped 5428 chars from https://www.self.com
+2025-04-17 11:48:39 - INFO - Scraped 409 chars from https://www.refinery29.com
+2025-04-17 11:48:39 - INFO - Scraped 3496 chars from https://www.wellandgood.com
+2025-04-17 11:48:39 - INFO - Scraped 42733 chars from https://www.ecowatch.com
+2025-04-17 11:48:39 - ERROR - Error scraping https://www.curofy.com: HTTPSConnectionPool(host='www.curofy.com', port=443): Read timed out. (read timeout=15)
+2025-04-17 11:48:39 - INFO - Scraped 3673 chars from https://www.autocar.co.uk
+2025-04-17 11:48:39 - INFO - Scraped 23830 chars from https://www.mindbodygreen.com
+2025-04-17 11:48:40 - INFO - Scraped 1177 chars from https://www.indiandefensenews.in
+2025-04-17 11:48:40 - INFO - Scraped 922 chars from https://www.globalsecurity.org
+2025-04-17 11:48:40 - INFO - Scraped 24946 chars from https://www.bbc.com/news
+2025-04-17 11:48:40 - INFO - Scraped 21442 chars from https://www.defensenews.com
+2025-04-17 11:48:40 - INFO - Scraped 1957 chars from https://www.bharat-rakshak.com
+2025-04-17 11:48:40 - INFO - Scraped 17035 chars from https://www.spsmai.com
+2025-04-17 11:48:40 - INFO - Scraped 23749 chars from https://www.militarytimes.com
+2025-04-17 11:48:40 - INFO - Scraped 13784 chars from https://www.defenseone.com
+2025-04-17 11:48:41 - INFO - Scraped 8465 chars from https://www.thehindu.com
+2025-04-17 11:48:41 - INFO - Scraped 2971 chars from https://www.janes.com
+2025-04-17 11:48:41 - INFO - Scraped 16126 chars from https://www.indiatoday.in
+2025-04-17 11:48:41 - INFO - Scraped 50000 chars from https://www.hindustantimes.com
+2025-04-17 11:48:42 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 11:48:42 - INFO - Scraped 11617 chars from https://www.nytimes.com
+2025-04-17 11:48:42 - INFO - Scraped 50000 chars from https://www.defenceaviationpost.com
+2025-04-17 11:48:42 - INFO - Scraped 13411 chars from https://www.news18.com
+2025-04-17 11:48:42 - INFO - Scraped 2623 chars from https://www.timesofindia.indiatimes.com
+2025-04-17 11:48:43 - INFO - Scraped 34665 chars from https://www.cnn.com
+2025-04-17 11:48:43 - INFO - Scraped 114 URLs successfully
+2025-04-17 11:48:43 - INFO - Clustering 4510 sentences into 20 clusters
+2025-04-17 11:48:47 - INFO - Selected 14 sentences
+2025-04-17 11:48:48 - INFO - Selected 14 sentences
+2025-04-17 11:48:54 - INFO - Selected 14 sentences
+2025-04-17 11:49:05 - INFO - Selected 14 sentences
+2025-04-17 11:49:20 - INFO - 127.0.0.1 - - [17/Apr/2025 11:49:20] "GET /static/data/latest.json?t=1744870760219 HTTP/1.1" 200 -
+2025-04-17 11:49:30 - INFO - Selected 14 sentences
+2025-04-17 11:49:38 - INFO - 127.0.0.1 - - [17/Apr/2025 11:49:38] "GET /static/data/latest.json?t=1744870778736 HTTP/1.1" 200 -
+2025-04-17 11:49:42 - INFO - 127.0.0.1 - - [17/Apr/2025 11:49:42] "GET /static/data/latest.json?t=1744870782381 HTTP/1.1" 200 -
+2025-04-17 11:49:54 - INFO - Selected 14 sentences
+2025-04-17 11:49:58 - INFO - Selected 14 sentences
+2025-04-17 11:50:07 - INFO - Selected 14 sentences
+2025-04-17 11:50:12 - INFO - Selected 14 sentences
+2025-04-17 11:50:23 - INFO - Selected 14 sentences
+2025-04-17 11:50:31 - INFO - Selected 14 sentences
+2025-04-17 11:50:41 - INFO - Selected 14 sentences
+2025-04-17 11:50:46 - INFO - Selected 14 sentences
+2025-04-17 11:50:49 - INFO - Selected 14 sentences
+2025-04-17 11:50:53 - INFO - Selected 14 sentences
+2025-04-17 11:50:56 - INFO - Selected 14 sentences
+2025-04-17 11:51:00 - INFO - Selected 14 sentences
+2025-04-17 11:51:06 - INFO - Selected 14 sentences
+2025-04-17 11:51:14 - INFO - Selected 14 sentences
+2025-04-17 11:51:26 - INFO - Selected 14 sentences
+2025-04-17 11:51:32 - INFO - Selected 14 sentences
+2025-04-17 11:51:42 - INFO - Selected 14 sentences
+2025-04-17 11:51:51 - INFO - Selected 14 sentences
+2025-04-17 11:52:00 - INFO - Selected 14 sentences
+2025-04-17 11:52:03 - INFO - Selected 14 sentences
+2025-04-17 11:52:04 - INFO - Selected 14 sentences
+2025-04-17 11:52:10 - INFO - Selected 14 sentences
+2025-04-17 11:52:14 - INFO - Selected 14 sentences
+2025-04-17 11:52:21 - INFO - Selected 14 sentences
+2025-04-17 11:52:27 - INFO - Selected 14 sentences
+2025-04-17 11:52:31 - INFO - Selected 14 sentences
+2025-04-17 11:52:33 - INFO - Selected 14 sentences
+2025-04-17 11:52:42 - INFO - Selected 14 sentences
+2025-04-17 11:52:49 - INFO - Selected 14 sentences
+2025-04-17 11:52:53 - INFO - Selected 14 sentences
+2025-04-17 11:52:57 - INFO - Selected 14 sentences
+2025-04-17 11:53:00 - INFO - Selected 14 sentences
+2025-04-17 11:53:01 - INFO - Selected 14 sentences
+2025-04-17 11:53:03 - INFO - Selected 7 sentences
+2025-04-17 11:53:03 - INFO - Selected 7 sentences
+2025-04-17 11:53:06 - INFO - Data written to static/data\news_analysis_20250417_115306.json
+2025-04-17 11:53:07 - INFO - Graphs saved: topic_entities_graph_20250417_115307.png, topic_distribution_pie_20250417_115307.png
+2025-04-17 11:53:07 - INFO - News update completed successfully
+2025-04-17 11:53:07 - INFO - Updated static\data\latest.json with latest data
+2025-04-17 12:03:04 - INFO - 127.0.0.1 - - [17/Apr/2025 12:03:04] "GET /static/data/latest.json?t=1744871583900 HTTP/1.1" 200 -
+2025-04-17 12:08:07 - INFO - Starting scheduled news update...
+2025-04-17 12:08:07 - INFO - Starting news update: 2025-04-17 12:08:07 PM
+2025-04-17 12:08:08 - INFO - Fetched 30 articles from NewsAPI
+2025-04-17 12:08:08 - INFO - Scraping 122 URLs
+2025-04-17 12:08:08 - ERROR - Error scraping https://www.yourstory.com: 403 Client Error: Forbidden for url: https://www.yourstory.com/
+2025-04-17 12:08:08 - INFO - Scraped 13898 chars from https://www.digit.in
+2025-04-17 12:08:08 - INFO - Scraped 5050 chars from https://www.wired.com
+2025-04-17 12:08:09 - INFO - Scraped 10897 chars from https://www.mashable.com
+2025-04-17 12:08:09 - INFO - Scraped 10080 chars from https://www.thehindubusinessline.com
+2025-04-17 12:08:09 - INFO - Scraped 7279 chars from https://www.livemint.com
+2025-04-17 12:08:09 - INFO - Scraped 5214 chars from https://www.inc42.com
+2025-04-17 12:08:09 - INFO - Scraped 50000 chars from https://www.techradar.com/in
+2025-04-17 12:08:09 - INFO - Scraped 3594 chars from https://www.forbes.com
+2025-04-17 12:08:10 - ERROR - Error scraping https://www.bloomberg.com: 403 Client Error: Forbidden for url: https://www.bloomberg.com/
+2025-04-17 12:08:10 - INFO - Scraped 956 chars from https://www.practo.com/healthfeed
+2025-04-17 12:08:10 - INFO - Scraped 50000 chars from https://www.businessinsider.com
+2025-04-17 12:08:10 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 12:08:10 - ERROR - Error scraping https://www.curofy.com: 502 Server Error: Bad Gateway for url: https://www.curofy.com/
+2025-04-17 12:08:10 - INFO - Scraped 23440 chars from https://www.gizmodo.com
+2025-04-17 12:08:11 - INFO - Scraped 50000 chars from https://www.moneycontrol.com
+2025-04-17 12:08:11 - INFO - Scraped 20081 chars from https://www.indiatoday.in/health
+2025-04-17 12:08:11 - INFO - Scraped 13282 chars from https://www.ft.com
+2025-04-17 12:08:11 - INFO - Scraped 8640 chars from https://www.techcrunch.com
+2025-04-17 12:08:11 - INFO - Scraped 8058 chars from https://www.timesofindia.indiatimes.com/life-style/health-fitness
+2025-04-17 12:08:11 - INFO - Scraped 2841 chars from https://www.medlineplus.gov
+2025-04-17 12:08:12 - INFO - Scraped 911 chars from https://www.mayoclinic.org
+2025-04-17 12:08:12 - INFO - Scraped 5732 chars from https://www.thehindu.com/education
+2025-04-17 12:08:12 - INFO - Scraped 0 chars from https://www.edsurge.com
+2025-04-17 12:08:12 - INFO - Scraped 7454 chars from https://www.webmd.com
+2025-04-17 12:08:12 - INFO - Scraped 1024 chars from https://www.healthline.com
+2025-04-17 12:08:12 - INFO - Scraped 4238 chars from https://www.medicalnewstoday.com
+2025-04-17 12:08:12 - INFO - Scraped 7274 chars from https://www.sportstar.thehindu.com
+2025-04-17 12:08:12 - INFO - Scraped 2088 chars from https://www.timesofindia.indiatimes.com/education
+2025-04-17 12:08:13 - INFO - Scraped 3067 chars from https://www.thehindu.com/sport
+2025-04-17 12:08:13 - INFO - Scraped 15405 chars from https://www.indiatoday.in/education-today
+2025-04-17 12:08:13 - INFO - Scraped 11872 chars from https://www.indiatoday.in/sports
+2025-04-17 12:08:13 - INFO - Scraped 1008 chars from https://www.timesofindia.indiatimes.com/sports
+2025-04-17 12:08:13 - INFO - Scraped 16139 chars from https://www.insidehighered.com
+2025-04-17 12:08:13 - INFO - Scraped 10861 chars from https://www.bbc.com/sport
+2025-04-17 12:08:14 - ERROR - Error scraping https://www.bleacherreport.com: 403 Client Error: Forbidden for url: https://bleacherreport.com/
+2025-04-17 12:08:14 - INFO - Scraped 2075 chars from https://www.edweek.org
+2025-04-17 12:08:14 - INFO - Scraped 12943 chars from https://www.skysports.com
+2025-04-17 12:08:14 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 12:08:14 - INFO - Scraped 5342 chars from https://www.thehindu.com/sci-tech
+2025-04-17 12:08:14 - INFO - Scraped 29739 chars from https://www.espn.com
+2025-04-17 12:08:15 - INFO - Scraped 53 chars from https://www.edtechmagazine.com
+2025-04-17 12:08:15 - INFO - Scraped 13198 chars from https://www.si.com
+2025-04-17 12:08:15 - INFO - Scraped 17233 chars from https://www.scientificamerican.com
+2025-04-17 12:08:15 - INFO - Scraped 404 chars from https://www.timesofindia.indiatimes.com/home/science
+2025-04-17 12:08:15 - INFO - Scraped 12656 chars from https://www.indiatoday.in/movies
+2025-04-17 12:08:15 - INFO - Scraped 19036 chars from https://www.newscientist.com
+2025-04-17 12:08:15 - INFO - Scraped 19532 chars from https://www.filmfare.com
+2025-04-17 12:08:15 - INFO - Scraped 4414 chars from https://www.bollywoodhungama.com
+2025-04-17 12:08:16 - INFO - Scraped 2172 chars from https://www.nationalgeographic.com/science
+2025-04-17 12:08:16 - INFO - Scraped 12631 chars from https://www.billboard.com
+2025-04-17 12:08:16 - INFO - Scraped 50000 chars from https://www.pinkvilla.com
+2025-04-17 12:08:16 - INFO - Scraped 18688 chars from https://www.rollingstone.com
+2025-04-17 12:08:16 - INFO - Scraped 11644 chars from https://www.sciencenews.org
+2025-04-17 12:08:17 - INFO - Scraped 13646 chars from https://www.hollywoodreporter.com
+2025-04-17 12:08:17 - INFO - Scraped 50000 chars from https://www.variety.com
+2025-04-17 12:08:17 - INFO - Scraped 21119 chars from https://www.nature.com
+2025-04-17 12:08:17 - INFO - Scraped 8933 chars from https://www.cntraveler.com
+2025-04-17 12:08:17 - INFO - Scraped 11317 chars from https://www.deadline.com
+2025-04-17 12:08:18 - INFO - Scraped 6048 chars from https://www.thrillophilia.com/blog
+2025-04-17 12:08:18 - INFO - Scraped 9260 chars from https://www.perniaspopupshop.com
+2025-04-17 12:08:18 - INFO - Scraped 130 chars from https://www.outlookindia.com/outlooktraveller
+2025-04-17 12:08:18 - INFO - Scraped 19594 chars from https://www.femina.in
+2025-04-17 12:08:18 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 12:08:18 - INFO - Scraped 12749 chars from https://www.travelandleisure.com
+2025-04-17 12:08:18 - INFO - Scraped 6919 chars from https://www.lonelyplanet.com
+2025-04-17 12:08:18 - INFO - Scraped 7526 chars from https://www.harpersbazaar.com
+2025-04-17 12:08:19 - INFO - Scraped 1569 chars from https://www.nationalgeographic.com/travel
+2025-04-17 12:08:19 - INFO - Scraped 5923 chars from https://www.gq.com
+2025-04-17 12:08:19 - INFO - Scraped 5882 chars from https://www.elle.com
+2025-04-17 12:08:19 - INFO - Scraped 9247 chars from https://www.vogue.com
+2025-04-17 12:08:19 - INFO - Scraped 3615 chars from https://www.sanjeevkapoor.com
+2025-04-17 12:08:19 - INFO - Scraped 1315 chars from https://www.archanaskitchen.com
+2025-04-17 12:08:19 - INFO - Scraped 6893 chars from https://www.proptiger.com
+2025-04-17 12:08:19 - INFO - Scraped 3152 chars from https://www.hebbarskitchen.com
+2025-04-17 12:08:19 - INFO - Scraped 9433 chars from https://www.allrecipes.com
+2025-04-17 12:08:20 - INFO - Scraped 3545 chars from https://www.seriouseats.com
+2025-04-17 12:08:20 - INFO - Scraped 9452 chars from https://www.autocarindia.com
+2025-04-17 12:08:20 - INFO - Scraped 0 chars from https://www.gaadiwaadi.com
+2025-04-17 12:08:20 - INFO - Scraped 2946 chars from https://www.commonfloor.com
+2025-04-17 12:08:20 - INFO - Scraped 21126 chars from https://www.magicbricks.com
+2025-04-17 12:08:20 - INFO - Scraped 2100 chars from https://www.curbed.com
+2025-04-17 12:08:21 - INFO - Scraped 15765 chars from https://www.traveltriangle.com
+2025-04-17 12:08:21 - INFO - Scraped 12078 chars from https://www.overdrive.in
+2025-04-17 12:08:21 - INFO - Scraped 7422 chars from https://www.cardekho.com
+2025-04-17 12:08:21 - ERROR - Error scraping https://www.housing.com: 403 Client Error: Forbidden for url: https://housing.com:443/
+2025-04-17 12:08:21 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 12:08:21 - INFO - Scraped 4882 chars from https://www.thehindu.com/sci-tech/energy-and-environment
+2025-04-17 12:08:21 - INFO - Scraped 416 chars from https://www.timesofindia.indiatimes.com/home/environment
+2025-04-17 12:08:21 - INFO - Scraped 11549 chars from https://www.theguardian.com/environment
+2025-04-17 12:08:21 - INFO - Scraped 4241 chars from https://www.treehugger.com
+2025-04-17 12:08:21 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 12:08:22 - INFO - Scraped 3673 chars from https://www.autocar.co.uk
+2025-04-17 12:08:22 - INFO - Scraped 5433 chars from https://www.timesofindia.indiatimes.com/life-style
+2025-04-17 12:08:22 - INFO - Scraped 5051 chars from https://www.idiva.com
+2025-04-17 12:08:22 - INFO - Scraped 9988 chars from https://www.scientificamerican.com/environment
+2025-04-17 12:08:22 - INFO - Scraped 19594 chars from https://www.femina.in
+2025-04-17 12:08:22 - INFO - Scraped 5428 chars from https://www.self.com
+2025-04-17 12:08:22 - INFO - Scraped 409 chars from https://www.refinery29.com
+2025-04-17 12:08:22 - INFO - Scraped 3496 chars from https://www.wellandgood.com
+2025-04-17 12:08:23 - INFO - Scraped 42733 chars from https://www.ecowatch.com
+2025-04-17 12:08:23 - INFO - Scraped 1996 chars from https://www.nationalgeographic.com/environment
+2025-04-17 12:08:23 - INFO - Scraped 23830 chars from https://www.mindbodygreen.com
+2025-04-17 12:08:23 - INFO - Scraped 1177 chars from https://www.indiandefensenews.in
+2025-04-17 12:08:23 - INFO - Scraped 25460 chars from https://www.bbc.com/news
+2025-04-17 12:08:23 - INFO - Scraped 922 chars from https://www.globalsecurity.org
+2025-04-17 12:08:24 - INFO - Scraped 17035 chars from https://www.spsmai.com
+2025-04-17 12:08:24 - INFO - Scraped 1957 chars from https://www.bharat-rakshak.com
+2025-04-17 12:08:24 - INFO - Scraped 13784 chars from https://www.defenseone.com
+2025-04-17 12:08:24 - INFO - Scraped 2971 chars from https://www.janes.com
+2025-04-17 12:08:24 - INFO - Scraped 34665 chars from https://www.cnn.com
+2025-04-17 12:08:25 - INFO - Scraped 8479 chars from https://www.thehindu.com
+2025-04-17 12:08:25 - INFO - Scraped 25072 chars from https://www.militarytimes.com
+2025-04-17 12:08:25 - INFO - Scraped 50000 chars from https://www.defenceaviationpost.com
+2025-04-17 12:08:25 - INFO - Scraped 2623 chars from https://www.timesofindia.indiatimes.com
+2025-04-17 12:08:25 - INFO - Scraped 50000 chars from https://www.hindustantimes.com
+2025-04-17 12:08:25 - INFO - Scraped 16314 chars from https://www.indiatoday.in
+2025-04-17 12:08:26 - INFO - Scraped 11617 chars from https://www.nytimes.com
+2025-04-17 12:08:26 - INFO - Scraped 13530 chars from https://www.news18.com
+2025-04-17 12:08:26 - INFO - Scraped 19061 chars from https://www.defensenews.com
+2025-04-17 12:08:26 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 12:11:50 - INFO - Started background news updater thread
+2025-04-17 12:11:51 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+2025-04-17 12:11:51 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 12:12:20 - INFO - Starting scheduled news update...
+2025-04-17 12:12:20 - INFO - Starting news update: 2025-04-17 12:12:20 PM
+2025-04-17 12:12:22 - INFO - Fetched 30 articles from NewsAPI
+2025-04-17 12:12:22 - INFO - Scraping 122 URLs
+2025-04-17 12:12:22 - ERROR - Error scraping https://www.yourstory.com: 403 Client Error: Forbidden for url: https://www.yourstory.com/
+2025-04-17 12:12:22 - INFO - Scraped 8830 chars from https://www.theverge.com
+2025-04-17 12:12:23 - INFO - Scraped 13899 chars from https://www.digit.in
+2025-04-17 12:12:23 - INFO - Scraped 7381 chars from https://www.livemint.com
+2025-04-17 12:12:23 - INFO - Scraped 5050 chars from https://www.wired.com
+2025-04-17 12:12:23 - INFO - Scraped 10897 chars from https://www.mashable.com
+2025-04-17 12:12:23 - INFO - Scraped 10088 chars from https://www.thehindubusinessline.com
+2025-04-17 12:12:24 - INFO - Scraped 5214 chars from https://www.inc42.com
+2025-04-17 12:12:24 - ERROR - Error scraping https://www.bloomberg.com: 403 Client Error: Forbidden for url: https://www.bloomberg.com/
+2025-04-17 12:12:24 - INFO - Scraped 50000 chars from https://www.techradar.com/in
+2025-04-17 12:12:24 - INFO - Scraped 50000 chars from https://www.businessinsider.com
+2025-04-17 12:12:24 - INFO - Scraped 3594 chars from https://www.forbes.com
+2025-04-17 12:12:24 - INFO - Scraped 1035 chars from https://www.practo.com/healthfeed
+2025-04-17 12:12:25 - INFO - Scraped 23440 chars from https://www.gizmodo.com
+2025-04-17 12:12:25 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 12:12:25 - INFO - Scraped 2841 chars from https://www.medlineplus.gov
+2025-04-17 12:12:25 - INFO - Scraped 20081 chars from https://www.indiatoday.in/health
+2025-04-17 12:12:26 - INFO - Scraped 13268 chars from https://www.ft.com
+2025-04-17 12:12:26 - INFO - Scraped 50000 chars from https://www.moneycontrol.com
+2025-04-17 12:12:27 - INFO - Scraped 8640 chars from https://www.techcrunch.com
+2025-04-17 12:12:27 - INFO - Scraped 8058 chars from https://www.timesofindia.indiatimes.com/life-style/health-fitness
+2025-04-17 12:12:27 - INFO - Scraped 4238 chars from https://www.medicalnewstoday.com
+2025-04-17 12:12:27 - INFO - Scraped 1024 chars from https://www.healthline.com
+2025-04-17 12:12:27 - INFO - Scraped 5732 chars from https://www.thehindu.com/education
+2025-04-17 12:12:27 - INFO - Scraped 911 chars from https://www.mayoclinic.org
+2025-04-17 12:12:27 - INFO - Scraped 2088 chars from https://www.timesofindia.indiatimes.com/education
+2025-04-17 12:12:28 - INFO - Scraped 0 chars from https://www.edsurge.com
+2025-04-17 12:12:28 - INFO - Scraped 7454 chars from https://www.webmd.com
+2025-04-17 12:12:28 - INFO - Scraped 2075 chars from https://www.edweek.org
+2025-04-17 12:12:28 - INFO - Scraped 15365 chars from https://www.indiatoday.in/education-today
+2025-04-17 12:12:28 - INFO - Scraped 7274 chars from https://www.sportstar.thehindu.com
+2025-04-17 12:12:28 - INFO - Scraped 11872 chars from https://www.indiatoday.in/sports
+2025-04-17 12:12:28 - INFO - Scraped 3067 chars from https://www.thehindu.com/sport
+2025-04-17 12:12:29 - INFO - Scraped 13198 chars from https://www.si.com
+2025-04-17 12:12:30 - INFO - Scraped 12961 chars from https://www.skysports.com
+2025-04-17 12:12:30 - INFO - Scraped 10861 chars from https://www.bbc.com/sport
+2025-04-17 12:12:30 - INFO - Scraped 1008 chars from https://www.timesofindia.indiatimes.com/sports
+2025-04-17 12:12:30 - INFO - Scraped 29739 chars from https://www.espn.com
+2025-04-17 12:12:30 - ERROR - Error scraping https://www.bleacherreport.com: 403 Client Error: Forbidden for url: https://bleacherreport.com/
+2025-04-17 12:12:30 - INFO - Scraped 16139 chars from https://www.insidehighered.com
+2025-04-17 12:12:30 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 12:12:30 - INFO - Scraped 53 chars from https://www.edtechmagazine.com
+2025-04-17 12:12:30 - INFO - Scraped 5342 chars from https://www.thehindu.com/sci-tech
+2025-04-17 12:12:31 - INFO - Scraped 404 chars from https://www.timesofindia.indiatimes.com/home/science
+2025-04-17 12:12:31 - INFO - Scraped 17233 chars from https://www.scientificamerican.com
+2025-04-17 12:12:31 - INFO - Scraped 50000 chars from https://www.pinkvilla.com
+2025-04-17 12:12:31 - INFO - Scraped 19532 chars from https://www.filmfare.com
+2025-04-17 12:12:31 - INFO - Scraped 22278 chars from https://www.indiatoday.in/movies
+2025-04-17 12:12:32 - INFO - Scraped 12631 chars from https://www.billboard.com
+2025-04-17 12:12:32 - INFO - Scraped 2172 chars from https://www.nationalgeographic.com/science
+2025-04-17 12:12:32 - INFO - Scraped 11607 chars from https://www.sciencenews.org
+2025-04-17 12:12:32 - INFO - Scraped 18688 chars from https://www.rollingstone.com
+2025-04-17 12:12:32 - INFO - Scraped 19036 chars from https://www.newscientist.com
+2025-04-17 12:12:33 - INFO - Scraped 4428 chars from https://www.bollywoodhungama.com
+2025-04-17 12:12:33 - INFO - Scraped 13646 chars from https://www.hollywoodreporter.com
+2025-04-17 12:12:33 - INFO - Scraped 11327 chars from https://www.deadline.com
+2025-04-17 12:12:33 - INFO - Scraped 130 chars from https://www.outlookindia.com/outlooktraveller
+2025-04-17 12:12:34 - INFO - Scraped 8933 chars from https://www.cntraveler.com
+2025-04-17 12:12:34 - INFO - Scraped 1569 chars from https://www.nationalgeographic.com/travel
+2025-04-17 12:12:35 - INFO - Scraped 50000 chars from https://www.variety.com
+2025-04-17 12:12:35 - INFO - Scraped 9260 chars from https://www.perniaspopupshop.com
+2025-04-17 12:12:35 - INFO - Scraped 6048 chars from https://www.thrillophilia.com/blog
+2025-04-17 12:12:35 - INFO - Scraped 6919 chars from https://www.lonelyplanet.com
+2025-04-17 12:12:35 - INFO - Scraped 19604 chars from https://www.femina.in
+2025-04-17 12:12:35 - INFO - Scraped 7526 chars from https://www.harpersbazaar.com
+2025-04-17 12:12:35 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 12:12:35 - INFO - Scraped 5882 chars from https://www.elle.com
+2025-04-17 12:12:35 - INFO - Scraped 12749 chars from https://www.travelandleisure.com
+2025-04-17 12:12:35 - INFO - Scraped 3615 chars from https://www.sanjeevkapoor.com
+2025-04-17 12:12:36 - INFO - Scraped 1315 chars from https://www.archanaskitchen.com
+2025-04-17 12:12:36 - INFO - Scraped 9247 chars from https://www.vogue.com
+2025-04-17 12:12:36 - INFO - Scraped 5923 chars from https://www.gq.com
+2025-04-17 12:12:36 - INFO - Scraped 21119 chars from https://www.nature.com
+2025-04-17 12:12:37 - INFO - Scraped 6893 chars from https://www.proptiger.com
+2025-04-17 12:12:37 - INFO - Scraped 3545 chars from https://www.seriouseats.com
+2025-04-17 12:12:37 - ERROR - Error scraping https://www.housing.com: 403 Client Error: Forbidden for url: https://housing.com:443/
+2025-04-17 12:12:37 - INFO - Scraped 15765 chars from https://www.traveltriangle.com
+2025-04-17 12:12:37 - INFO - Scraped 3152 chars from https://www.hebbarskitchen.com
+2025-04-17 12:12:37 - INFO - Scraped 2946 chars from https://www.commonfloor.com
+2025-04-17 12:12:38 - INFO - Scraped 9452 chars from https://www.autocarindia.com
+2025-04-17 12:12:38 - INFO - Scraped 21126 chars from https://www.magicbricks.com
+2025-04-17 12:12:38 - INFO - Scraped 12078 chars from https://www.overdrive.in
+2025-04-17 12:12:38 - INFO - Scraped 0 chars from https://www.gaadiwaadi.com
+2025-04-17 12:12:39 - INFO - Scraped 9433 chars from https://www.allrecipes.com
+2025-04-17 12:12:39 - INFO - Scraped 2100 chars from https://www.curbed.com
+2025-04-17 12:12:39 - INFO - Scraped 7422 chars from https://www.cardekho.com
+2025-04-17 12:12:39 - INFO - Scraped 416 chars from https://www.timesofindia.indiatimes.com/home/environment
+2025-04-17 12:12:39 - ERROR - Error scraping https://www.curofy.com: HTTPSConnectionPool(host='www.curofy.com', port=443): Read timed out. (read timeout=15)
+2025-04-17 12:12:39 - INFO - Scraped 4882 chars from https://www.thehindu.com/sci-tech/energy-and-environment
+2025-04-17 12:12:39 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 12:12:39 - INFO - Scraped 9988 chars from https://www.scientificamerican.com/environment
+2025-04-17 12:12:39 - INFO - Scraped 1648 chars from https://www.vogue.in
+2025-04-17 12:12:40 - INFO - Scraped 5051 chars from https://www.idiva.com
+2025-04-17 12:12:40 - INFO - Scraped 11549 chars from https://www.theguardian.com/environment
+2025-04-17 12:12:40 - INFO - Scraped 19604 chars from https://www.femina.in
+2025-04-17 12:12:40 - INFO - Scraped 5433 chars from https://www.timesofindia.indiatimes.com/life-style
+2025-04-17 12:12:40 - INFO - Scraped 3673 chars from https://www.autocar.co.uk
+2025-04-17 12:12:40 - INFO - Scraped 1996 chars from https://www.nationalgeographic.com/environment
+2025-04-17 12:12:40 - INFO - Scraped 5428 chars from https://www.self.com
+2025-04-17 12:12:40 - INFO - Scraped 42733 chars from https://www.ecowatch.com
+2025-04-17 12:12:41 - INFO - Scraped 23830 chars from https://www.mindbodygreen.com
+2025-04-17 12:12:41 - INFO - Scraped 409 chars from https://www.refinery29.com
+2025-04-17 12:12:41 - INFO - Scraped 4241 chars from https://www.treehugger.com
+2025-04-17 12:12:41 - INFO - Scraped 3496 chars from https://www.wellandgood.com
+2025-04-17 12:12:42 - INFO - Scraped 25496 chars from https://www.bbc.com/news
+2025-04-17 12:12:42 - INFO - Scraped 1177 chars from https://www.indiandefensenews.in
+2025-04-17 12:12:42 - INFO - Scraped 922 chars from https://www.globalsecurity.org
+2025-04-17 12:12:42 - INFO - Scraped 17035 chars from https://www.spsmai.com
+2025-04-17 12:12:42 - INFO - Scraped 8487 chars from https://www.thehindu.com
+2025-04-17 12:12:42 - INFO - Scraped 1957 chars from https://www.bharat-rakshak.com
+2025-04-17 12:12:42 - INFO - Scraped 2971 chars from https://www.janes.com
+2025-04-17 12:12:43 - INFO - Scraped 50000 chars from https://www.defenceaviationpost.com
+2025-04-17 12:12:43 - INFO - Scraped 50000 chars from https://www.hindustantimes.com
+2025-04-17 12:12:43 - INFO - Scraped 13784 chars from https://www.defenseone.com
+2025-04-17 12:12:43 - INFO - Scraped 25072 chars from https://www.militarytimes.com
+2025-04-17 12:12:43 - INFO - Scraped 21442 chars from https://www.defensenews.com
+2025-04-17 12:12:44 - INFO - Scraped 2631 chars from https://www.timesofindia.indiatimes.com
+2025-04-17 12:12:44 - INFO - Scraped 16314 chars from https://www.indiatoday.in
+2025-04-17 12:12:44 - INFO - Scraped 34665 chars from https://www.cnn.com
+2025-04-17 12:12:44 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 12:12:45 - INFO - Scraped 11617 chars from https://www.nytimes.com
+2025-04-17 12:12:45 - INFO - Scraped 13557 chars from https://www.news18.com
+2025-04-17 12:12:45 - INFO - Scraped 114 URLs successfully
+2025-04-17 12:12:45 - INFO - Clustering 4548 sentences into 20 clusters
+2025-04-17 12:12:49 - INFO - Selected 14 sentences
+2025-04-17 12:12:50 - INFO - Selected 14 sentences
+2025-04-17 12:12:54 - INFO - Selected 14 sentences
+2025-04-17 12:12:55 - INFO - Selected 14 sentences
+2025-04-17 12:13:01 - INFO - Selected 14 sentences
+2025-04-17 12:13:08 - INFO - Selected 14 sentences
+2025-04-17 12:13:13 - INFO - Selected 14 sentences
+2025-04-17 12:13:20 - INFO - Selected 14 sentences
+2025-04-17 12:13:22 - INFO - 127.0.0.1 - - [17/Apr/2025 12:13:22] "GET / HTTP/1.1" 200 -
+2025-04-17 12:13:22 - INFO - 127.0.0.1 - - [17/Apr/2025 12:13:22] "GET /static/data/latest.json?t=1744872202673 HTTP/1.1" 200 -
+2025-04-17 12:13:23 - INFO - Selected 14 sentences
+2025-04-17 12:13:27 - INFO - Selected 14 sentences
+2025-04-17 12:13:30 - INFO - Selected 14 sentences
+2025-04-17 12:13:31 - INFO - Selected 14 sentences
+2025-04-17 12:13:34 - INFO - Selected 14 sentences
+2025-04-17 12:13:34 - INFO - Selected 14 sentences
+2025-04-17 12:13:40 - INFO - Selected 14 sentences
+2025-04-17 12:13:47 - INFO - Selected 14 sentences
+2025-04-17 12:13:56 - INFO - Selected 14 sentences
+2025-04-17 12:14:02 - INFO - Selected 14 sentences
+2025-04-17 12:14:06 - INFO - Selected 14 sentences
+2025-04-17 12:14:09 - INFO - Selected 14 sentences
+2025-04-17 12:14:14 - INFO - Selected 14 sentences
+2025-04-17 12:14:18 - INFO - Selected 14 sentences
+2025-04-17 12:14:22 - INFO - Selected 14 sentences
+2025-04-17 12:14:24 - INFO - Selected 14 sentences
+2025-04-17 12:14:28 - INFO - Selected 14 sentences
+2025-04-17 12:14:29 - INFO - 127.0.0.1 - - [17/Apr/2025 12:14:29] "GET /static/data/latest.json?t=1744872268886 HTTP/1.1" 200 -
+2025-04-17 12:14:34 - INFO - Selected 14 sentences
+2025-04-17 12:14:38 - INFO - Selected 14 sentences
+2025-04-17 12:14:46 - INFO - Selected 14 sentences
+2025-04-17 12:14:49 - INFO - Selected 6 sentences
+2025-04-17 12:14:49 - INFO - Selected 6 sentences
+2025-04-17 12:14:53 - INFO - Selected 14 sentences
+2025-04-17 12:15:00 - INFO - Selected 14 sentences
+2025-04-17 12:15:03 - INFO - Selected 6 sentences
+2025-04-17 12:15:04 - INFO - Selected 6 sentences
+2025-04-17 12:15:07 - INFO - Selected 14 sentences
+2025-04-17 12:15:09 - INFO - Selected 14 sentences
+2025-04-17 12:15:17 - INFO - Selected 14 sentences
+2025-04-17 12:15:26 - INFO - Selected 14 sentences
+2025-04-17 12:15:30 - INFO - Selected 14 sentences
+2025-04-17 12:15:40 - INFO - Selected 14 sentences
+2025-04-17 12:15:42 - INFO - Data written to static/data\news_analysis_20250417_121542.json
+2025-04-17 12:15:43 - INFO - Graphs saved: topic_entities_graph_20250417_121542.png, topic_distribution_pie_20250417_121542.png
+2025-04-17 12:15:43 - INFO - News update completed successfully
+2025-04-17 12:15:43 - INFO - Updated static\data\latest.json with latest data
+2025-04-17 12:20:23 - INFO - 127.0.0.1 - - [17/Apr/2025 12:20:23] "GET / HTTP/1.1" 200 -
+2025-04-17 12:20:24 - INFO - 127.0.0.1 - - [17/Apr/2025 12:20:24] "GET /static/data/latest.json?t=1744872624104 HTTP/1.1" 200 -
+2025-04-17 12:30:43 - INFO - Starting scheduled news update...
+2025-04-17 12:30:43 - INFO - Starting news update: 2025-04-17 12:30:43 PM
+2025-04-17 12:30:43 - INFO - Fetched 30 articles from NewsAPI
+2025-04-17 12:30:43 - INFO - Scraping 122 URLs
+2025-04-17 12:30:43 - ERROR - Error scraping https://www.yourstory.com: 403 Client Error: Forbidden for url: https://www.yourstory.com/
+2025-04-17 12:30:43 - INFO - Scraped 13897 chars from https://www.digit.in
+2025-04-17 12:30:44 - INFO - Scraped 8829 chars from https://www.theverge.com
+2025-04-17 12:30:44 - INFO - Scraped 5050 chars from https://www.wired.com
+2025-04-17 12:30:44 - INFO - Scraped 7370 chars from https://www.livemint.com
+2025-04-17 12:30:44 - INFO - Scraped 5215 chars from https://www.inc42.com
+2025-04-17 12:30:44 - INFO - Scraped 10897 chars from https://www.mashable.com
+2025-04-17 12:30:44 - INFO - Scraped 50000 chars from https://www.businessinsider.com
+2025-04-17 12:30:45 - INFO - Scraped 50000 chars from https://www.techradar.com/in
+2025-04-17 12:30:45 - INFO - Scraped 50000 chars from https://www.moneycontrol.com
+2025-04-17 12:30:45 - INFO - Scraped 3594 chars from https://www.forbes.com
+2025-04-17 12:30:45 - INFO - Scraped 13191 chars from https://www.ft.com
+2025-04-17 12:30:45 - ERROR - Error scraping https://www.bloomberg.com: 403 Client Error: Forbidden for url: https://www.bloomberg.com/
+2025-04-17 12:30:45 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 12:30:45 - INFO - Scraped 5801 chars from https://www.indiatoday.in/health
+2025-04-17 12:30:45 - INFO - Scraped 913 chars from https://www.practo.com/healthfeed
+2025-04-17 12:30:45 - INFO - Scraped 911 chars from https://www.mayoclinic.org
+2025-04-17 12:30:45 - INFO - Scraped 8640 chars from https://www.techcrunch.com
+2025-04-17 12:30:46 - INFO - Scraped 5732 chars from https://www.thehindu.com/education
+2025-04-17 12:30:46 - INFO - Scraped 8123 chars from https://www.timesofindia.indiatimes.com/life-style/health-fitness
+2025-04-17 12:30:46 - INFO - Scraped 2841 chars from https://www.medlineplus.gov
+2025-04-17 12:30:46 - INFO - Scraped 7454 chars from https://www.webmd.com
+2025-04-17 12:30:46 - INFO - Scraped 0 chars from https://www.edsurge.com
+2025-04-17 12:30:46 - INFO - Scraped 15365 chars from https://www.indiatoday.in/education-today
+2025-04-17 12:30:46 - INFO - Scraped 4238 chars from https://www.medicalnewstoday.com
+2025-04-17 12:30:46 - INFO - Scraped 1024 chars from https://www.healthline.com
+2025-04-17 12:30:46 - INFO - Scraped 7359 chars from https://www.sportstar.thehindu.com
+2025-04-17 12:30:46 - INFO - Scraped 11872 chars from https://www.indiatoday.in/sports
+2025-04-17 12:30:46 - INFO - Scraped 23420 chars from https://www.gizmodo.com
+2025-04-17 12:30:47 - INFO - Scraped 3067 chars from https://www.thehindu.com/sport
+2025-04-17 12:30:47 - INFO - Scraped 2029 chars from https://www.timesofindia.indiatimes.com/education
+2025-04-17 12:30:47 - INFO - Scraped 1008 chars from https://www.timesofindia.indiatimes.com/sports
+2025-04-17 12:30:47 - INFO - Scraped 12961 chars from https://www.skysports.com
+2025-04-17 12:30:47 - INFO - Scraped 16139 chars from https://www.insidehighered.com
+2025-04-17 12:30:47 - INFO - Scraped 10837 chars from https://www.bbc.com/sport
+2025-04-17 12:30:47 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 12:30:47 - ERROR - Error scraping https://www.bleacherreport.com: 403 Client Error: Forbidden for url: https://bleacherreport.com/
+2025-04-17 12:30:48 - INFO - Scraped 2075 chars from https://www.edweek.org
+2025-04-17 12:30:48 - INFO - Scraped 5342 chars from https://www.thehindu.com/sci-tech
+2025-04-17 12:30:48 - INFO - Scraped 404 chars from https://www.timesofindia.indiatimes.com/home/science
+2025-04-17 12:30:48 - INFO - Scraped 29721 chars from https://www.espn.com
+2025-04-17 12:30:48 - INFO - Scraped 13102 chars from https://www.indiatoday.in/movies
+2025-04-17 12:30:49 - INFO - Scraped 13200 chars from https://www.si.com
+2025-04-17 12:30:49 - INFO - Scraped 17233 chars from https://www.scientificamerican.com
+2025-04-17 12:30:49 - INFO - Scraped 2172 chars from https://www.nationalgeographic.com/science
+2025-04-17 12:30:49 - INFO - Scraped 53 chars from https://www.edtechmagazine.com
+2025-04-17 12:30:49 - INFO - Scraped 4428 chars from https://www.bollywoodhungama.com
+2025-04-17 12:30:49 - INFO - Scraped 50000 chars from https://www.pinkvilla.com
+2025-04-17 12:30:49 - INFO - Scraped 19532 chars from https://www.filmfare.com
+2025-04-17 12:30:49 - INFO - Scraped 12631 chars from https://www.billboard.com
+2025-04-17 12:30:49 - INFO - Scraped 18688 chars from https://www.rollingstone.com
+2025-04-17 12:30:49 - INFO - Scraped 19031 chars from https://www.newscientist.com
+2025-04-17 12:30:50 - INFO - Scraped 13646 chars from https://www.hollywoodreporter.com
+2025-04-17 12:30:50 - INFO - Scraped 21119 chars from https://www.nature.com
+2025-04-17 12:30:50 - INFO - Scraped 8933 chars from https://www.cntraveler.com
+2025-04-17 12:30:50 - INFO - Scraped 6048 chars from https://www.thrillophilia.com/blog
+2025-04-17 12:30:50 - INFO - Scraped 12749 chars from https://www.travelandleisure.com
+2025-04-17 12:30:50 - INFO - Scraped 11333 chars from https://www.deadline.com
+2025-04-17 12:30:51 - INFO - Scraped 130 chars from https://www.outlookindia.com/outlooktraveller
+2025-04-17 12:30:51 - INFO - Scraped 50000 chars from https://www.variety.com
+2025-04-17 12:30:51 - INFO - Scraped 9260 chars from https://www.perniaspopupshop.com
+2025-04-17 12:30:51 - INFO - Scraped 11644 chars from https://www.sciencenews.org
+2025-04-17 12:30:51 - INFO - Scraped 19604 chars from https://www.femina.in
+2025-04-17 12:30:51 - INFO - Scraped 1630 chars from https://www.vogue.in
+2025-04-17 12:30:51 - INFO - Scraped 5923 chars from https://www.gq.com
+2025-04-17 12:30:51 - INFO - Scraped 5882 chars from https://www.elle.com
+2025-04-17 12:30:51 - INFO - Scraped 7526 chars from https://www.harpersbazaar.com
+2025-04-17 12:30:51 - INFO - Scraped 1569 chars from https://www.nationalgeographic.com/travel
+2025-04-17 12:30:51 - INFO - Scraped 9247 chars from https://www.vogue.com
+2025-04-17 12:30:51 - INFO - Scraped 1315 chars from https://www.archanaskitchen.com
+2025-04-17 12:30:51 - INFO - Scraped 3152 chars from https://www.hebbarskitchen.com
+2025-04-17 12:30:51 - INFO - Scraped 6927 chars from https://www.lonelyplanet.com
+2025-04-17 12:30:51 - INFO - Scraped 3615 chars from https://www.sanjeevkapoor.com
+2025-04-17 12:30:52 - INFO - Scraped 6893 chars from https://www.proptiger.com
+2025-04-17 12:30:52 - INFO - Scraped 3545 chars from https://www.seriouseats.com
+2025-04-17 12:30:52 - INFO - Scraped 2100 chars from https://www.curbed.com
+2025-04-17 12:30:52 - INFO - Scraped 9433 chars from https://www.allrecipes.com
+2025-04-17 12:30:52 - ERROR - Error scraping https://www.housing.com: 403 Client Error: Forbidden for url: https://housing.com:443/
+2025-04-17 12:30:52 - INFO - Scraped 9426 chars from https://www.autocarindia.com
+2025-04-17 12:30:52 - INFO - Scraped 21126 chars from https://www.magicbricks.com
+2025-04-17 12:30:52 - INFO - Scraped 2953 chars from https://www.commonfloor.com
+2025-04-17 12:30:52 - INFO - Scraped 7422 chars from https://www.cardekho.com
+2025-04-17 12:30:52 - INFO - Scraped 242 chars from https://www.downtoearth.org.in
+2025-04-17 12:30:52 - INFO - Scraped 0 chars from https://www.gaadiwaadi.com
+2025-04-17 12:30:53 - INFO - Scraped 12078 chars from https://www.overdrive.in
+2025-04-17 12:30:53 - INFO - Scraped 4882 chars from https://www.thehindu.com/sci-tech/energy-and-environment
+2025-04-17 12:30:53 - INFO - Scraped 416 chars from https://www.timesofindia.indiatimes.com/home/environment
+2025-04-17 12:30:53 - INFO - Scraped 15765 chars from https://www.traveltriangle.com
+2025-04-17 12:30:53 - INFO - Scraped 11511 chars from https://www.theguardian.com/environment
+2025-04-17 12:30:53 - INFO - Scraped 4241 chars from https://www.treehugger.com
+2025-04-17 12:30:53 - INFO - Scraped 1630 chars from https://www.vogue.in
+2025-04-17 12:30:53 - INFO - Scraped 19604 chars from https://www.femina.in
+2025-04-17 12:30:53 - INFO - Scraped 9988 chars from https://www.scientificamerican.com/environment
+2025-04-17 12:30:53 - INFO - Scraped 5051 chars from https://www.idiva.com
+2025-04-17 12:30:53 - INFO - Scraped 409 chars from https://www.refinery29.com
+2025-04-17 12:30:54 - INFO - Scraped 3496 chars from https://www.wellandgood.com
+2025-04-17 12:30:54 - INFO - Scraped 5428 chars from https://www.self.com
+2025-04-17 12:30:54 - INFO - Scraped 23830 chars from https://www.mindbodygreen.com
+2025-04-17 12:30:54 - INFO - Scraped 3673 chars from https://www.autocar.co.uk
+2025-04-17 12:30:54 - INFO - Scraped 1996 chars from https://www.nationalgeographic.com/environment
+2025-04-17 12:30:54 - INFO - Scraped 42733 chars from https://www.ecowatch.com
+2025-04-17 12:30:55 - INFO - Scraped 1177 chars from https://www.indiandefensenews.in
+2025-04-17 12:30:55 - INFO - Scraped 922 chars from https://www.globalsecurity.org
+2025-04-17 12:30:55 - INFO - Scraped 1957 chars from https://www.bharat-rakshak.com
+2025-04-17 12:30:55 - INFO - Scraped 5488 chars from https://www.timesofindia.indiatimes.com/life-style
+2025-04-17 12:30:55 - INFO - Scraped 17035 chars from https://www.spsmai.com
+2025-04-17 12:30:55 - INFO - Scraped 25675 chars from https://www.bbc.com/news
+2025-04-17 12:30:55 - INFO - Scraped 2971 chars from https://www.janes.com
+2025-04-17 12:30:56 - INFO - Scraped 13784 chars from https://www.defenseone.com
+2025-04-17 12:30:56 - INFO - Scraped 23908 chars from https://www.militarytimes.com
+2025-04-17 12:30:56 - INFO - Scraped 8446 chars from https://www.thehindu.com
+2025-04-17 12:30:56 - INFO - Scraped 50000 chars from https://www.hindustantimes.com
+2025-04-17 12:30:56 - INFO - Scraped 50000 chars from https://www.defenceaviationpost.com
+2025-04-17 12:30:56 - INFO - Scraped 16200 chars from https://www.indiatoday.in
+2025-04-17 12:30:57 - INFO - Scraped 2631 chars from https://www.timesofindia.indiatimes.com
+2025-04-17 12:30:57 - INFO - Scraped 13628 chars from https://www.news18.com
+2025-04-17 12:30:57 - INFO - Scraped 21442 chars from https://www.defensenews.com
+2025-04-17 12:30:57 - INFO - Scraped 50000 chars from https://www.economictimes.indiatimes.com
+2025-04-17 12:30:57 - INFO - Scraped 11617 chars from https://www.nytimes.com
+2025-04-17 12:30:57 - INFO - Scraped 34656 chars from https://www.cnn.com
+2025-04-17 12:31:00 - INFO - Scraped 2815 chars from https://www.curofy.com
